@@ -1,0 +1,7947 @@
+"Homework 1/intro.ml" 26 990 998 "Homework 1/intro.ml" 26 990 1008
+type(
+  int -> int
+)
+ident(
+  def income_tax "Homework 1/intro.ml" 26 990 990 --
+)
+"Homework 1/intro.ml" 26 990 1010 "Homework 1/intro.ml" 26 990 1016
+type(
+  int
+)
+ident(
+  def income "Homework 1/intro.ml" 26 990 1023 "Homework 1/intro.ml" 32 1262 1278
+)
+"Homework 1/intro.ml" 27 1032 1037 "Homework 1/intro.ml" 27 1032 1044
+type(
+  int
+)
+"Homework 1/intro.ml" 27 1032 1048 "Homework 1/intro.ml" 27 1032 1055
+type(
+  int
+)
+"Homework 1/intro.ml" 27 1032 1056 "Homework 1/intro.ml" 27 1032 1057
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( / )
+)
+"Homework 1/intro.ml" 27 1032 1058 "Homework 1/intro.ml" 27 1032 1061
+type(
+  int
+)
+"Homework 1/intro.ml" 27 1032 1047 "Homework 1/intro.ml" 27 1032 1062
+type(
+  int
+)
+"Homework 1/intro.ml" 27 1032 1063 "Homework 1/intro.ml" 27 1032 1064
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"Homework 1/intro.ml" 27 1032 1065 "Homework 1/intro.ml" 27 1032 1067
+type(
+  int
+)
+"Homework 1/intro.ml" 27 1032 1047 "Homework 1/intro.ml" 27 1032 1067
+type(
+  int
+)
+"Homework 1/intro.ml" 28 1072 1077 "Homework 1/intro.ml" 28 1072 1083
+type(
+  int
+)
+"Homework 1/intro.ml" 28 1072 1087 "Homework 1/intro.ml" 28 1072 1094
+type(
+  int
+)
+"Homework 1/intro.ml" 28 1072 1095 "Homework 1/intro.ml" 28 1072 1096
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( / )
+)
+"Homework 1/intro.ml" 28 1072 1097 "Homework 1/intro.ml" 28 1072 1100
+type(
+  int
+)
+"Homework 1/intro.ml" 28 1072 1086 "Homework 1/intro.ml" 28 1072 1101
+type(
+  int
+)
+"Homework 1/intro.ml" 28 1072 1102 "Homework 1/intro.ml" 28 1072 1103
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"Homework 1/intro.ml" 28 1072 1104 "Homework 1/intro.ml" 28 1072 1106
+type(
+  int
+)
+"Homework 1/intro.ml" 28 1072 1086 "Homework 1/intro.ml" 28 1072 1106
+type(
+  int
+)
+"Homework 1/intro.ml" 29 1111 1116 "Homework 1/intro.ml" 29 1111 1125
+type(
+  int
+)
+"Homework 1/intro.ml" 29 1111 1130 "Homework 1/intro.ml" 29 1111 1136
+type(
+  int
+)
+ident(
+  int_ref income "Homework 1/intro.ml" 26 990 1010 "Homework 1/intro.ml" 26 990 1016
+)
+"Homework 1/intro.ml" 29 1111 1137 "Homework 1/intro.ml" 29 1111 1138
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"Homework 1/intro.ml" 29 1111 1139 "Homework 1/intro.ml" 29 1111 1147
+type(
+  int
+)
+"Homework 1/intro.ml" 29 1111 1129 "Homework 1/intro.ml" 29 1111 1148
+type(
+  int
+)
+"Homework 1/intro.ml" 29 1111 1149 "Homework 1/intro.ml" 29 1111 1150
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( / )
+)
+"Homework 1/intro.ml" 29 1111 1151 "Homework 1/intro.ml" 29 1111 1154
+type(
+  int
+)
+"Homework 1/intro.ml" 29 1111 1128 "Homework 1/intro.ml" 29 1111 1155
+type(
+  int
+)
+"Homework 1/intro.ml" 29 1111 1156 "Homework 1/intro.ml" 29 1111 1157
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"Homework 1/intro.ml" 29 1111 1158 "Homework 1/intro.ml" 29 1111 1160
+type(
+  int
+)
+"Homework 1/intro.ml" 29 1111 1128 "Homework 1/intro.ml" 29 1111 1160
+type(
+  int
+)
+"Homework 1/intro.ml" 30 1166 1171 "Homework 1/intro.ml" 30 1166 1178
+type(
+  int
+)
+"Homework 1/intro.ml" 30 1166 1181 "Homework 1/intro.ml" 30 1166 1188
+type(
+  int
+)
+ident(
+  int_ref under35 "Homework 1/intro.ml" 27 1032 1037 "Homework 1/intro.ml" 27 1032 1044
+)
+"Homework 1/intro.ml" 30 1166 1189 "Homework 1/intro.ml" 30 1166 1190
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"Homework 1/intro.ml" 30 1166 1191 "Homework 1/intro.ml" 30 1166 1197
+type(
+  int
+)
+ident(
+  int_ref over35 "Homework 1/intro.ml" 28 1072 1077 "Homework 1/intro.ml" 28 1072 1083
+)
+"Homework 1/intro.ml" 30 1166 1181 "Homework 1/intro.ml" 30 1166 1197
+type(
+  int
+)
+"Homework 1/intro.ml" 30 1166 1198 "Homework 1/intro.ml" 30 1166 1199
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"Homework 1/intro.ml" 30 1166 1200 "Homework 1/intro.ml" 30 1166 1209
+type(
+  int
+)
+ident(
+  int_ref remainder "Homework 1/intro.ml" 29 1111 1116 "Homework 1/intro.ml" 29 1111 1125
+)
+"Homework 1/intro.ml" 30 1166 1181 "Homework 1/intro.ml" 30 1166 1209
+type(
+  int
+)
+"Homework 1/intro.ml" 31 1214 1219 "Homework 1/intro.ml" 31 1214 1224
+type(
+  int
+)
+"Homework 1/intro.ml" 31 1214 1229 "Homework 1/intro.ml" 31 1214 1235
+type(
+  int
+)
+ident(
+  int_ref income "Homework 1/intro.ml" 26 990 1010 "Homework 1/intro.ml" 26 990 1016
+)
+"Homework 1/intro.ml" 31 1214 1236 "Homework 1/intro.ml" 31 1214 1237
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"Homework 1/intro.ml" 31 1214 1238 "Homework 1/intro.ml" 31 1214 1245
+type(
+  int
+)
+"Homework 1/intro.ml" 31 1214 1228 "Homework 1/intro.ml" 31 1214 1246
+type(
+  int
+)
+"Homework 1/intro.ml" 31 1214 1247 "Homework 1/intro.ml" 31 1214 1248
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( / )
+)
+"Homework 1/intro.ml" 31 1214 1249 "Homework 1/intro.ml" 31 1214 1252
+type(
+  int
+)
+"Homework 1/intro.ml" 31 1214 1227 "Homework 1/intro.ml" 31 1214 1253
+type(
+  int
+)
+"Homework 1/intro.ml" 31 1214 1254 "Homework 1/intro.ml" 31 1214 1255
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"Homework 1/intro.ml" 31 1214 1256 "Homework 1/intro.ml" 31 1214 1257
+type(
+  int
+)
+"Homework 1/intro.ml" 31 1214 1227 "Homework 1/intro.ml" 31 1214 1257
+type(
+  int
+)
+"Homework 1/intro.ml" 32 1262 1263 "Homework 1/intro.ml" 32 1262 1270
+type(
+  int
+)
+ident(
+  int_ref federal "Homework 1/intro.ml" 30 1166 1171 "Homework 1/intro.ml" 30 1166 1178
+)
+"Homework 1/intro.ml" 32 1262 1271 "Homework 1/intro.ml" 32 1262 1272
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"Homework 1/intro.ml" 32 1262 1273 "Homework 1/intro.ml" 32 1262 1278
+type(
+  int
+)
+ident(
+  int_ref state "Homework 1/intro.ml" 31 1214 1219 "Homework 1/intro.ml" 31 1214 1224
+)
+"Homework 1/intro.ml" 32 1262 1263 "Homework 1/intro.ml" 32 1262 1278
+type(
+  int
+)
+"Homework 1/intro.ml" 31 1214 1215 "Homework 1/intro.ml" 32 1262 1278
+type(
+  int
+)
+"Homework 1/intro.ml" 30 1166 1167 "Homework 1/intro.ml" 32 1262 1278
+type(
+  int
+)
+"Homework 1/intro.ml" 29 1111 1112 "Homework 1/intro.ml" 32 1262 1278
+type(
+  int
+)
+"Homework 1/intro.ml" 28 1072 1073 "Homework 1/intro.ml" 32 1262 1278
+type(
+  int
+)
+"Homework 1/intro.ml" 27 1032 1033 "Homework 1/intro.ml" 32 1262 1278
+type(
+  int
+)
+type(
+  int
+)
+"Homework 1/intro.ml" 40 1343 1347 "Homework 1/intro.ml" 40 1343 1351
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 42 1401 1404 --
+)
+"Homework 1/intro.ml" 40 1343 1352 "Homework 1/intro.ml" 40 1343 1354
+type(
+  unit
+)
+"Homework 1/intro.ml" 41 1366 1369 "Homework 1/intro.ml" 41 1366 1379
+type(
+  int -> int
+)
+ident(
+  int_ref income_tax "Homework 1/intro.ml" 26 990 998 "Homework 1/intro.ml" 26 990 1008
+)
+"Homework 1/intro.ml" 41 1366 1380 "Homework 1/intro.ml" 41 1366 1388
+type(
+  int
+)
+"Homework 1/intro.ml" 41 1366 1368 "Homework 1/intro.ml" 41 1366 1389
+call(
+  stack
+)
+type(
+  int
+)
+"Homework 1/intro.ml" 41 1366 1390 "Homework 1/intro.ml" 41 1366 1391
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 41 1366 1392 "Homework 1/intro.ml" 41 1366 1399
+type(
+  int
+)
+"Homework 1/intro.ml" 41 1366 1368 "Homework 1/intro.ml" 41 1366 1399
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 42 1401 1404 "Homework 1/intro.ml" 42 1401 1412
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 42 1401 1413 "Homework 1/intro.ml" 42 1401 1437
+type(
+  string
+)
+"Homework 1/intro.ml" 42 1401 1438 "Homework 1/intro.ml" 42 1401 1442
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 40 1343 1347 "Homework 1/intro.ml" 40 1343 1351
+)
+"Homework 1/intro.ml" 42 1401 1404 "Homework 1/intro.ml" 42 1401 1442
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 44 1446 1450 "Homework 1/intro.ml" 44 1446 1454
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 46 1504 1507 --
+)
+"Homework 1/intro.ml" 44 1446 1455 "Homework 1/intro.ml" 44 1446 1457
+type(
+  unit
+)
+"Homework 1/intro.ml" 45 1469 1472 "Homework 1/intro.ml" 45 1469 1482
+type(
+  int -> int
+)
+ident(
+  int_ref income_tax "Homework 1/intro.ml" 26 990 998 "Homework 1/intro.ml" 26 990 1008
+)
+"Homework 1/intro.ml" 45 1469 1483 "Homework 1/intro.ml" 45 1469 1491
+type(
+  int
+)
+"Homework 1/intro.ml" 45 1469 1471 "Homework 1/intro.ml" 45 1469 1492
+call(
+  stack
+)
+type(
+  int
+)
+"Homework 1/intro.ml" 45 1469 1493 "Homework 1/intro.ml" 45 1469 1494
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 45 1469 1495 "Homework 1/intro.ml" 45 1469 1502
+type(
+  int
+)
+"Homework 1/intro.ml" 45 1469 1471 "Homework 1/intro.ml" 45 1469 1502
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 46 1504 1507 "Homework 1/intro.ml" 46 1504 1515
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 46 1504 1516 "Homework 1/intro.ml" 46 1504 1540
+type(
+  string
+)
+"Homework 1/intro.ml" 46 1504 1541 "Homework 1/intro.ml" 46 1504 1545
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 44 1446 1450 "Homework 1/intro.ml" 44 1446 1454
+)
+"Homework 1/intro.ml" 46 1504 1507 "Homework 1/intro.ml" 46 1504 1545
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 65 2328 2332 "Homework 1/intro.ml" 65 2328 2336
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 67 2387 2390 --
+)
+"Homework 1/intro.ml" 65 2328 2337 "Homework 1/intro.ml" 65 2328 2339
+type(
+  unit
+)
+"Homework 1/intro.ml" 66 2351 2354 "Homework 1/intro.ml" 66 2351 2364
+type(
+  int -> int
+)
+ident(
+  int_ref income_tax "Homework 1/intro.ml" 26 990 998 "Homework 1/intro.ml" 26 990 1008
+)
+"Homework 1/intro.ml" 66 2351 2365 "Homework 1/intro.ml" 66 2351 2373
+type(
+  int
+)
+"Homework 1/intro.ml" 66 2351 2353 "Homework 1/intro.ml" 66 2351 2374
+call(
+  stack
+)
+type(
+  int
+)
+"Homework 1/intro.ml" 66 2351 2375 "Homework 1/intro.ml" 66 2351 2376
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 66 2351 2377 "Homework 1/intro.ml" 66 2351 2385
+type(
+  int
+)
+"Homework 1/intro.ml" 66 2351 2353 "Homework 1/intro.ml" 66 2351 2385
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 67 2387 2390 "Homework 1/intro.ml" 67 2387 2398
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 67 2387 2399 "Homework 1/intro.ml" 67 2387 2422
+type(
+  string
+)
+"Homework 1/intro.ml" 67 2387 2423 "Homework 1/intro.ml" 67 2387 2427
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 65 2328 2332 "Homework 1/intro.ml" 65 2328 2336
+)
+"Homework 1/intro.ml" 67 2387 2390 "Homework 1/intro.ml" 67 2387 2427
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 69 2431 2435 "Homework 1/intro.ml" 69 2431 2439
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 71 2488 2491 --
+)
+"Homework 1/intro.ml" 69 2431 2440 "Homework 1/intro.ml" 69 2431 2442
+type(
+  unit
+)
+"Homework 1/intro.ml" 70 2454 2456 "Homework 1/intro.ml" 70 2454 2466
+type(
+  int -> int
+)
+ident(
+  int_ref income_tax "Homework 1/intro.ml" 26 990 998 "Homework 1/intro.ml" 26 990 1008
+)
+"Homework 1/intro.ml" 70 2454 2467 "Homework 1/intro.ml" 70 2454 2475
+type(
+  int
+)
+"Homework 1/intro.ml" 70 2454 2455 "Homework 1/intro.ml" 70 2454 2476
+call(
+  stack
+)
+type(
+  int
+)
+"Homework 1/intro.ml" 70 2454 2477 "Homework 1/intro.ml" 70 2454 2478
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 70 2454 2479 "Homework 1/intro.ml" 70 2454 2486
+type(
+  int
+)
+"Homework 1/intro.ml" 70 2454 2455 "Homework 1/intro.ml" 70 2454 2486
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 71 2488 2491 "Homework 1/intro.ml" 71 2488 2499
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 71 2488 2500 "Homework 1/intro.ml" 71 2488 2523
+type(
+  string
+)
+"Homework 1/intro.ml" 71 2488 2524 "Homework 1/intro.ml" 71 2488 2528
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 69 2431 2435 "Homework 1/intro.ml" 69 2431 2439
+)
+"Homework 1/intro.ml" 71 2488 2491 "Homework 1/intro.ml" 71 2488 2528
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 84 3049 3052 "Homework 1/intro.ml" 84 3049 3065
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"Homework 1/intro.ml" 84 3049 3066 "Homework 1/intro.ml" 84 3049 3092
+type(
+  string
+)
+"Homework 1/intro.ml" 84 3049 3052 "Homework 1/intro.ml" 84 3049 3092
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 85 3094 3097 "Homework 1/intro.ml" 85 3094 3110
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"Homework 1/intro.ml" 85 3094 3111 "Homework 1/intro.ml" 85 3094 3138
+type(
+  string
+)
+"Homework 1/intro.ml" 85 3094 3097 "Homework 1/intro.ml" 85 3094 3138
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 91 3300 3304 "Homework 1/intro.ml" 91 3300 3313
+type(
+  string -> string
+)
+ident(
+  def day_after "Homework 1/intro.ml" 106 3759 3759 --
+)
+"Homework 1/intro.ml" 91 3300 3315 "Homework 1/intro.ml" 91 3300 3318
+type(
+  string
+)
+ident(
+  def day "Homework 1/intro.ml" 91 3300 3327 "Homework 1/intro.ml" 101 3631 3636
+)
+"Homework 1/intro.ml" 92 3340 3354 "Homework 1/intro.ml" 92 3340 3357
+type(
+  string
+)
+ident(
+  int_ref day "Homework 1/intro.ml" 91 3300 3315 "Homework 1/intro.ml" 91 3300 3318
+)
+"Homework 1/intro.ml" 93 3365 3370 "Homework 1/intro.ml" 93 3365 3378
+type(
+  string
+)
+"Homework 1/intro.ml" 93 3365 3385 "Homework 1/intro.ml" 93 3365 3394
+type(
+  string
+)
+"Homework 1/intro.ml" 94 3396 3401 "Homework 1/intro.ml" 94 3396 3410
+type(
+  string
+)
+"Homework 1/intro.ml" 94 3396 3416 "Homework 1/intro.ml" 94 3396 3427
+type(
+  string
+)
+"Homework 1/intro.ml" 95 3429 3434 "Homework 1/intro.ml" 95 3429 3445
+type(
+  string
+)
+"Homework 1/intro.ml" 95 3429 3449 "Homework 1/intro.ml" 95 3429 3459
+type(
+  string
+)
+"Homework 1/intro.ml" 96 3461 3466 "Homework 1/intro.ml" 96 3461 3476
+type(
+  string
+)
+"Homework 1/intro.ml" 96 3461 3481 "Homework 1/intro.ml" 96 3461 3489
+type(
+  string
+)
+"Homework 1/intro.ml" 97 3491 3496 "Homework 1/intro.ml" 97 3491 3504
+type(
+  string
+)
+"Homework 1/intro.ml" 97 3491 3511 "Homework 1/intro.ml" 97 3491 3521
+type(
+  string
+)
+"Homework 1/intro.ml" 98 3523 3528 "Homework 1/intro.ml" 98 3523 3538
+type(
+  string
+)
+"Homework 1/intro.ml" 98 3523 3543 "Homework 1/intro.ml" 98 3523 3551
+type(
+  string
+)
+"Homework 1/intro.ml" 99 3553 3558 "Homework 1/intro.ml" 99 3553 3566
+type(
+  string
+)
+"Homework 1/intro.ml" 99 3553 3573 "Homework 1/intro.ml" 99 3553 3581
+type(
+  string
+)
+"Homework 1/intro.ml" 100 3583 3588 "Homework 1/intro.ml" 100 3583 3589
+type(
+  string
+)
+"Homework 1/intro.ml" 100 3583 3603 "Homework 1/intro.ml" 100 3583 3611
+type(
+  string -> string
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"Homework 1/intro.ml" 100 3583 3612 "Homework 1/intro.ml" 100 3583 3629
+type(
+  string
+)
+"Homework 1/intro.ml" 100 3583 3603 "Homework 1/intro.ml" 100 3583 3629
+call(
+  tail
+)
+type(
+  string
+)
+"Homework 1/intro.ml" 92 3340 3342 "Homework 1/intro.ml" 101 3631 3636
+type(
+  string
+)
+type(
+  string
+)
+"Homework 1/intro.ml" 106 3759 3763 "Homework 1/intro.ml" 106 3759 3767
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 108 3821 3824 --
+)
+"Homework 1/intro.ml" 106 3759 3768 "Homework 1/intro.ml" 106 3759 3770
+type(
+  unit
+)
+"Homework 1/intro.ml" 107 3782 3785 "Homework 1/intro.ml" 107 3782 3794
+type(
+  string -> string
+)
+ident(
+  int_ref day_after "Homework 1/intro.ml" 91 3300 3304 "Homework 1/intro.ml" 91 3300 3313
+)
+"Homework 1/intro.ml" 107 3782 3795 "Homework 1/intro.ml" 107 3782 3804
+type(
+  string
+)
+"Homework 1/intro.ml" 107 3782 3784 "Homework 1/intro.ml" 107 3782 3805
+call(
+  stack
+)
+type(
+  string
+)
+"Homework 1/intro.ml" 107 3782 3806 "Homework 1/intro.ml" 107 3782 3807
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 107 3782 3808 "Homework 1/intro.ml" 107 3782 3819
+type(
+  string
+)
+"Homework 1/intro.ml" 107 3782 3784 "Homework 1/intro.ml" 107 3782 3819
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 108 3821 3824 "Homework 1/intro.ml" 108 3821 3832
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 108 3821 3833 "Homework 1/intro.ml" 108 3821 3852
+type(
+  string
+)
+"Homework 1/intro.ml" 108 3821 3853 "Homework 1/intro.ml" 108 3821 3857
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 106 3759 3763 "Homework 1/intro.ml" 106 3759 3767
+)
+"Homework 1/intro.ml" 108 3821 3824 "Homework 1/intro.ml" 108 3821 3857
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 113 3943 3946 "Homework 1/intro.ml" 113 3943 3959
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"Homework 1/intro.ml" 113 3943 3961 "Homework 1/intro.ml" 113 3943 3988
+type(
+  string
+)
+"Homework 1/intro.ml" 113 3943 3989 "Homework 1/intro.ml" 113 3943 3990
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Homework 1/intro.ml" 113 3943 3992 "Homework 1/intro.ml" 113 3943 4001
+type(
+  string -> string
+)
+ident(
+  int_ref day_after "Homework 1/intro.ml" 91 3300 3304 "Homework 1/intro.ml" 91 3300 3313
+)
+"Homework 1/intro.ml" 113 3943 4002 "Homework 1/intro.ml" 113 3943 4011
+type(
+  string
+)
+"Homework 1/intro.ml" 113 3943 3991 "Homework 1/intro.ml" 113 3943 4012
+call(
+  stack
+)
+type(
+  string
+)
+"Homework 1/intro.ml" 113 3943 4013 "Homework 1/intro.ml" 113 3943 4014
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Homework 1/intro.ml" 113 3943 4015 "Homework 1/intro.ml" 113 3943 4018
+type(
+  string
+)
+"Homework 1/intro.ml" 113 3943 3991 "Homework 1/intro.ml" 113 3943 4018
+call(
+  stack
+)
+type(
+  string
+)
+"Homework 1/intro.ml" 113 3943 3960 "Homework 1/intro.ml" 113 3943 4019
+call(
+  stack
+)
+type(
+  string
+)
+"Homework 1/intro.ml" 113 3943 3946 "Homework 1/intro.ml" 113 3943 4019
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 127 4460 4463 "Homework 1/intro.ml" 127 4460 4476
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"Homework 1/intro.ml" 127 4460 4478 "Homework 1/intro.ml" 127 4460 4508
+type(
+  string
+)
+"Homework 1/intro.ml" 128 4511 4529 "Homework 1/intro.ml" 128 4511 4530
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Homework 1/intro.ml" 128 4511 4532 "Homework 1/intro.ml" 128 4511 4545
+type(
+  int -> string
+)
+ident(
+  ext_ref Pervasives.string_of_int
+)
+"Homework 1/intro.ml" 128 4511 4547 "Homework 1/intro.ml" 128 4511 4557
+type(
+  int -> int
+)
+ident(
+  int_ref income_tax "Homework 1/intro.ml" 26 990 998 "Homework 1/intro.ml" 26 990 1008
+)
+"Homework 1/intro.ml" 128 4511 4558 "Homework 1/intro.ml" 128 4511 4566
+type(
+  int
+)
+"Homework 1/intro.ml" 128 4511 4546 "Homework 1/intro.ml" 128 4511 4567
+call(
+  stack
+)
+type(
+  int
+)
+"Homework 1/intro.ml" 128 4511 4531 "Homework 1/intro.ml" 128 4511 4568
+call(
+  stack
+)
+type(
+  string
+)
+"Homework 1/intro.ml" 128 4511 4569 "Homework 1/intro.ml" 128 4511 4570
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Homework 1/intro.ml" 128 4511 4571 "Homework 1/intro.ml" 128 4511 4580
+type(
+  string
+)
+"Homework 1/intro.ml" 128 4511 4531 "Homework 1/intro.ml" 128 4511 4580
+call(
+  stack
+)
+type(
+  string
+)
+"Homework 1/intro.ml" 127 4460 4477 "Homework 1/intro.ml" 128 4511 4581
+call(
+  stack
+)
+type(
+  string
+)
+"Homework 1/intro.ml" 127 4460 4463 "Homework 1/intro.ml" 128 4511 4581
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 135 4762 4765 "Homework 1/intro.ml" 135 4762 4778
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"Homework 1/intro.ml" 135 4762 4779 "Homework 1/intro.ml" 135 4762 4804
+type(
+  string
+)
+"Homework 1/intro.ml" 135 4762 4765 "Homework 1/intro.ml" 135 4762 4804
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 136 4806 4809 "Homework 1/intro.ml" 136 4806 4822
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"Homework 1/intro.ml" 136 4806 4823 "Homework 1/intro.ml" 136 4806 4849
+type(
+  string
+)
+"Homework 1/intro.ml" 136 4806 4809 "Homework 1/intro.ml" 136 4806 4849
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 146 5199 5207 "Homework 1/intro.ml" 146 5199 5225
+type(
+  int -> int -> int -> int
+)
+ident(
+  def maximum_table_area "Homework 1/intro.ml" 146 5199 5199 --
+)
+"Homework 1/intro.ml" 146 5199 5227 "Homework 1/intro.ml" 146 5199 5232
+type(
+  int
+)
+ident(
+  def side1 "Homework 1/intro.ml" 146 5199 5239 "Homework 1/intro.ml" 159 5589 5599
+)
+"Homework 1/intro.ml" 146 5199 5240 "Homework 1/intro.ml" 146 5199 5245
+type(
+  int
+)
+ident(
+  def side2 "Homework 1/intro.ml" 146 5199 5252 "Homework 1/intro.ml" 159 5589 5599
+)
+"Homework 1/intro.ml" 146 5199 5253 "Homework 1/intro.ml" 146 5199 5258
+type(
+  int
+)
+ident(
+  def side3 "Homework 1/intro.ml" 146 5199 5265 "Homework 1/intro.ml" 159 5589 5599
+)
+"Homework 1/intro.ml" 147 5274 5280 "Homework 1/intro.ml" 147 5274 5288
+type(
+  int
+)
+"Homework 1/intro.ml" 147 5274 5291 "Homework 1/intro.ml" 147 5274 5296
+type(
+  int
+)
+ident(
+  int_ref side1 "Homework 1/intro.ml" 146 5199 5227 "Homework 1/intro.ml" 146 5199 5232
+)
+"Homework 1/intro.ml" 147 5274 5297 "Homework 1/intro.ml" 147 5274 5298
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"Homework 1/intro.ml" 147 5274 5299 "Homework 1/intro.ml" 147 5274 5304
+type(
+  int
+)
+ident(
+  int_ref side2 "Homework 1/intro.ml" 146 5199 5240 "Homework 1/intro.ml" 146 5199 5245
+)
+"Homework 1/intro.ml" 147 5274 5291 "Homework 1/intro.ml" 147 5274 5304
+type(
+  int
+)
+"Homework 1/intro.ml" 148 5309 5314 "Homework 1/intro.ml" 148 5309 5322
+type(
+  int
+)
+"Homework 1/intro.ml" 148 5309 5325 "Homework 1/intro.ml" 148 5309 5330
+type(
+  int
+)
+ident(
+  int_ref side1 "Homework 1/intro.ml" 146 5199 5227 "Homework 1/intro.ml" 146 5199 5232
+)
+"Homework 1/intro.ml" 148 5309 5331 "Homework 1/intro.ml" 148 5309 5332
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"Homework 1/intro.ml" 148 5309 5333 "Homework 1/intro.ml" 148 5309 5338
+type(
+  int
+)
+ident(
+  int_ref side3 "Homework 1/intro.ml" 146 5199 5253 "Homework 1/intro.ml" 146 5199 5258
+)
+"Homework 1/intro.ml" 148 5309 5325 "Homework 1/intro.ml" 148 5309 5338
+type(
+  int
+)
+"Homework 1/intro.ml" 149 5343 5348 "Homework 1/intro.ml" 149 5343 5356
+type(
+  int
+)
+"Homework 1/intro.ml" 149 5343 5359 "Homework 1/intro.ml" 149 5343 5364
+type(
+  int
+)
+ident(
+  int_ref side2 "Homework 1/intro.ml" 146 5199 5240 "Homework 1/intro.ml" 146 5199 5245
+)
+"Homework 1/intro.ml" 149 5343 5365 "Homework 1/intro.ml" 149 5343 5366
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"Homework 1/intro.ml" 149 5343 5367 "Homework 1/intro.ml" 149 5343 5372
+type(
+  int
+)
+ident(
+  int_ref side3 "Homework 1/intro.ml" 146 5199 5253 "Homework 1/intro.ml" 146 5199 5258
+)
+"Homework 1/intro.ml" 149 5343 5359 "Homework 1/intro.ml" 149 5343 5372
+type(
+  int
+)
+"Homework 1/intro.ml" 150 5377 5382 "Homework 1/intro.ml" 150 5377 5387
+type(
+  int
+)
+"Homework 1/intro.ml" 151 5393 5398 "Homework 1/intro.ml" 151 5393 5406
+type(
+  int
+)
+ident(
+  int_ref option_1 "Homework 1/intro.ml" 147 5274 5280 "Homework 1/intro.ml" 147 5274 5288
+)
+"Homework 1/intro.ml" 151 5393 5407 "Homework 1/intro.ml" 151 5393 5409
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( >= )
+)
+"Homework 1/intro.ml" 151 5393 5410 "Homework 1/intro.ml" 151 5393 5418
+type(
+  int
+)
+ident(
+  int_ref option_2 "Homework 1/intro.ml" 148 5309 5314 "Homework 1/intro.ml" 148 5309 5322
+)
+"Homework 1/intro.ml" 151 5393 5398 "Homework 1/intro.ml" 151 5393 5418
+type(
+  bool
+)
+"Homework 1/intro.ml" 151 5393 5424 "Homework 1/intro.ml" 151 5393 5432
+type(
+  int
+)
+ident(
+  int_ref option_1 "Homework 1/intro.ml" 147 5274 5280 "Homework 1/intro.ml" 147 5274 5288
+)
+"Homework 1/intro.ml" 152 5434 5440 "Homework 1/intro.ml" 152 5434 5448
+type(
+  int
+)
+ident(
+  int_ref option_2 "Homework 1/intro.ml" 148 5309 5314 "Homework 1/intro.ml" 148 5309 5322
+)
+"Homework 1/intro.ml" 151 5393 5395 "Homework 1/intro.ml" 152 5434 5448
+type(
+  int
+)
+"Homework 1/intro.ml" 153 5453 5459 "Homework 1/intro.ml" 153 5453 5464
+type(
+  int
+)
+"Homework 1/intro.ml" 154 5469 5473 "Homework 1/intro.ml" 154 5469 5481
+type(
+  int
+)
+ident(
+  int_ref option_3 "Homework 1/intro.ml" 149 5343 5348 "Homework 1/intro.ml" 149 5343 5356
+)
+"Homework 1/intro.ml" 154 5469 5482 "Homework 1/intro.ml" 154 5469 5484
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( >= )
+)
+"Homework 1/intro.ml" 154 5469 5485 "Homework 1/intro.ml" 154 5469 5490
+type(
+  int
+)
+ident(
+  int_ref max_1 "Homework 1/intro.ml" 150 5377 5382 "Homework 1/intro.ml" 150 5377 5387
+)
+"Homework 1/intro.ml" 154 5469 5473 "Homework 1/intro.ml" 154 5469 5490
+type(
+  bool
+)
+"Homework 1/intro.ml" 154 5469 5496 "Homework 1/intro.ml" 154 5469 5504
+type(
+  int
+)
+ident(
+  int_ref option_3 "Homework 1/intro.ml" 149 5343 5348 "Homework 1/intro.ml" 149 5343 5356
+)
+"Homework 1/intro.ml" 155 5506 5512 "Homework 1/intro.ml" 155 5506 5517
+type(
+  int
+)
+ident(
+  int_ref max_1 "Homework 1/intro.ml" 150 5377 5382 "Homework 1/intro.ml" 150 5377 5387
+)
+"Homework 1/intro.ml" 154 5469 5470 "Homework 1/intro.ml" 155 5506 5517
+type(
+  int
+)
+"Homework 1/intro.ml" 156 5522 5527 "Homework 1/intro.ml" 156 5522 5536
+type(
+  int
+)
+"Homework 1/intro.ml" 157 5540 5545 "Homework 1/intro.ml" 157 5540 5550
+type(
+  int
+)
+ident(
+  int_ref max_1 "Homework 1/intro.ml" 150 5377 5382 "Homework 1/intro.ml" 150 5377 5387
+)
+"Homework 1/intro.ml" 157 5540 5551 "Homework 1/intro.ml" 157 5540 5553
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( >= )
+)
+"Homework 1/intro.ml" 157 5540 5554 "Homework 1/intro.ml" 157 5540 5559
+type(
+  int
+)
+ident(
+  int_ref max_2 "Homework 1/intro.ml" 153 5453 5459 "Homework 1/intro.ml" 153 5453 5464
+)
+"Homework 1/intro.ml" 157 5540 5545 "Homework 1/intro.ml" 157 5540 5559
+type(
+  bool
+)
+"Homework 1/intro.ml" 157 5540 5565 "Homework 1/intro.ml" 157 5540 5570
+type(
+  int
+)
+ident(
+  int_ref max_1 "Homework 1/intro.ml" 150 5377 5382 "Homework 1/intro.ml" 150 5377 5387
+)
+"Homework 1/intro.ml" 158 5572 5578 "Homework 1/intro.ml" 158 5572 5583
+type(
+  int
+)
+ident(
+  int_ref max_2 "Homework 1/intro.ml" 153 5453 5459 "Homework 1/intro.ml" 153 5453 5464
+)
+"Homework 1/intro.ml" 157 5540 5542 "Homework 1/intro.ml" 158 5572 5583
+type(
+  int
+)
+"Homework 1/intro.ml" 159 5589 5590 "Homework 1/intro.ml" 159 5589 5599
+type(
+  int
+)
+ident(
+  int_ref total_max "Homework 1/intro.ml" 156 5522 5527 "Homework 1/intro.ml" 156 5522 5536
+)
+"Homework 1/intro.ml" 156 5522 5523 "Homework 1/intro.ml" 159 5589 5599
+type(
+  int
+)
+"Homework 1/intro.ml" 153 5453 5455 "Homework 1/intro.ml" 159 5589 5599
+type(
+  int
+)
+"Homework 1/intro.ml" 150 5377 5378 "Homework 1/intro.ml" 159 5589 5599
+type(
+  int
+)
+"Homework 1/intro.ml" 149 5343 5344 "Homework 1/intro.ml" 159 5589 5599
+type(
+  int
+)
+"Homework 1/intro.ml" 148 5309 5310 "Homework 1/intro.ml" 159 5589 5599
+type(
+  int
+)
+"Homework 1/intro.ml" 147 5274 5276 "Homework 1/intro.ml" 159 5589 5599
+type(
+  int
+)
+type(
+  int
+)
+"Homework 1/intro.ml" 164 5611 5615 "Homework 1/intro.ml" 164 5611 5619
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 166 5667 5670 --
+)
+"Homework 1/intro.ml" 164 5611 5620 "Homework 1/intro.ml" 164 5611 5622
+type(
+  unit
+)
+"Homework 1/intro.ml" 165 5633 5636 "Homework 1/intro.ml" 165 5633 5654
+type(
+  int -> int -> int -> int
+)
+ident(
+  int_ref maximum_table_area "Homework 1/intro.ml" 146 5199 5207 "Homework 1/intro.ml" 146 5199 5225
+)
+"Homework 1/intro.ml" 165 5633 5655 "Homework 1/intro.ml" 165 5633 5656
+type(
+  int
+)
+"Homework 1/intro.ml" 165 5633 5657 "Homework 1/intro.ml" 165 5633 5658
+type(
+  int
+)
+"Homework 1/intro.ml" 165 5633 5659 "Homework 1/intro.ml" 165 5633 5660
+type(
+  int
+)
+"Homework 1/intro.ml" 165 5633 5635 "Homework 1/intro.ml" 165 5633 5661
+call(
+  stack
+)
+type(
+  int
+)
+"Homework 1/intro.ml" 165 5633 5662 "Homework 1/intro.ml" 165 5633 5663
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 165 5633 5664 "Homework 1/intro.ml" 165 5633 5665
+type(
+  int
+)
+"Homework 1/intro.ml" 165 5633 5635 "Homework 1/intro.ml" 165 5633 5665
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 166 5667 5670 "Homework 1/intro.ml" 166 5667 5678
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 166 5667 5679 "Homework 1/intro.ml" 166 5667 5705
+type(
+  string
+)
+"Homework 1/intro.ml" 166 5667 5706 "Homework 1/intro.ml" 166 5667 5710
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 164 5611 5615 "Homework 1/intro.ml" 164 5611 5619
+)
+"Homework 1/intro.ml" 166 5667 5670 "Homework 1/intro.ml" 166 5667 5710
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 168 5715 5719 "Homework 1/intro.ml" 168 5715 5723
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 170 5772 5775 --
+)
+"Homework 1/intro.ml" 168 5715 5724 "Homework 1/intro.ml" 168 5715 5726
+type(
+  unit
+)
+"Homework 1/intro.ml" 169 5737 5740 "Homework 1/intro.ml" 169 5737 5758
+type(
+  int -> int -> int -> int
+)
+ident(
+  int_ref maximum_table_area "Homework 1/intro.ml" 146 5199 5207 "Homework 1/intro.ml" 146 5199 5225
+)
+"Homework 1/intro.ml" 169 5737 5759 "Homework 1/intro.ml" 169 5737 5760
+type(
+  int
+)
+"Homework 1/intro.ml" 169 5737 5761 "Homework 1/intro.ml" 169 5737 5762
+type(
+  int
+)
+"Homework 1/intro.ml" 169 5737 5763 "Homework 1/intro.ml" 169 5737 5764
+type(
+  int
+)
+"Homework 1/intro.ml" 169 5737 5739 "Homework 1/intro.ml" 169 5737 5765
+call(
+  stack
+)
+type(
+  int
+)
+"Homework 1/intro.ml" 169 5737 5766 "Homework 1/intro.ml" 169 5737 5767
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 169 5737 5768 "Homework 1/intro.ml" 169 5737 5770
+type(
+  int
+)
+"Homework 1/intro.ml" 169 5737 5739 "Homework 1/intro.ml" 169 5737 5770
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 170 5772 5775 "Homework 1/intro.ml" 170 5772 5783
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 170 5772 5784 "Homework 1/intro.ml" 170 5772 5810
+type(
+  string
+)
+"Homework 1/intro.ml" 170 5772 5811 "Homework 1/intro.ml" 170 5772 5815
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 168 5715 5719 "Homework 1/intro.ml" 168 5715 5723
+)
+"Homework 1/intro.ml" 170 5772 5775 "Homework 1/intro.ml" 170 5772 5815
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 172 5820 5824 "Homework 1/intro.ml" 172 5820 5828
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 174 5878 5881 --
+)
+"Homework 1/intro.ml" 172 5820 5829 "Homework 1/intro.ml" 172 5820 5831
+type(
+  unit
+)
+"Homework 1/intro.ml" 173 5843 5846 "Homework 1/intro.ml" 173 5843 5864
+type(
+  int -> int -> int -> int
+)
+ident(
+  int_ref maximum_table_area "Homework 1/intro.ml" 146 5199 5207 "Homework 1/intro.ml" 146 5199 5225
+)
+"Homework 1/intro.ml" 173 5843 5865 "Homework 1/intro.ml" 173 5843 5866
+type(
+  int
+)
+"Homework 1/intro.ml" 173 5843 5867 "Homework 1/intro.ml" 173 5843 5868
+type(
+  int
+)
+"Homework 1/intro.ml" 173 5843 5869 "Homework 1/intro.ml" 173 5843 5870
+type(
+  int
+)
+"Homework 1/intro.ml" 173 5843 5845 "Homework 1/intro.ml" 173 5843 5871
+call(
+  stack
+)
+type(
+  int
+)
+"Homework 1/intro.ml" 173 5843 5872 "Homework 1/intro.ml" 173 5843 5873
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 173 5843 5874 "Homework 1/intro.ml" 173 5843 5876
+type(
+  int
+)
+"Homework 1/intro.ml" 173 5843 5845 "Homework 1/intro.ml" 173 5843 5876
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 174 5878 5881 "Homework 1/intro.ml" 174 5878 5889
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 174 5878 5890 "Homework 1/intro.ml" 174 5878 5916
+type(
+  string
+)
+"Homework 1/intro.ml" 174 5878 5917 "Homework 1/intro.ml" 174 5878 5921
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 172 5820 5824 "Homework 1/intro.ml" 172 5820 5828
+)
+"Homework 1/intro.ml" 174 5878 5881 "Homework 1/intro.ml" 174 5878 5921
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 176 5925 5929 "Homework 1/intro.ml" 176 5925 5933
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 178 5982 5985 --
+)
+"Homework 1/intro.ml" 176 5925 5934 "Homework 1/intro.ml" 176 5925 5936
+type(
+  unit
+)
+"Homework 1/intro.ml" 177 5948 5951 "Homework 1/intro.ml" 177 5948 5969
+type(
+  int -> int -> int -> int
+)
+ident(
+  int_ref maximum_table_area "Homework 1/intro.ml" 146 5199 5207 "Homework 1/intro.ml" 146 5199 5225
+)
+"Homework 1/intro.ml" 177 5948 5970 "Homework 1/intro.ml" 177 5948 5971
+type(
+  int
+)
+"Homework 1/intro.ml" 177 5948 5972 "Homework 1/intro.ml" 177 5948 5973
+type(
+  int
+)
+"Homework 1/intro.ml" 177 5948 5974 "Homework 1/intro.ml" 177 5948 5975
+type(
+  int
+)
+"Homework 1/intro.ml" 177 5948 5950 "Homework 1/intro.ml" 177 5948 5976
+call(
+  stack
+)
+type(
+  int
+)
+"Homework 1/intro.ml" 177 5948 5977 "Homework 1/intro.ml" 177 5948 5978
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 177 5948 5979 "Homework 1/intro.ml" 177 5948 5980
+type(
+  int
+)
+"Homework 1/intro.ml" 177 5948 5950 "Homework 1/intro.ml" 177 5948 5980
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 178 5982 5985 "Homework 1/intro.ml" 178 5982 5993
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 178 5982 5994 "Homework 1/intro.ml" 178 5982 6020
+type(
+  string
+)
+"Homework 1/intro.ml" 178 5982 6021 "Homework 1/intro.ml" 178 5982 6025
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 176 5925 5929 "Homework 1/intro.ml" 176 5925 5933
+)
+"Homework 1/intro.ml" 178 5982 5985 "Homework 1/intro.ml" 178 5982 6025
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 190 6532 6540 "Homework 1/intro.ml" 190 6532 6550
+type(
+  int -> string -> int -> int
+)
+ident(
+  def move_robot "Homework 1/intro.ml" 190 6532 6532 --
+)
+"Homework 1/intro.ml" 190 6532 6552 "Homework 1/intro.ml" 190 6532 6555
+type(
+  int
+)
+ident(
+  def pos "Homework 1/intro.ml" 190 6532 6562 "Homework 1/intro.ml" 198 6788 6799
+)
+"Homework 1/intro.ml" 190 6532 6563 "Homework 1/intro.ml" 190 6532 6566
+type(
+  string
+)
+ident(
+  def dir "Homework 1/intro.ml" 190 6532 6576 "Homework 1/intro.ml" 198 6788 6799
+)
+"Homework 1/intro.ml" 190 6532 6577 "Homework 1/intro.ml" 190 6532 6586
+type(
+  int
+)
+ident(
+  def num_moves "Homework 1/intro.ml" 190 6532 6593 "Homework 1/intro.ml" 198 6788 6799
+)
+"Homework 1/intro.ml" 191 6602 6608 "Homework 1/intro.ml" 191 6602 6615
+type(
+  int
+)
+"Homework 1/intro.ml" 192 6619 6624 "Homework 1/intro.ml" 192 6619 6627
+type(
+  string
+)
+ident(
+  int_ref dir "Homework 1/intro.ml" 190 6532 6563 "Homework 1/intro.ml" 190 6532 6566
+)
+"Homework 1/intro.ml" 192 6619 6628 "Homework 1/intro.ml" 192 6619 6629
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 192 6619 6630 "Homework 1/intro.ml" 192 6619 6639
+type(
+  string
+)
+"Homework 1/intro.ml" 192 6619 6624 "Homework 1/intro.ml" 192 6619 6639
+type(
+  bool
+)
+"Homework 1/intro.ml" 192 6619 6646 "Homework 1/intro.ml" 192 6619 6649
+type(
+  int
+)
+ident(
+  int_ref pos "Homework 1/intro.ml" 190 6532 6552 "Homework 1/intro.ml" 190 6532 6555
+)
+"Homework 1/intro.ml" 192 6619 6650 "Homework 1/intro.ml" 192 6619 6651
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"Homework 1/intro.ml" 192 6619 6652 "Homework 1/intro.ml" 192 6619 6661
+type(
+  int
+)
+ident(
+  int_ref num_moves "Homework 1/intro.ml" 190 6532 6577 "Homework 1/intro.ml" 190 6532 6586
+)
+"Homework 1/intro.ml" 192 6619 6645 "Homework 1/intro.ml" 192 6619 6662
+type(
+  int
+)
+"Homework 1/intro.ml" 193 6664 6672 "Homework 1/intro.ml" 193 6664 6675
+type(
+  int
+)
+ident(
+  int_ref pos "Homework 1/intro.ml" 190 6532 6552 "Homework 1/intro.ml" 190 6532 6555
+)
+"Homework 1/intro.ml" 193 6664 6676 "Homework 1/intro.ml" 193 6664 6677
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"Homework 1/intro.ml" 193 6664 6678 "Homework 1/intro.ml" 193 6664 6687
+type(
+  int
+)
+ident(
+  int_ref num_moves "Homework 1/intro.ml" 190 6532 6577 "Homework 1/intro.ml" 190 6532 6586
+)
+"Homework 1/intro.ml" 193 6664 6671 "Homework 1/intro.ml" 193 6664 6688
+type(
+  int
+)
+"Homework 1/intro.ml" 192 6619 6621 "Homework 1/intro.ml" 193 6664 6688
+type(
+  int
+)
+"Homework 1/intro.ml" 194 6693 6698 "Homework 1/intro.ml" 194 6693 6707
+type(
+  int
+)
+"Homework 1/intro.ml" 195 6712 6717 "Homework 1/intro.ml" 195 6712 6724
+type(
+  int
+)
+ident(
+  int_ref new_pos "Homework 1/intro.ml" 191 6602 6608 "Homework 1/intro.ml" 191 6602 6615
+)
+"Homework 1/intro.ml" 195 6712 6725 "Homework 1/intro.ml" 195 6712 6726
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"Homework 1/intro.ml" 195 6712 6727 "Homework 1/intro.ml" 195 6712 6728
+type(
+  int
+)
+"Homework 1/intro.ml" 195 6712 6717 "Homework 1/intro.ml" 195 6712 6728
+type(
+  bool
+)
+"Homework 1/intro.ml" 195 6712 6734 "Homework 1/intro.ml" 195 6712 6735
+type(
+  int
+)
+"Homework 1/intro.ml" 196 6737 6747 "Homework 1/intro.ml" 196 6737 6754
+type(
+  int
+)
+ident(
+  int_ref new_pos "Homework 1/intro.ml" 191 6602 6608 "Homework 1/intro.ml" 191 6602 6615
+)
+"Homework 1/intro.ml" 196 6737 6755 "Homework 1/intro.ml" 196 6737 6756
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( > )
+)
+"Homework 1/intro.ml" 196 6737 6757 "Homework 1/intro.ml" 196 6737 6759
+type(
+  int
+)
+"Homework 1/intro.ml" 196 6737 6747 "Homework 1/intro.ml" 196 6737 6759
+type(
+  bool
+)
+"Homework 1/intro.ml" 196 6737 6765 "Homework 1/intro.ml" 196 6737 6767
+type(
+  int
+)
+"Homework 1/intro.ml" 197 6769 6776 "Homework 1/intro.ml" 197 6769 6783
+type(
+  int
+)
+ident(
+  int_ref new_pos "Homework 1/intro.ml" 191 6602 6608 "Homework 1/intro.ml" 191 6602 6615
+)
+"Homework 1/intro.ml" 196 6737 6744 "Homework 1/intro.ml" 197 6769 6783
+type(
+  int
+)
+"Homework 1/intro.ml" 195 6712 6714 "Homework 1/intro.ml" 197 6769 6783
+type(
+  int
+)
+"Homework 1/intro.ml" 198 6788 6790 "Homework 1/intro.ml" 198 6788 6799
+type(
+  int
+)
+ident(
+  int_ref valid_pos "Homework 1/intro.ml" 194 6693 6698 "Homework 1/intro.ml" 194 6693 6707
+)
+"Homework 1/intro.ml" 194 6693 6694 "Homework 1/intro.ml" 198 6788 6799
+type(
+  int
+)
+"Homework 1/intro.ml" 191 6602 6604 "Homework 1/intro.ml" 198 6788 6799
+type(
+  int
+)
+type(
+  int
+)
+"Homework 1/intro.ml" 201 6807 6811 "Homework 1/intro.ml" 201 6807 6815
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 203 6865 6868 --
+)
+"Homework 1/intro.ml" 201 6807 6816 "Homework 1/intro.ml" 201 6807 6818
+type(
+  unit
+)
+"Homework 1/intro.ml" 202 6829 6832 "Homework 1/intro.ml" 202 6829 6842
+type(
+  int -> string -> int -> int
+)
+ident(
+  int_ref move_robot "Homework 1/intro.ml" 190 6532 6540 "Homework 1/intro.ml" 190 6532 6550
+)
+"Homework 1/intro.ml" 202 6829 6843 "Homework 1/intro.ml" 202 6829 6845
+type(
+  int
+)
+"Homework 1/intro.ml" 202 6829 6846 "Homework 1/intro.ml" 202 6829 6855
+type(
+  string
+)
+"Homework 1/intro.ml" 202 6829 6856 "Homework 1/intro.ml" 202 6829 6857
+type(
+  int
+)
+"Homework 1/intro.ml" 202 6829 6831 "Homework 1/intro.ml" 202 6829 6858
+call(
+  stack
+)
+type(
+  int
+)
+"Homework 1/intro.ml" 202 6829 6859 "Homework 1/intro.ml" 202 6829 6860
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 202 6829 6861 "Homework 1/intro.ml" 202 6829 6863
+type(
+  int
+)
+"Homework 1/intro.ml" 202 6829 6831 "Homework 1/intro.ml" 202 6829 6863
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 203 6865 6868 "Homework 1/intro.ml" 203 6865 6876
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 203 6865 6877 "Homework 1/intro.ml" 203 6865 6899
+type(
+  string
+)
+"Homework 1/intro.ml" 203 6865 6900 "Homework 1/intro.ml" 203 6865 6904
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 201 6807 6811 "Homework 1/intro.ml" 201 6807 6815
+)
+"Homework 1/intro.ml" 203 6865 6868 "Homework 1/intro.ml" 203 6865 6904
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 205 6909 6913 "Homework 1/intro.ml" 205 6909 6917
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 207 6967 6970 --
+)
+"Homework 1/intro.ml" 205 6909 6918 "Homework 1/intro.ml" 205 6909 6920
+type(
+  unit
+)
+"Homework 1/intro.ml" 206 6931 6934 "Homework 1/intro.ml" 206 6931 6944
+type(
+  int -> string -> int -> int
+)
+ident(
+  int_ref move_robot "Homework 1/intro.ml" 190 6532 6540 "Homework 1/intro.ml" 190 6532 6550
+)
+"Homework 1/intro.ml" 206 6931 6945 "Homework 1/intro.ml" 206 6931 6946
+type(
+  int
+)
+"Homework 1/intro.ml" 206 6931 6947 "Homework 1/intro.ml" 206 6931 6957
+type(
+  string
+)
+"Homework 1/intro.ml" 206 6931 6958 "Homework 1/intro.ml" 206 6931 6959
+type(
+  int
+)
+"Homework 1/intro.ml" 206 6931 6933 "Homework 1/intro.ml" 206 6931 6961
+call(
+  stack
+)
+type(
+  int
+)
+"Homework 1/intro.ml" 206 6931 6962 "Homework 1/intro.ml" 206 6931 6963
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 206 6931 6964 "Homework 1/intro.ml" 206 6931 6965
+type(
+  int
+)
+"Homework 1/intro.ml" 206 6931 6933 "Homework 1/intro.ml" 206 6931 6965
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 207 6967 6970 "Homework 1/intro.ml" 207 6967 6978
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 207 6967 6979 "Homework 1/intro.ml" 207 6967 7002
+type(
+  string
+)
+"Homework 1/intro.ml" 207 6967 7003 "Homework 1/intro.ml" 207 6967 7007
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 205 6909 6913 "Homework 1/intro.ml" 205 6909 6917
+)
+"Homework 1/intro.ml" 207 6967 6970 "Homework 1/intro.ml" 207 6967 7007
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 209 7012 7016 "Homework 1/intro.ml" 209 7012 7020
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 211 7068 7071 --
+)
+"Homework 1/intro.ml" 209 7012 7021 "Homework 1/intro.ml" 209 7012 7023
+type(
+  unit
+)
+"Homework 1/intro.ml" 210 7034 7037 "Homework 1/intro.ml" 210 7034 7047
+type(
+  int -> string -> int -> int
+)
+ident(
+  int_ref move_robot "Homework 1/intro.ml" 190 6532 6540 "Homework 1/intro.ml" 190 6532 6550
+)
+"Homework 1/intro.ml" 210 7034 7048 "Homework 1/intro.ml" 210 7034 7049
+type(
+  int
+)
+"Homework 1/intro.ml" 210 7034 7050 "Homework 1/intro.ml" 210 7034 7059
+type(
+  string
+)
+"Homework 1/intro.ml" 210 7034 7060 "Homework 1/intro.ml" 210 7034 7061
+type(
+  int
+)
+"Homework 1/intro.ml" 210 7034 7036 "Homework 1/intro.ml" 210 7034 7062
+call(
+  stack
+)
+type(
+  int
+)
+"Homework 1/intro.ml" 210 7034 7063 "Homework 1/intro.ml" 210 7034 7064
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 210 7034 7065 "Homework 1/intro.ml" 210 7034 7066
+type(
+  int
+)
+"Homework 1/intro.ml" 210 7034 7036 "Homework 1/intro.ml" 210 7034 7066
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 211 7068 7071 "Homework 1/intro.ml" 211 7068 7079
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 211 7068 7080 "Homework 1/intro.ml" 211 7068 7102
+type(
+  string
+)
+"Homework 1/intro.ml" 211 7068 7103 "Homework 1/intro.ml" 211 7068 7107
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 209 7012 7016 "Homework 1/intro.ml" 209 7012 7020
+)
+"Homework 1/intro.ml" 211 7068 7071 "Homework 1/intro.ml" 211 7068 7107
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 213 7112 7116 "Homework 1/intro.ml" 213 7112 7120
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 215 7169 7172 --
+)
+"Homework 1/intro.ml" 213 7112 7121 "Homework 1/intro.ml" 213 7112 7123
+type(
+  unit
+)
+"Homework 1/intro.ml" 214 7134 7136 "Homework 1/intro.ml" 214 7134 7146
+type(
+  int -> string -> int -> int
+)
+ident(
+  int_ref move_robot "Homework 1/intro.ml" 190 6532 6540 "Homework 1/intro.ml" 190 6532 6550
+)
+"Homework 1/intro.ml" 214 7134 7147 "Homework 1/intro.ml" 214 7134 7149
+type(
+  int
+)
+"Homework 1/intro.ml" 214 7134 7150 "Homework 1/intro.ml" 214 7134 7159
+type(
+  string
+)
+"Homework 1/intro.ml" 214 7134 7160 "Homework 1/intro.ml" 214 7134 7161
+type(
+  int
+)
+"Homework 1/intro.ml" 214 7134 7135 "Homework 1/intro.ml" 214 7134 7162
+call(
+  stack
+)
+type(
+  int
+)
+"Homework 1/intro.ml" 214 7134 7163 "Homework 1/intro.ml" 214 7134 7164
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 214 7134 7165 "Homework 1/intro.ml" 214 7134 7167
+type(
+  int
+)
+"Homework 1/intro.ml" 214 7134 7135 "Homework 1/intro.ml" 214 7134 7167
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 215 7169 7172 "Homework 1/intro.ml" 215 7169 7180
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 215 7169 7181 "Homework 1/intro.ml" 215 7169 7203
+type(
+  string
+)
+"Homework 1/intro.ml" 215 7169 7204 "Homework 1/intro.ml" 215 7169 7208
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 213 7112 7116 "Homework 1/intro.ml" 213 7112 7120
+)
+"Homework 1/intro.ml" 215 7169 7172 "Homework 1/intro.ml" 215 7169 7208
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 251 8471 8479 "Homework 1/intro.ml" 251 8471 8495
+type(
+  int -> string
+)
+ident(
+  def street_direction "Homework 1/intro.ml" 251 8471 8471 --
+)
+"Homework 1/intro.ml" 251 8471 8497 "Homework 1/intro.ml" 251 8471 8499
+type(
+  int
+)
+ident(
+  def st "Homework 1/intro.ml" 251 8471 8505 "Homework 1/intro.ml" 268 8931 8941
+)
+"Homework 1/intro.ml" 252 8517 8522 "Homework 1/intro.ml" 252 8517 8524
+type(
+  int
+)
+ident(
+  int_ref st "Homework 1/intro.ml" 251 8471 8497 "Homework 1/intro.ml" 251 8471 8499
+)
+"Homework 1/intro.ml" 252 8517 8525 "Homework 1/intro.ml" 252 8517 8526
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"Homework 1/intro.ml" 252 8517 8527 "Homework 1/intro.ml" 252 8517 8528
+type(
+  int
+)
+"Homework 1/intro.ml" 252 8517 8522 "Homework 1/intro.ml" 252 8517 8528
+type(
+  bool
+)
+"Homework 1/intro.ml" 252 8517 8534 "Homework 1/intro.ml" 252 8517 8539
+type(
+  string
+)
+"Homework 1/intro.ml" 253 8541 8550 "Homework 1/intro.ml" 253 8541 8552
+type(
+  int
+)
+ident(
+  int_ref st "Homework 1/intro.ml" 251 8471 8497 "Homework 1/intro.ml" 251 8471 8499
+)
+"Homework 1/intro.ml" 253 8541 8553 "Homework 1/intro.ml" 253 8541 8554
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 253 8541 8555 "Homework 1/intro.ml" 253 8541 8557
+type(
+  int
+)
+"Homework 1/intro.ml" 253 8541 8550 "Homework 1/intro.ml" 253 8541 8557
+type(
+  bool
+)
+"Homework 1/intro.ml" 253 8541 8558 "Homework 1/intro.ml" 253 8541 8560
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( || )
+)
+"Homework 1/intro.ml" 253 8541 8561 "Homework 1/intro.ml" 253 8541 8563
+type(
+  int
+)
+ident(
+  int_ref st "Homework 1/intro.ml" 251 8471 8497 "Homework 1/intro.ml" 251 8471 8499
+)
+"Homework 1/intro.ml" 253 8541 8564 "Homework 1/intro.ml" 253 8541 8565
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 253 8541 8566 "Homework 1/intro.ml" 253 8541 8568
+type(
+  int
+)
+"Homework 1/intro.ml" 253 8541 8561 "Homework 1/intro.ml" 253 8541 8568
+type(
+  bool
+)
+"Homework 1/intro.ml" 253 8541 8550 "Homework 1/intro.ml" 253 8541 8568
+type(
+  bool
+)
+"Homework 1/intro.ml" 253 8541 8574 "Homework 1/intro.ml" 253 8541 8578
+type(
+  string
+)
+"Homework 1/intro.ml" 254 8580 8589 "Homework 1/intro.ml" 254 8580 8591
+type(
+  int
+)
+ident(
+  int_ref st "Homework 1/intro.ml" 251 8471 8497 "Homework 1/intro.ml" 251 8471 8499
+)
+"Homework 1/intro.ml" 254 8580 8592 "Homework 1/intro.ml" 254 8580 8593
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 254 8580 8594 "Homework 1/intro.ml" 254 8580 8596
+type(
+  int
+)
+"Homework 1/intro.ml" 254 8580 8589 "Homework 1/intro.ml" 254 8580 8596
+type(
+  bool
+)
+"Homework 1/intro.ml" 254 8580 8597 "Homework 1/intro.ml" 254 8580 8599
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( || )
+)
+"Homework 1/intro.ml" 254 8580 8600 "Homework 1/intro.ml" 254 8580 8602
+type(
+  int
+)
+ident(
+  int_ref st "Homework 1/intro.ml" 251 8471 8497 "Homework 1/intro.ml" 251 8471 8499
+)
+"Homework 1/intro.ml" 254 8580 8603 "Homework 1/intro.ml" 254 8580 8604
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 254 8580 8605 "Homework 1/intro.ml" 254 8580 8607
+type(
+  int
+)
+"Homework 1/intro.ml" 254 8580 8600 "Homework 1/intro.ml" 254 8580 8607
+type(
+  bool
+)
+"Homework 1/intro.ml" 254 8580 8589 "Homework 1/intro.ml" 254 8580 8607
+type(
+  bool
+)
+"Homework 1/intro.ml" 254 8580 8613 "Homework 1/intro.ml" 254 8580 8617
+type(
+  string
+)
+"Homework 1/intro.ml" 255 8619 8628 "Homework 1/intro.ml" 255 8619 8630
+type(
+  int
+)
+ident(
+  int_ref st "Homework 1/intro.ml" 251 8471 8497 "Homework 1/intro.ml" 251 8471 8499
+)
+"Homework 1/intro.ml" 255 8619 8631 "Homework 1/intro.ml" 255 8619 8632
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 255 8619 8633 "Homework 1/intro.ml" 255 8619 8635
+type(
+  int
+)
+"Homework 1/intro.ml" 255 8619 8628 "Homework 1/intro.ml" 255 8619 8635
+type(
+  bool
+)
+"Homework 1/intro.ml" 255 8619 8641 "Homework 1/intro.ml" 255 8619 8645
+type(
+  string
+)
+"Homework 1/intro.ml" 256 8647 8656 "Homework 1/intro.ml" 256 8647 8658
+type(
+  int
+)
+ident(
+  int_ref st "Homework 1/intro.ml" 251 8471 8497 "Homework 1/intro.ml" 251 8471 8499
+)
+"Homework 1/intro.ml" 256 8647 8659 "Homework 1/intro.ml" 256 8647 8660
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 256 8647 8661 "Homework 1/intro.ml" 256 8647 8663
+type(
+  int
+)
+"Homework 1/intro.ml" 256 8647 8656 "Homework 1/intro.ml" 256 8647 8663
+type(
+  bool
+)
+"Homework 1/intro.ml" 256 8647 8664 "Homework 1/intro.ml" 256 8647 8666
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( || )
+)
+"Homework 1/intro.ml" 256 8647 8667 "Homework 1/intro.ml" 256 8647 8669
+type(
+  int
+)
+ident(
+  int_ref st "Homework 1/intro.ml" 251 8471 8497 "Homework 1/intro.ml" 251 8471 8499
+)
+"Homework 1/intro.ml" 256 8647 8670 "Homework 1/intro.ml" 256 8647 8671
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 256 8647 8672 "Homework 1/intro.ml" 256 8647 8674
+type(
+  int
+)
+"Homework 1/intro.ml" 256 8647 8667 "Homework 1/intro.ml" 256 8647 8674
+type(
+  bool
+)
+"Homework 1/intro.ml" 256 8647 8656 "Homework 1/intro.ml" 256 8647 8674
+type(
+  bool
+)
+"Homework 1/intro.ml" 256 8647 8680 "Homework 1/intro.ml" 256 8647 8683
+type(
+  string
+)
+"Homework 1/intro.ml" 257 8685 8694 "Homework 1/intro.ml" 257 8685 8696
+type(
+  int
+)
+ident(
+  int_ref st "Homework 1/intro.ml" 251 8471 8497 "Homework 1/intro.ml" 251 8471 8499
+)
+"Homework 1/intro.ml" 257 8685 8697 "Homework 1/intro.ml" 257 8685 8698
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 257 8685 8699 "Homework 1/intro.ml" 257 8685 8701
+type(
+  int
+)
+"Homework 1/intro.ml" 257 8685 8694 "Homework 1/intro.ml" 257 8685 8701
+type(
+  bool
+)
+"Homework 1/intro.ml" 257 8685 8707 "Homework 1/intro.ml" 257 8685 8710
+type(
+  string
+)
+"Homework 1/intro.ml" 258 8712 8721 "Homework 1/intro.ml" 258 8712 8723
+type(
+  int
+)
+ident(
+  int_ref st "Homework 1/intro.ml" 251 8471 8497 "Homework 1/intro.ml" 251 8471 8499
+)
+"Homework 1/intro.ml" 258 8712 8724 "Homework 1/intro.ml" 258 8712 8725
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( > )
+)
+"Homework 1/intro.ml" 258 8712 8726 "Homework 1/intro.ml" 258 8712 8728
+type(
+  int
+)
+"Homework 1/intro.ml" 258 8712 8721 "Homework 1/intro.ml" 258 8712 8728
+type(
+  bool
+)
+"Homework 1/intro.ml" 258 8712 8734 "Homework 1/intro.ml" 258 8712 8739
+type(
+  string
+)
+"Homework 1/intro.ml" 259 8741 8750 "Homework 1/intro.ml" 259 8741 8752
+type(
+  int
+)
+ident(
+  int_ref st "Homework 1/intro.ml" 251 8471 8497 "Homework 1/intro.ml" 251 8471 8499
+)
+"Homework 1/intro.ml" 259 8741 8753 "Homework 1/intro.ml" 259 8741 8754
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"Homework 1/intro.ml" 259 8741 8755 "Homework 1/intro.ml" 259 8741 8757
+type(
+  int
+)
+"Homework 1/intro.ml" 259 8741 8750 "Homework 1/intro.ml" 259 8741 8757
+type(
+  bool
+)
+"Homework 1/intro.ml" 260 8765 8770 "Homework 1/intro.ml" 260 8765 8772
+type(
+  int
+)
+ident(
+  int_ref st "Homework 1/intro.ml" 251 8471 8497 "Homework 1/intro.ml" 251 8471 8499
+)
+"Homework 1/intro.ml" 260 8765 8773 "Homework 1/intro.ml" 260 8765 8776
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( mod )
+)
+"Homework 1/intro.ml" 260 8765 8777 "Homework 1/intro.ml" 260 8765 8778
+type(
+  int
+)
+"Homework 1/intro.ml" 260 8765 8770 "Homework 1/intro.ml" 260 8765 8778
+type(
+  int
+)
+"Homework 1/intro.ml" 260 8765 8779 "Homework 1/intro.ml" 260 8765 8780
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 260 8765 8781 "Homework 1/intro.ml" 260 8765 8782
+type(
+  int
+)
+"Homework 1/intro.ml" 260 8765 8770 "Homework 1/intro.ml" 260 8765 8782
+type(
+  bool
+)
+"Homework 1/intro.ml" 260 8765 8788 "Homework 1/intro.ml" 260 8765 8791
+type(
+  string
+)
+"Homework 1/intro.ml" 261 8793 8800 "Homework 1/intro.ml" 261 8793 8803
+type(
+  string
+)
+"Homework 1/intro.ml" 260 8765 8767 "Homework 1/intro.ml" 261 8793 8803
+type(
+  string
+)
+"Homework 1/intro.ml" 262 8805 8814 "Homework 1/intro.ml" 262 8805 8816
+type(
+  int
+)
+ident(
+  int_ref st "Homework 1/intro.ml" 251 8471 8497 "Homework 1/intro.ml" 251 8471 8499
+)
+"Homework 1/intro.ml" 262 8805 8817 "Homework 1/intro.ml" 262 8805 8818
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"Homework 1/intro.ml" 262 8805 8819 "Homework 1/intro.ml" 262 8805 8821
+type(
+  int
+)
+"Homework 1/intro.ml" 262 8805 8814 "Homework 1/intro.ml" 262 8805 8821
+type(
+  bool
+)
+"Homework 1/intro.ml" 263 8828 8833 "Homework 1/intro.ml" 263 8828 8835
+type(
+  int
+)
+ident(
+  int_ref st "Homework 1/intro.ml" 251 8471 8497 "Homework 1/intro.ml" 251 8471 8499
+)
+"Homework 1/intro.ml" 263 8828 8836 "Homework 1/intro.ml" 263 8828 8839
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( mod )
+)
+"Homework 1/intro.ml" 263 8828 8840 "Homework 1/intro.ml" 263 8828 8841
+type(
+  int
+)
+"Homework 1/intro.ml" 263 8828 8833 "Homework 1/intro.ml" 263 8828 8841
+type(
+  int
+)
+"Homework 1/intro.ml" 263 8828 8842 "Homework 1/intro.ml" 263 8828 8843
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 263 8828 8844 "Homework 1/intro.ml" 263 8828 8845
+type(
+  int
+)
+"Homework 1/intro.ml" 263 8828 8833 "Homework 1/intro.ml" 263 8828 8845
+type(
+  bool
+)
+"Homework 1/intro.ml" 263 8828 8851 "Homework 1/intro.ml" 263 8828 8854
+type(
+  string
+)
+"Homework 1/intro.ml" 264 8856 8863 "Homework 1/intro.ml" 264 8856 8866
+type(
+  string
+)
+"Homework 1/intro.ml" 263 8828 8830 "Homework 1/intro.ml" 264 8856 8866
+type(
+  string
+)
+"Homework 1/intro.ml" 265 8868 8877 "Homework 1/intro.ml" 265 8868 8879
+type(
+  int
+)
+ident(
+  int_ref st "Homework 1/intro.ml" 251 8471 8497 "Homework 1/intro.ml" 251 8471 8499
+)
+"Homework 1/intro.ml" 265 8868 8880 "Homework 1/intro.ml" 265 8868 8881
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"Homework 1/intro.ml" 265 8868 8882 "Homework 1/intro.ml" 265 8868 8884
+type(
+  int
+)
+"Homework 1/intro.ml" 265 8868 8877 "Homework 1/intro.ml" 265 8868 8884
+type(
+  bool
+)
+"Homework 1/intro.ml" 266 8891 8896 "Homework 1/intro.ml" 266 8891 8898
+type(
+  int
+)
+ident(
+  int_ref st "Homework 1/intro.ml" 251 8471 8497 "Homework 1/intro.ml" 251 8471 8499
+)
+"Homework 1/intro.ml" 266 8891 8899 "Homework 1/intro.ml" 266 8891 8902
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( mod )
+)
+"Homework 1/intro.ml" 266 8891 8903 "Homework 1/intro.ml" 266 8891 8904
+type(
+  int
+)
+"Homework 1/intro.ml" 266 8891 8896 "Homework 1/intro.ml" 266 8891 8904
+type(
+  int
+)
+"Homework 1/intro.ml" 266 8891 8905 "Homework 1/intro.ml" 266 8891 8906
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 266 8891 8907 "Homework 1/intro.ml" 266 8891 8908
+type(
+  int
+)
+"Homework 1/intro.ml" 266 8891 8896 "Homework 1/intro.ml" 266 8891 8908
+type(
+  bool
+)
+"Homework 1/intro.ml" 266 8891 8914 "Homework 1/intro.ml" 266 8891 8917
+type(
+  string
+)
+"Homework 1/intro.ml" 267 8919 8926 "Homework 1/intro.ml" 267 8919 8929
+type(
+  string
+)
+"Homework 1/intro.ml" 266 8891 8893 "Homework 1/intro.ml" 267 8919 8929
+type(
+  string
+)
+"Homework 1/intro.ml" 268 8931 8937 "Homework 1/intro.ml" 268 8931 8941
+type(
+  string
+)
+"Homework 1/intro.ml" 265 8868 8874 "Homework 1/intro.ml" 268 8931 8941
+type(
+  string
+)
+"Homework 1/intro.ml" 262 8805 8811 "Homework 1/intro.ml" 268 8931 8941
+type(
+  string
+)
+"Homework 1/intro.ml" 259 8741 8747 "Homework 1/intro.ml" 268 8931 8941
+type(
+  string
+)
+"Homework 1/intro.ml" 258 8712 8718 "Homework 1/intro.ml" 268 8931 8941
+type(
+  string
+)
+"Homework 1/intro.ml" 257 8685 8691 "Homework 1/intro.ml" 268 8931 8941
+type(
+  string
+)
+"Homework 1/intro.ml" 256 8647 8653 "Homework 1/intro.ml" 268 8931 8941
+type(
+  string
+)
+"Homework 1/intro.ml" 255 8619 8625 "Homework 1/intro.ml" 268 8931 8941
+type(
+  string
+)
+"Homework 1/intro.ml" 254 8580 8586 "Homework 1/intro.ml" 268 8931 8941
+type(
+  string
+)
+"Homework 1/intro.ml" 253 8541 8547 "Homework 1/intro.ml" 268 8931 8941
+type(
+  string
+)
+"Homework 1/intro.ml" 252 8517 8519 "Homework 1/intro.ml" 268 8931 8941
+type(
+  string
+)
+type(
+  string
+)
+"Homework 1/intro.ml" 271 8948 8952 "Homework 1/intro.ml" 271 8948 8956
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 273 9002 9005 --
+)
+"Homework 1/intro.ml" 271 8948 8957 "Homework 1/intro.ml" 271 8948 8959
+type(
+  unit
+)
+"Homework 1/intro.ml" 272 8970 8973 "Homework 1/intro.ml" 272 8970 8989
+type(
+  int -> string
+)
+ident(
+  int_ref street_direction "Homework 1/intro.ml" 251 8471 8479 "Homework 1/intro.ml" 251 8471 8495
+)
+"Homework 1/intro.ml" 272 8970 8990 "Homework 1/intro.ml" 272 8970 8992
+type(
+  int
+)
+"Homework 1/intro.ml" 272 8970 8972 "Homework 1/intro.ml" 272 8970 8993
+call(
+  stack
+)
+type(
+  string
+)
+"Homework 1/intro.ml" 272 8970 8994 "Homework 1/intro.ml" 272 8970 8995
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 272 8970 8996 "Homework 1/intro.ml" 272 8970 9000
+type(
+  string
+)
+"Homework 1/intro.ml" 272 8970 8972 "Homework 1/intro.ml" 272 8970 9000
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 273 9002 9005 "Homework 1/intro.ml" 273 9002 9013
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 273 9002 9014 "Homework 1/intro.ml" 273 9002 9032
+type(
+  string
+)
+"Homework 1/intro.ml" 273 9002 9033 "Homework 1/intro.ml" 273 9002 9037
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 271 8948 8952 "Homework 1/intro.ml" 271 8948 8956
+)
+"Homework 1/intro.ml" 273 9002 9005 "Homework 1/intro.ml" 273 9002 9037
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 275 9042 9046 "Homework 1/intro.ml" 275 9042 9050
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 277 9094 9097 --
+)
+"Homework 1/intro.ml" 275 9042 9051 "Homework 1/intro.ml" 275 9042 9053
+type(
+  unit
+)
+"Homework 1/intro.ml" 276 9064 9067 "Homework 1/intro.ml" 276 9064 9083
+type(
+  int -> string
+)
+ident(
+  int_ref street_direction "Homework 1/intro.ml" 251 8471 8479 "Homework 1/intro.ml" 251 8471 8495
+)
+"Homework 1/intro.ml" 276 9064 9084 "Homework 1/intro.ml" 276 9064 9085
+type(
+  int
+)
+"Homework 1/intro.ml" 276 9064 9066 "Homework 1/intro.ml" 276 9064 9086
+call(
+  stack
+)
+type(
+  string
+)
+"Homework 1/intro.ml" 276 9064 9087 "Homework 1/intro.ml" 276 9064 9088
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 276 9064 9089 "Homework 1/intro.ml" 276 9064 9092
+type(
+  string
+)
+"Homework 1/intro.ml" 276 9064 9066 "Homework 1/intro.ml" 276 9064 9092
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 277 9094 9097 "Homework 1/intro.ml" 277 9094 9105
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 277 9094 9106 "Homework 1/intro.ml" 277 9094 9122
+type(
+  string
+)
+"Homework 1/intro.ml" 277 9094 9123 "Homework 1/intro.ml" 277 9094 9127
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 275 9042 9046 "Homework 1/intro.ml" 275 9042 9050
+)
+"Homework 1/intro.ml" 277 9094 9097 "Homework 1/intro.ml" 277 9094 9127
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 279 9132 9136 "Homework 1/intro.ml" 279 9132 9140
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 281 9185 9188 --
+)
+"Homework 1/intro.ml" 279 9132 9141 "Homework 1/intro.ml" 279 9132 9143
+type(
+  unit
+)
+"Homework 1/intro.ml" 280 9154 9157 "Homework 1/intro.ml" 280 9154 9173
+type(
+  int -> string
+)
+ident(
+  int_ref street_direction "Homework 1/intro.ml" 251 8471 8479 "Homework 1/intro.ml" 251 8471 8495
+)
+"Homework 1/intro.ml" 280 9154 9174 "Homework 1/intro.ml" 280 9154 9176
+type(
+  int
+)
+"Homework 1/intro.ml" 280 9154 9156 "Homework 1/intro.ml" 280 9154 9177
+call(
+  stack
+)
+type(
+  string
+)
+"Homework 1/intro.ml" 280 9154 9178 "Homework 1/intro.ml" 280 9154 9179
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 280 9154 9180 "Homework 1/intro.ml" 280 9154 9183
+type(
+  string
+)
+"Homework 1/intro.ml" 280 9154 9156 "Homework 1/intro.ml" 280 9154 9183
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 281 9185 9188 "Homework 1/intro.ml" 281 9185 9196
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 281 9185 9197 "Homework 1/intro.ml" 281 9185 9214
+type(
+  string
+)
+"Homework 1/intro.ml" 281 9185 9215 "Homework 1/intro.ml" 281 9185 9219
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 279 9132 9136 "Homework 1/intro.ml" 279 9132 9140
+)
+"Homework 1/intro.ml" 281 9185 9188 "Homework 1/intro.ml" 281 9185 9219
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 283 9224 9228 "Homework 1/intro.ml" 283 9224 9232
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 285 9278 9281 --
+)
+"Homework 1/intro.ml" 283 9224 9233 "Homework 1/intro.ml" 283 9224 9235
+type(
+  unit
+)
+"Homework 1/intro.ml" 284 9246 9249 "Homework 1/intro.ml" 284 9246 9265
+type(
+  int -> string
+)
+ident(
+  int_ref street_direction "Homework 1/intro.ml" 251 8471 8479 "Homework 1/intro.ml" 251 8471 8495
+)
+"Homework 1/intro.ml" 284 9246 9266 "Homework 1/intro.ml" 284 9246 9268
+type(
+  int
+)
+"Homework 1/intro.ml" 284 9246 9248 "Homework 1/intro.ml" 284 9246 9269
+call(
+  stack
+)
+type(
+  string
+)
+"Homework 1/intro.ml" 284 9246 9270 "Homework 1/intro.ml" 284 9246 9271
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 284 9246 9272 "Homework 1/intro.ml" 284 9246 9276
+type(
+  string
+)
+"Homework 1/intro.ml" 284 9246 9248 "Homework 1/intro.ml" 284 9246 9276
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 285 9278 9281 "Homework 1/intro.ml" 285 9278 9289
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 285 9278 9290 "Homework 1/intro.ml" 285 9278 9307
+type(
+  string
+)
+"Homework 1/intro.ml" 285 9278 9308 "Homework 1/intro.ml" 285 9278 9312
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 283 9224 9228 "Homework 1/intro.ml" 283 9224 9232
+)
+"Homework 1/intro.ml" 285 9278 9281 "Homework 1/intro.ml" 285 9278 9312
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 287 9317 9321 "Homework 1/intro.ml" 287 9317 9325
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 289 9371 9374 --
+)
+"Homework 1/intro.ml" 287 9317 9326 "Homework 1/intro.ml" 287 9317 9328
+type(
+  unit
+)
+"Homework 1/intro.ml" 288 9339 9341 "Homework 1/intro.ml" 288 9339 9357
+type(
+  int -> string
+)
+ident(
+  int_ref street_direction "Homework 1/intro.ml" 251 8471 8479 "Homework 1/intro.ml" 251 8471 8495
+)
+"Homework 1/intro.ml" 288 9339 9358 "Homework 1/intro.ml" 288 9339 9360
+type(
+  int
+)
+"Homework 1/intro.ml" 288 9339 9340 "Homework 1/intro.ml" 288 9339 9361
+call(
+  stack
+)
+type(
+  string
+)
+"Homework 1/intro.ml" 288 9339 9362 "Homework 1/intro.ml" 288 9339 9363
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 288 9339 9364 "Homework 1/intro.ml" 288 9339 9369
+type(
+  string
+)
+"Homework 1/intro.ml" 288 9339 9340 "Homework 1/intro.ml" 288 9339 9369
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 289 9371 9374 "Homework 1/intro.ml" 289 9371 9382
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 289 9371 9383 "Homework 1/intro.ml" 289 9371 9403
+type(
+  string
+)
+"Homework 1/intro.ml" 289 9371 9404 "Homework 1/intro.ml" 289 9371 9408
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 287 9317 9321 "Homework 1/intro.ml" 287 9317 9325
+)
+"Homework 1/intro.ml" 289 9371 9374 "Homework 1/intro.ml" 289 9371 9408
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 303 9899 9907 "Homework 1/intro.ml" 303 9899 9913
+type(
+  bool list -> bool
+)
+ident(
+  def exists "Homework 1/intro.ml" 303 9899 9899 --
+)
+"Homework 1/intro.ml" 303 9899 9915 "Homework 1/intro.ml" 303 9899 9920
+type(
+  bool list
+)
+ident(
+  def bools "Homework 1/intro.ml" 303 9899 9933 "Homework 1/intro.ml" 307 10024 10028
+)
+"Homework 1/intro.ml" 304 9943 9957 "Homework 1/intro.ml" 304 9943 9962
+type(
+  bool list
+)
+ident(
+  int_ref bools "Homework 1/intro.ml" 303 9899 9915 "Homework 1/intro.ml" 303 9899 9920
+)
+"Homework 1/intro.ml" 305 9969 9972 "Homework 1/intro.ml" 305 9969 9974
+type(
+  bool list
+)
+"Homework 1/intro.ml" 305 9969 9978 "Homework 1/intro.ml" 305 9969 9983
+type(
+  bool
+)
+"Homework 1/intro.ml" 306 9985 9988 "Homework 1/intro.ml" 306 9985 9990
+type(
+  bool
+)
+ident(
+  def hd "Homework 1/intro.ml" 306 9985 10000 "Homework 1/intro.ml" 306 9985 10022
+)
+"Homework 1/intro.ml" 306 9985 9994 "Homework 1/intro.ml" 306 9985 9996
+type(
+  bool list
+)
+ident(
+  def tl "Homework 1/intro.ml" 306 9985 10000 "Homework 1/intro.ml" 306 9985 10022
+)
+"Homework 1/intro.ml" 306 9985 9988 "Homework 1/intro.ml" 306 9985 9996
+type(
+  bool list
+)
+"Homework 1/intro.ml" 306 9985 10000 "Homework 1/intro.ml" 306 9985 10002
+type(
+  bool
+)
+ident(
+  int_ref hd "Homework 1/intro.ml" 306 9985 9988 "Homework 1/intro.ml" 306 9985 9990
+)
+"Homework 1/intro.ml" 306 9985 10003 "Homework 1/intro.ml" 306 9985 10004
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 306 9985 10005 "Homework 1/intro.ml" 306 9985 10009
+type(
+  bool
+)
+"Homework 1/intro.ml" 306 9985 10000 "Homework 1/intro.ml" 306 9985 10009
+type(
+  bool
+)
+"Homework 1/intro.ml" 306 9985 10010 "Homework 1/intro.ml" 306 9985 10012
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( || )
+)
+"Homework 1/intro.ml" 306 9985 10013 "Homework 1/intro.ml" 306 9985 10019
+type(
+  bool list -> bool
+)
+ident(
+  int_ref exists "Homework 1/intro.ml" 303 9899 9907 "Homework 1/intro.ml" 303 9899 9913
+)
+"Homework 1/intro.ml" 306 9985 10020 "Homework 1/intro.ml" 306 9985 10022
+type(
+  bool list
+)
+ident(
+  int_ref tl "Homework 1/intro.ml" 306 9985 9994 "Homework 1/intro.ml" 306 9985 9996
+)
+"Homework 1/intro.ml" 306 9985 10013 "Homework 1/intro.ml" 306 9985 10022
+call(
+  tail
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 306 9985 10000 "Homework 1/intro.ml" 306 9985 10022
+type(
+  bool
+)
+"Homework 1/intro.ml" 304 9943 9945 "Homework 1/intro.ml" 307 10024 10028
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 310 10034 10038 "Homework 1/intro.ml" 310 10034 10042
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 312 10091 10094 --
+)
+"Homework 1/intro.ml" 310 10034 10043 "Homework 1/intro.ml" 310 10034 10045
+type(
+  unit
+)
+"Homework 1/intro.ml" 311 10056 10059 "Homework 1/intro.ml" 311 10056 10065
+type(
+  bool list -> bool
+)
+ident(
+  int_ref exists "Homework 1/intro.ml" 303 9899 9907 "Homework 1/intro.ml" 303 9899 9913
+)
+"Homework 1/intro.ml" 311 10056 10067 "Homework 1/intro.ml" 311 10056 10072
+type(
+  bool
+)
+"Homework 1/intro.ml" 311 10056 10074 "Homework 1/intro.ml" 311 10056 10079
+type(
+  bool
+)
+"Homework 1/intro.ml" 311 10056 10066 "Homework 1/intro.ml" 311 10056 10080
+type(
+  bool list
+)
+"Homework 1/intro.ml" 311 10056 10058 "Homework 1/intro.ml" 311 10056 10081
+call(
+  stack
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 311 10056 10082 "Homework 1/intro.ml" 311 10056 10083
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 311 10056 10084 "Homework 1/intro.ml" 311 10056 10089
+type(
+  bool
+)
+"Homework 1/intro.ml" 311 10056 10058 "Homework 1/intro.ml" 311 10056 10089
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 312 10091 10094 "Homework 1/intro.ml" 312 10091 10102
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 312 10091 10103 "Homework 1/intro.ml" 312 10091 10126
+type(
+  string
+)
+"Homework 1/intro.ml" 312 10091 10127 "Homework 1/intro.ml" 312 10091 10131
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 310 10034 10038 "Homework 1/intro.ml" 310 10034 10042
+)
+"Homework 1/intro.ml" 312 10091 10094 "Homework 1/intro.ml" 312 10091 10131
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 314 10136 10140 "Homework 1/intro.ml" 314 10136 10144
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 316 10197 10200 --
+)
+"Homework 1/intro.ml" 314 10136 10145 "Homework 1/intro.ml" 314 10136 10147
+type(
+  unit
+)
+"Homework 1/intro.ml" 315 10158 10161 "Homework 1/intro.ml" 315 10158 10167
+type(
+  bool list -> bool
+)
+ident(
+  int_ref exists "Homework 1/intro.ml" 303 9899 9907 "Homework 1/intro.ml" 303 9899 9913
+)
+"Homework 1/intro.ml" 315 10158 10169 "Homework 1/intro.ml" 315 10158 10173
+type(
+  bool
+)
+"Homework 1/intro.ml" 315 10158 10175 "Homework 1/intro.ml" 315 10158 10180
+type(
+  bool
+)
+"Homework 1/intro.ml" 315 10158 10182 "Homework 1/intro.ml" 315 10158 10186
+type(
+  bool
+)
+"Homework 1/intro.ml" 315 10158 10168 "Homework 1/intro.ml" 315 10158 10187
+type(
+  bool list
+)
+"Homework 1/intro.ml" 315 10158 10160 "Homework 1/intro.ml" 315 10158 10188
+call(
+  stack
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 315 10158 10189 "Homework 1/intro.ml" 315 10158 10190
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 315 10158 10191 "Homework 1/intro.ml" 315 10158 10195
+type(
+  bool
+)
+"Homework 1/intro.ml" 315 10158 10160 "Homework 1/intro.ml" 315 10158 10195
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 316 10197 10200 "Homework 1/intro.ml" 316 10197 10208
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 316 10197 10209 "Homework 1/intro.ml" 316 10197 10237
+type(
+  string
+)
+"Homework 1/intro.ml" 316 10197 10238 "Homework 1/intro.ml" 316 10197 10242
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 314 10136 10140 "Homework 1/intro.ml" 314 10136 10144
+)
+"Homework 1/intro.ml" 316 10197 10200 "Homework 1/intro.ml" 316 10197 10242
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 318 10247 10251 "Homework 1/intro.ml" 318 10247 10255
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 320 10316 10319 --
+)
+"Homework 1/intro.ml" 318 10247 10256 "Homework 1/intro.ml" 318 10247 10258
+type(
+  unit
+)
+"Homework 1/intro.ml" 319 10269 10272 "Homework 1/intro.ml" 319 10269 10278
+type(
+  bool list -> bool
+)
+ident(
+  int_ref exists "Homework 1/intro.ml" 303 9899 9907 "Homework 1/intro.ml" 303 9899 9913
+)
+"Homework 1/intro.ml" 319 10269 10280 "Homework 1/intro.ml" 319 10269 10285
+type(
+  bool
+)
+"Homework 1/intro.ml" 319 10269 10287 "Homework 1/intro.ml" 319 10269 10292
+type(
+  bool
+)
+"Homework 1/intro.ml" 319 10269 10294 "Homework 1/intro.ml" 319 10269 10299
+type(
+  bool
+)
+"Homework 1/intro.ml" 319 10269 10301 "Homework 1/intro.ml" 319 10269 10305
+type(
+  bool
+)
+"Homework 1/intro.ml" 319 10269 10279 "Homework 1/intro.ml" 319 10269 10306
+type(
+  bool list
+)
+"Homework 1/intro.ml" 319 10269 10271 "Homework 1/intro.ml" 319 10269 10307
+call(
+  stack
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 319 10269 10308 "Homework 1/intro.ml" 319 10269 10309
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 319 10269 10310 "Homework 1/intro.ml" 319 10269 10314
+type(
+  bool
+)
+"Homework 1/intro.ml" 319 10269 10271 "Homework 1/intro.ml" 319 10269 10314
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 320 10316 10319 "Homework 1/intro.ml" 320 10316 10327
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 320 10316 10328 "Homework 1/intro.ml" 320 10316 10364
+type(
+  string
+)
+"Homework 1/intro.ml" 320 10316 10365 "Homework 1/intro.ml" 320 10316 10369
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 318 10247 10251 "Homework 1/intro.ml" 318 10247 10255
+)
+"Homework 1/intro.ml" 320 10316 10319 "Homework 1/intro.ml" 320 10316 10369
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 322 10374 10378 "Homework 1/intro.ml" 322 10374 10382
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 324 10440 10443 --
+)
+"Homework 1/intro.ml" 322 10374 10383 "Homework 1/intro.ml" 322 10374 10385
+type(
+  unit
+)
+"Homework 1/intro.ml" 323 10396 10399 "Homework 1/intro.ml" 323 10396 10405
+type(
+  bool list -> bool
+)
+ident(
+  int_ref exists "Homework 1/intro.ml" 303 9899 9907 "Homework 1/intro.ml" 303 9899 9913
+)
+"Homework 1/intro.ml" 323 10396 10407 "Homework 1/intro.ml" 323 10396 10411
+type(
+  bool
+)
+"Homework 1/intro.ml" 323 10396 10413 "Homework 1/intro.ml" 323 10396 10417
+type(
+  bool
+)
+"Homework 1/intro.ml" 323 10396 10419 "Homework 1/intro.ml" 323 10396 10423
+type(
+  bool
+)
+"Homework 1/intro.ml" 323 10396 10425 "Homework 1/intro.ml" 323 10396 10429
+type(
+  bool
+)
+"Homework 1/intro.ml" 323 10396 10406 "Homework 1/intro.ml" 323 10396 10430
+type(
+  bool list
+)
+"Homework 1/intro.ml" 323 10396 10398 "Homework 1/intro.ml" 323 10396 10431
+call(
+  stack
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 323 10396 10432 "Homework 1/intro.ml" 323 10396 10433
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 323 10396 10434 "Homework 1/intro.ml" 323 10396 10438
+type(
+  bool
+)
+"Homework 1/intro.ml" 323 10396 10398 "Homework 1/intro.ml" 323 10396 10438
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 324 10440 10443 "Homework 1/intro.ml" 324 10440 10451
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 324 10440 10452 "Homework 1/intro.ml" 324 10440 10485
+type(
+  string
+)
+"Homework 1/intro.ml" 324 10440 10486 "Homework 1/intro.ml" 324 10440 10490
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 322 10374 10378 "Homework 1/intro.ml" 322 10374 10382
+)
+"Homework 1/intro.ml" 324 10440 10443 "Homework 1/intro.ml" 324 10440 10490
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 339 11009 11017 "Homework 1/intro.ml" 339 11009 11021
+type(
+  string -> string list -> string
+)
+ident(
+  def join "Homework 1/intro.ml" 339 11009 11009 --
+)
+"Homework 1/intro.ml" 339 11009 11023 "Homework 1/intro.ml" 339 11009 11032
+type(
+  string
+)
+ident(
+  def separator "Homework 1/intro.ml" 339 11009 11042 "Homework 1/intro.ml" 344 11195 11199
+)
+"Homework 1/intro.ml" 339 11009 11043 "Homework 1/intro.ml" 339 11009 11044
+type(
+  string list
+)
+ident(
+  def l "Homework 1/intro.ml" 339 11009 11060 "Homework 1/intro.ml" 344 11195 11199
+)
+"Homework 1/intro.ml" 340 11073 11087 "Homework 1/intro.ml" 340 11073 11088
+type(
+  string list
+)
+ident(
+  int_ref l "Homework 1/intro.ml" 339 11009 11043 "Homework 1/intro.ml" 339 11009 11044
+)
+"Homework 1/intro.ml" 341 11095 11098 "Homework 1/intro.ml" 341 11095 11100
+type(
+  string list
+)
+"Homework 1/intro.ml" 341 11095 11104 "Homework 1/intro.ml" 341 11095 11106
+type(
+  string
+)
+"Homework 1/intro.ml" 342 11108 11111 "Homework 1/intro.ml" 342 11108 11113
+type(
+  string
+)
+ident(
+  def hd "Homework 1/intro.ml" 342 11108 11121 "Homework 1/intro.ml" 342 11108 11143
+)
+"Homework 1/intro.ml" 342 11108 11115 "Homework 1/intro.ml" 342 11108 11117
+type(
+  string list
+)
+"Homework 1/intro.ml" 342 11108 11111 "Homework 1/intro.ml" 342 11108 11117
+type(
+  string list
+)
+"Homework 1/intro.ml" 342 11108 11121 "Homework 1/intro.ml" 342 11108 11123
+type(
+  string
+)
+ident(
+  int_ref hd "Homework 1/intro.ml" 342 11108 11111 "Homework 1/intro.ml" 342 11108 11113
+)
+"Homework 1/intro.ml" 342 11108 11124 "Homework 1/intro.ml" 342 11108 11125
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Homework 1/intro.ml" 342 11108 11126 "Homework 1/intro.ml" 342 11108 11130
+type(
+  string -> string list -> string
+)
+ident(
+  int_ref join "Homework 1/intro.ml" 339 11009 11017 "Homework 1/intro.ml" 339 11009 11021
+)
+"Homework 1/intro.ml" 342 11108 11131 "Homework 1/intro.ml" 342 11108 11140
+type(
+  string
+)
+ident(
+  int_ref separator "Homework 1/intro.ml" 339 11009 11023 "Homework 1/intro.ml" 339 11009 11032
+)
+"Homework 1/intro.ml" 342 11108 11141 "Homework 1/intro.ml" 342 11108 11143
+type(
+  string list
+)
+"Homework 1/intro.ml" 342 11108 11126 "Homework 1/intro.ml" 342 11108 11143
+call(
+  stack
+)
+type(
+  string
+)
+"Homework 1/intro.ml" 342 11108 11121 "Homework 1/intro.ml" 342 11108 11143
+call(
+  tail
+)
+type(
+  string
+)
+"Homework 1/intro.ml" 343 11145 11148 "Homework 1/intro.ml" 343 11145 11150
+type(
+  string
+)
+ident(
+  def hd "Homework 1/intro.ml" 343 11145 11159 "Homework 1/intro.ml" 343 11145 11193
+)
+"Homework 1/intro.ml" 343 11145 11152 "Homework 1/intro.ml" 343 11145 11154
+type(
+  string list
+)
+ident(
+  def tl "Homework 1/intro.ml" 343 11145 11159 "Homework 1/intro.ml" 343 11145 11193
+)
+"Homework 1/intro.ml" 343 11145 11148 "Homework 1/intro.ml" 343 11145 11154
+type(
+  string list
+)
+"Homework 1/intro.ml" 343 11145 11159 "Homework 1/intro.ml" 343 11145 11161
+type(
+  string
+)
+ident(
+  int_ref hd "Homework 1/intro.ml" 343 11145 11148 "Homework 1/intro.ml" 343 11145 11150
+)
+"Homework 1/intro.ml" 343 11145 11162 "Homework 1/intro.ml" 343 11145 11163
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Homework 1/intro.ml" 343 11145 11164 "Homework 1/intro.ml" 343 11145 11173
+type(
+  string
+)
+ident(
+  int_ref separator "Homework 1/intro.ml" 339 11009 11023 "Homework 1/intro.ml" 339 11009 11032
+)
+"Homework 1/intro.ml" 343 11145 11174 "Homework 1/intro.ml" 343 11145 11175
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Homework 1/intro.ml" 343 11145 11176 "Homework 1/intro.ml" 343 11145 11180
+type(
+  string -> string list -> string
+)
+ident(
+  int_ref join "Homework 1/intro.ml" 339 11009 11017 "Homework 1/intro.ml" 339 11009 11021
+)
+"Homework 1/intro.ml" 343 11145 11181 "Homework 1/intro.ml" 343 11145 11190
+type(
+  string
+)
+ident(
+  int_ref separator "Homework 1/intro.ml" 339 11009 11023 "Homework 1/intro.ml" 339 11009 11032
+)
+"Homework 1/intro.ml" 343 11145 11191 "Homework 1/intro.ml" 343 11145 11193
+type(
+  string list
+)
+ident(
+  int_ref tl "Homework 1/intro.ml" 343 11145 11152 "Homework 1/intro.ml" 343 11145 11154
+)
+"Homework 1/intro.ml" 343 11145 11176 "Homework 1/intro.ml" 343 11145 11193
+call(
+  stack
+)
+type(
+  string
+)
+"Homework 1/intro.ml" 343 11145 11164 "Homework 1/intro.ml" 343 11145 11193
+call(
+  stack
+)
+type(
+  string
+)
+"Homework 1/intro.ml" 343 11145 11159 "Homework 1/intro.ml" 343 11145 11193
+call(
+  tail
+)
+type(
+  string
+)
+"Homework 1/intro.ml" 340 11073 11075 "Homework 1/intro.ml" 344 11195 11199
+type(
+  string
+)
+type(
+  string
+)
+"Homework 1/intro.ml" 346 11203 11207 "Homework 1/intro.ml" 346 11203 11211
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 348 11263 11266 --
+)
+"Homework 1/intro.ml" 346 11203 11212 "Homework 1/intro.ml" 346 11203 11214
+type(
+  unit
+)
+"Homework 1/intro.ml" 347 11225 11228 "Homework 1/intro.ml" 347 11225 11232
+type(
+  string -> string list -> string
+)
+ident(
+  int_ref join "Homework 1/intro.ml" 339 11009 11017 "Homework 1/intro.ml" 339 11009 11021
+)
+"Homework 1/intro.ml" 347 11225 11233 "Homework 1/intro.ml" 347 11225 11236
+type(
+  string
+)
+"Homework 1/intro.ml" 347 11225 11238 "Homework 1/intro.ml" 347 11225 11241
+type(
+  string
+)
+"Homework 1/intro.ml" 347 11225 11242 "Homework 1/intro.ml" 347 11225 11245
+type(
+  string
+)
+"Homework 1/intro.ml" 347 11225 11246 "Homework 1/intro.ml" 347 11225 11249
+type(
+  string
+)
+"Homework 1/intro.ml" 347 11225 11237 "Homework 1/intro.ml" 347 11225 11250
+type(
+  string list
+)
+"Homework 1/intro.ml" 347 11225 11227 "Homework 1/intro.ml" 347 11225 11251
+call(
+  stack
+)
+type(
+  string
+)
+"Homework 1/intro.ml" 347 11225 11252 "Homework 1/intro.ml" 347 11225 11253
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 347 11225 11254 "Homework 1/intro.ml" 347 11225 11261
+type(
+  string
+)
+"Homework 1/intro.ml" 347 11225 11227 "Homework 1/intro.ml" 347 11225 11261
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 348 11263 11266 "Homework 1/intro.ml" 348 11263 11274
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 348 11263 11275 "Homework 1/intro.ml" 348 11263 11287
+type(
+  string
+)
+"Homework 1/intro.ml" 348 11263 11288 "Homework 1/intro.ml" 348 11263 11292
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 346 11203 11207 "Homework 1/intro.ml" 346 11203 11211
+)
+"Homework 1/intro.ml" 348 11263 11266 "Homework 1/intro.ml" 348 11263 11292
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 350 11297 11301 "Homework 1/intro.ml" 350 11297 11305
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 352 11355 11358 --
+)
+"Homework 1/intro.ml" 350 11297 11306 "Homework 1/intro.ml" 350 11297 11308
+type(
+  unit
+)
+"Homework 1/intro.ml" 351 11319 11322 "Homework 1/intro.ml" 351 11319 11326
+type(
+  string -> string list -> string
+)
+ident(
+  int_ref join "Homework 1/intro.ml" 339 11009 11017 "Homework 1/intro.ml" 339 11009 11021
+)
+"Homework 1/intro.ml" 351 11319 11327 "Homework 1/intro.ml" 351 11319 11329
+type(
+  string
+)
+"Homework 1/intro.ml" 351 11319 11331 "Homework 1/intro.ml" 351 11319 11334
+type(
+  string
+)
+"Homework 1/intro.ml" 351 11319 11335 "Homework 1/intro.ml" 351 11319 11338
+type(
+  string
+)
+"Homework 1/intro.ml" 351 11319 11339 "Homework 1/intro.ml" 351 11319 11342
+type(
+  string
+)
+"Homework 1/intro.ml" 351 11319 11330 "Homework 1/intro.ml" 351 11319 11343
+type(
+  string list
+)
+"Homework 1/intro.ml" 351 11319 11321 "Homework 1/intro.ml" 351 11319 11344
+call(
+  stack
+)
+type(
+  string
+)
+"Homework 1/intro.ml" 351 11319 11345 "Homework 1/intro.ml" 351 11319 11346
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 351 11319 11348 "Homework 1/intro.ml" 351 11319 11353
+type(
+  string
+)
+"Homework 1/intro.ml" 351 11319 11321 "Homework 1/intro.ml" 351 11319 11353
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 352 11355 11358 "Homework 1/intro.ml" 352 11355 11366
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 352 11355 11367 "Homework 1/intro.ml" 352 11355 11379
+type(
+  string
+)
+"Homework 1/intro.ml" 352 11355 11380 "Homework 1/intro.ml" 352 11355 11384
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 350 11297 11301 "Homework 1/intro.ml" 350 11297 11305
+)
+"Homework 1/intro.ml" 352 11355 11358 "Homework 1/intro.ml" 352 11355 11384
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 354 11389 11393 "Homework 1/intro.ml" 354 11389 11397
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 356 11449 11452 --
+)
+"Homework 1/intro.ml" 354 11389 11398 "Homework 1/intro.ml" 354 11389 11400
+type(
+  unit
+)
+"Homework 1/intro.ml" 355 11411 11414 "Homework 1/intro.ml" 355 11411 11418
+type(
+  string -> string list -> string
+)
+ident(
+  int_ref join "Homework 1/intro.ml" 339 11009 11017 "Homework 1/intro.ml" 339 11009 11021
+)
+"Homework 1/intro.ml" 355 11411 11419 "Homework 1/intro.ml" 355 11411 11422
+type(
+  string
+)
+"Homework 1/intro.ml" 355 11411 11424 "Homework 1/intro.ml" 355 11411 11427
+type(
+  string
+)
+"Homework 1/intro.ml" 355 11411 11428 "Homework 1/intro.ml" 355 11411 11431
+type(
+  string
+)
+"Homework 1/intro.ml" 355 11411 11432 "Homework 1/intro.ml" 355 11411 11435
+type(
+  string
+)
+"Homework 1/intro.ml" 355 11411 11423 "Homework 1/intro.ml" 355 11411 11436
+type(
+  string list
+)
+"Homework 1/intro.ml" 355 11411 11413 "Homework 1/intro.ml" 355 11411 11437
+call(
+  stack
+)
+type(
+  string
+)
+"Homework 1/intro.ml" 355 11411 11438 "Homework 1/intro.ml" 355 11411 11439
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 355 11411 11440 "Homework 1/intro.ml" 355 11411 11447
+type(
+  string
+)
+"Homework 1/intro.ml" 355 11411 11413 "Homework 1/intro.ml" 355 11411 11447
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 356 11449 11452 "Homework 1/intro.ml" 356 11449 11460
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 356 11449 11461 "Homework 1/intro.ml" 356 11449 11473
+type(
+  string
+)
+"Homework 1/intro.ml" 356 11449 11474 "Homework 1/intro.ml" 356 11449 11478
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 354 11389 11393 "Homework 1/intro.ml" 354 11389 11397
+)
+"Homework 1/intro.ml" 356 11449 11452 "Homework 1/intro.ml" 356 11449 11478
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 358 11483 11487 "Homework 1/intro.ml" 358 11483 11491
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 360 11527 11530 --
+)
+"Homework 1/intro.ml" 358 11483 11492 "Homework 1/intro.ml" 358 11483 11494
+type(
+  unit
+)
+"Homework 1/intro.ml" 359 11505 11508 "Homework 1/intro.ml" 359 11505 11512
+type(
+  string -> string list -> string
+)
+ident(
+  int_ref join "Homework 1/intro.ml" 339 11009 11017 "Homework 1/intro.ml" 339 11009 11021
+)
+"Homework 1/intro.ml" 359 11505 11513 "Homework 1/intro.ml" 359 11505 11516
+type(
+  string
+)
+"Homework 1/intro.ml" 359 11505 11517 "Homework 1/intro.ml" 359 11505 11519
+type(
+  string list
+)
+"Homework 1/intro.ml" 359 11505 11507 "Homework 1/intro.ml" 359 11505 11520
+call(
+  stack
+)
+type(
+  string
+)
+"Homework 1/intro.ml" 359 11505 11521 "Homework 1/intro.ml" 359 11505 11522
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 359 11505 11523 "Homework 1/intro.ml" 359 11505 11525
+type(
+  string
+)
+"Homework 1/intro.ml" 359 11505 11507 "Homework 1/intro.ml" 359 11505 11525
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 360 11527 11530 "Homework 1/intro.ml" 360 11527 11538
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 360 11527 11539 "Homework 1/intro.ml" 360 11527 11551
+type(
+  string
+)
+"Homework 1/intro.ml" 360 11527 11552 "Homework 1/intro.ml" 360 11527 11556
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 358 11483 11487 "Homework 1/intro.ml" 358 11483 11491
+)
+"Homework 1/intro.ml" 360 11527 11530 "Homework 1/intro.ml" 360 11527 11556
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 366 11719 11722 "Homework 1/intro.ml" 366 11719 11735
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"Homework 1/intro.ml" 366 11719 11736 "Homework 1/intro.ml" 366 11719 11762
+type(
+  string
+)
+"Homework 1/intro.ml" 366 11719 11722 "Homework 1/intro.ml" 366 11719 11762
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 367 11764 11767 "Homework 1/intro.ml" 367 11764 11780
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"Homework 1/intro.ml" 367 11764 11781 "Homework 1/intro.ml" 367 11764 11813
+type(
+  string
+)
+"Homework 1/intro.ml" 367 11764 11767 "Homework 1/intro.ml" 367 11764 11813
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 373 11930 11933 "Homework 1/intro.ml" 373 11930 11946
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"Homework 1/intro.ml" 373 11930 11948 "Homework 1/intro.ml" 373 11930 11952
+type(
+  string -> string list -> string
+)
+ident(
+  int_ref join "Homework 1/intro.ml" 339 11009 11017 "Homework 1/intro.ml" 339 11009 11021
+)
+"Homework 1/intro.ml" 373 11930 11953 "Homework 1/intro.ml" 373 11930 11956
+type(
+  string
+)
+"Homework 1/intro.ml" 373 11930 11958 "Homework 1/intro.ml" 373 11930 11961
+type(
+  string
+)
+"Homework 1/intro.ml" 373 11930 11962 "Homework 1/intro.ml" 373 11930 11965
+type(
+  string
+)
+"Homework 1/intro.ml" 373 11930 11966 "Homework 1/intro.ml" 373 11930 11969
+type(
+  string
+)
+"Homework 1/intro.ml" 373 11930 11957 "Homework 1/intro.ml" 373 11930 11970
+type(
+  string list
+)
+"Homework 1/intro.ml" 373 11930 11947 "Homework 1/intro.ml" 373 11930 11971
+call(
+  stack
+)
+type(
+  string
+)
+"Homework 1/intro.ml" 373 11930 11933 "Homework 1/intro.ml" 373 11930 11971
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 379 12076 12084 "Homework 1/intro.ml" 379 12076 12092
+type(
+  string -> int list -> string
+)
+ident(
+  def int_join "Homework 1/intro.ml" 379 12076 12076 --
+)
+"Homework 1/intro.ml" 379 12076 12094 "Homework 1/intro.ml" 379 12076 12103
+type(
+  string
+)
+ident(
+  def separator "Homework 1/intro.ml" 379 12076 12113 "Homework 1/intro.ml" 384 12309 12313
+)
+"Homework 1/intro.ml" 379 12076 12114 "Homework 1/intro.ml" 379 12076 12115
+type(
+  int list
+)
+ident(
+  def l "Homework 1/intro.ml" 379 12076 12128 "Homework 1/intro.ml" 384 12309 12313
+)
+"Homework 1/intro.ml" 380 12141 12157 "Homework 1/intro.ml" 380 12141 12158
+type(
+  int list
+)
+ident(
+  int_ref l "Homework 1/intro.ml" 379 12076 12114 "Homework 1/intro.ml" 379 12076 12115
+)
+"Homework 1/intro.ml" 381 12165 12168 "Homework 1/intro.ml" 381 12165 12170
+type(
+  int list
+)
+"Homework 1/intro.ml" 381 12165 12174 "Homework 1/intro.ml" 381 12165 12176
+type(
+  string
+)
+"Homework 1/intro.ml" 382 12178 12181 "Homework 1/intro.ml" 382 12178 12183
+type(
+  int
+)
+ident(
+  def hd "Homework 1/intro.ml" 382 12178 12191 "Homework 1/intro.ml" 382 12178 12235
+)
+"Homework 1/intro.ml" 382 12178 12185 "Homework 1/intro.ml" 382 12178 12187
+type(
+  int list
+)
+"Homework 1/intro.ml" 382 12178 12181 "Homework 1/intro.ml" 382 12178 12187
+type(
+  int list
+)
+"Homework 1/intro.ml" 382 12178 12192 "Homework 1/intro.ml" 382 12178 12205
+type(
+  int -> string
+)
+ident(
+  ext_ref Pervasives.string_of_int
+)
+"Homework 1/intro.ml" 382 12178 12206 "Homework 1/intro.ml" 382 12178 12208
+type(
+  int
+)
+ident(
+  int_ref hd "Homework 1/intro.ml" 382 12178 12181 "Homework 1/intro.ml" 382 12178 12183
+)
+"Homework 1/intro.ml" 382 12178 12191 "Homework 1/intro.ml" 382 12178 12209
+call(
+  stack
+)
+type(
+  string
+)
+"Homework 1/intro.ml" 382 12178 12210 "Homework 1/intro.ml" 382 12178 12211
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Homework 1/intro.ml" 382 12178 12213 "Homework 1/intro.ml" 382 12178 12221
+type(
+  string -> int list -> string
+)
+ident(
+  int_ref int_join "Homework 1/intro.ml" 379 12076 12084 "Homework 1/intro.ml" 379 12076 12092
+)
+"Homework 1/intro.ml" 382 12178 12222 "Homework 1/intro.ml" 382 12178 12231
+type(
+  string
+)
+ident(
+  int_ref separator "Homework 1/intro.ml" 379 12076 12094 "Homework 1/intro.ml" 379 12076 12103
+)
+"Homework 1/intro.ml" 382 12178 12232 "Homework 1/intro.ml" 382 12178 12234
+type(
+  int list
+)
+"Homework 1/intro.ml" 382 12178 12212 "Homework 1/intro.ml" 382 12178 12235
+call(
+  stack
+)
+type(
+  string
+)
+"Homework 1/intro.ml" 382 12178 12191 "Homework 1/intro.ml" 382 12178 12235
+call(
+  tail
+)
+type(
+  string
+)
+"Homework 1/intro.ml" 383 12237 12240 "Homework 1/intro.ml" 383 12237 12242
+type(
+  int
+)
+ident(
+  def hd "Homework 1/intro.ml" 383 12237 12251 "Homework 1/intro.ml" 383 12237 12307
+)
+"Homework 1/intro.ml" 383 12237 12244 "Homework 1/intro.ml" 383 12237 12246
+type(
+  int list
+)
+ident(
+  def tl "Homework 1/intro.ml" 383 12237 12251 "Homework 1/intro.ml" 383 12237 12307
+)
+"Homework 1/intro.ml" 383 12237 12240 "Homework 1/intro.ml" 383 12237 12246
+type(
+  int list
+)
+"Homework 1/intro.ml" 383 12237 12252 "Homework 1/intro.ml" 383 12237 12265
+type(
+  int -> string
+)
+ident(
+  ext_ref Pervasives.string_of_int
+)
+"Homework 1/intro.ml" 383 12237 12266 "Homework 1/intro.ml" 383 12237 12268
+type(
+  int
+)
+ident(
+  int_ref hd "Homework 1/intro.ml" 383 12237 12240 "Homework 1/intro.ml" 383 12237 12242
+)
+"Homework 1/intro.ml" 383 12237 12251 "Homework 1/intro.ml" 383 12237 12269
+call(
+  stack
+)
+type(
+  string
+)
+"Homework 1/intro.ml" 383 12237 12270 "Homework 1/intro.ml" 383 12237 12271
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Homework 1/intro.ml" 383 12237 12272 "Homework 1/intro.ml" 383 12237 12281
+type(
+  string
+)
+ident(
+  int_ref separator "Homework 1/intro.ml" 379 12076 12094 "Homework 1/intro.ml" 379 12076 12103
+)
+"Homework 1/intro.ml" 383 12237 12282 "Homework 1/intro.ml" 383 12237 12283
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Homework 1/intro.ml" 383 12237 12285 "Homework 1/intro.ml" 383 12237 12293
+type(
+  string -> int list -> string
+)
+ident(
+  int_ref int_join "Homework 1/intro.ml" 379 12076 12084 "Homework 1/intro.ml" 379 12076 12092
+)
+"Homework 1/intro.ml" 383 12237 12294 "Homework 1/intro.ml" 383 12237 12303
+type(
+  string
+)
+ident(
+  int_ref separator "Homework 1/intro.ml" 379 12076 12094 "Homework 1/intro.ml" 379 12076 12103
+)
+"Homework 1/intro.ml" 383 12237 12304 "Homework 1/intro.ml" 383 12237 12306
+type(
+  int list
+)
+ident(
+  int_ref tl "Homework 1/intro.ml" 383 12237 12244 "Homework 1/intro.ml" 383 12237 12246
+)
+"Homework 1/intro.ml" 383 12237 12284 "Homework 1/intro.ml" 383 12237 12307
+call(
+  stack
+)
+type(
+  string
+)
+"Homework 1/intro.ml" 383 12237 12272 "Homework 1/intro.ml" 383 12237 12307
+call(
+  stack
+)
+type(
+  string
+)
+"Homework 1/intro.ml" 383 12237 12251 "Homework 1/intro.ml" 383 12237 12307
+call(
+  tail
+)
+type(
+  string
+)
+"Homework 1/intro.ml" 380 12141 12145 "Homework 1/intro.ml" 384 12309 12313
+type(
+  string
+)
+type(
+  string
+)
+"Homework 1/intro.ml" 387 12319 12322 "Homework 1/intro.ml" 387 12319 12335
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"Homework 1/intro.ml" 387 12319 12337 "Homework 1/intro.ml" 387 12319 12340
+type(
+  string
+)
+"Homework 1/intro.ml" 387 12319 12341 "Homework 1/intro.ml" 387 12319 12342
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Homework 1/intro.ml" 387 12319 12344 "Homework 1/intro.ml" 387 12319 12352
+type(
+  string -> int list -> string
+)
+ident(
+  int_ref int_join "Homework 1/intro.ml" 379 12076 12084 "Homework 1/intro.ml" 379 12076 12092
+)
+"Homework 1/intro.ml" 387 12319 12353 "Homework 1/intro.ml" 387 12319 12356
+type(
+  string
+)
+"Homework 1/intro.ml" 387 12319 12358 "Homework 1/intro.ml" 387 12319 12359
+type(
+  int
+)
+"Homework 1/intro.ml" 387 12319 12360 "Homework 1/intro.ml" 387 12319 12361
+type(
+  int
+)
+"Homework 1/intro.ml" 387 12319 12362 "Homework 1/intro.ml" 387 12319 12363
+type(
+  int
+)
+"Homework 1/intro.ml" 387 12319 12357 "Homework 1/intro.ml" 387 12319 12364
+type(
+  int list
+)
+"Homework 1/intro.ml" 387 12319 12343 "Homework 1/intro.ml" 387 12319 12365
+call(
+  stack
+)
+type(
+  string
+)
+"Homework 1/intro.ml" 387 12319 12366 "Homework 1/intro.ml" 387 12319 12367
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Homework 1/intro.ml" 387 12319 12368 "Homework 1/intro.ml" 387 12319 12371
+type(
+  string
+)
+"Homework 1/intro.ml" 387 12319 12343 "Homework 1/intro.ml" 387 12319 12371
+call(
+  stack
+)
+type(
+  string
+)
+"Homework 1/intro.ml" 387 12319 12336 "Homework 1/intro.ml" 387 12319 12372
+call(
+  stack
+)
+type(
+  string
+)
+"Homework 1/intro.ml" 387 12319 12322 "Homework 1/intro.ml" 387 12319 12372
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 390 12378 12381 "Homework 1/intro.ml" 390 12378 12394
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"Homework 1/intro.ml" 390 12378 12395 "Homework 1/intro.ml" 390 12378 12425
+type(
+  string
+)
+"Homework 1/intro.ml" 390 12378 12381 "Homework 1/intro.ml" 390 12378 12425
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 391 12427 12430 "Homework 1/intro.ml" 391 12427 12443
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"Homework 1/intro.ml" 391 12427 12444 "Homework 1/intro.ml" 391 12427 12470
+type(
+  string
+)
+"Homework 1/intro.ml" 391 12427 12430 "Homework 1/intro.ml" 391 12427 12470
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 404 12925 12933 "Homework 1/intro.ml" 404 12925 12939
+type(
+  string list -> string list -> string list
+)
+ident(
+  def append "Homework 1/intro.ml" 404 12925 12925 --
+)
+"Homework 1/intro.ml" 404 12925 12941 "Homework 1/intro.ml" 404 12925 12943
+type(
+  string list
+)
+ident(
+  def l1 "Homework 1/intro.ml" 404 12925 12957 "Homework 1/intro.ml" 411 13118 13122
+)
+"Homework 1/intro.ml" 404 12925 12958 "Homework 1/intro.ml" 404 12925 12960
+type(
+  string list
+)
+ident(
+  def l2 "Homework 1/intro.ml" 404 12925 12974 "Homework 1/intro.ml" 411 13118 13122
+)
+"Homework 1/intro.ml" 405 12991 13005 "Homework 1/intro.ml" 405 12991 13007
+type(
+  string list
+)
+ident(
+  int_ref l1 "Homework 1/intro.ml" 404 12925 12941 "Homework 1/intro.ml" 404 12925 12943
+)
+"Homework 1/intro.ml" 405 12991 13009 "Homework 1/intro.ml" 405 12991 13011
+type(
+  string list
+)
+ident(
+  int_ref l2 "Homework 1/intro.ml" 404 12925 12958 "Homework 1/intro.ml" 404 12925 12960
+)
+"Homework 1/intro.ml" 405 12991 13005 "Homework 1/intro.ml" 405 12991 13011
+type(
+  string list * string list
+)
+"Homework 1/intro.ml" 406 13018 13021 "Homework 1/intro.ml" 406 13018 13023
+type(
+  string list
+)
+"Homework 1/intro.ml" 406 13018 13025 "Homework 1/intro.ml" 406 13018 13027
+type(
+  string list
+)
+"Homework 1/intro.ml" 406 13018 13021 "Homework 1/intro.ml" 406 13018 13027
+type(
+  string list * string list
+)
+"Homework 1/intro.ml" 406 13018 13031 "Homework 1/intro.ml" 406 13018 13033
+type(
+  string list
+)
+"Homework 1/intro.ml" 407 13035 13038 "Homework 1/intro.ml" 407 13035 13041
+type(
+  string
+)
+ident(
+  def hd1 "Homework 1/intro.ml" 407 13035 13053 "Homework 1/intro.ml" 407 13035 13073
+)
+"Homework 1/intro.ml" 407 13035 13043 "Homework 1/intro.ml" 407 13035 13046
+type(
+  string list
+)
+ident(
+  def tl1 "Homework 1/intro.ml" 407 13035 13053 "Homework 1/intro.ml" 407 13035 13073
+)
+"Homework 1/intro.ml" 407 13035 13038 "Homework 1/intro.ml" 407 13035 13046
+type(
+  string list
+)
+"Homework 1/intro.ml" 407 13035 13048 "Homework 1/intro.ml" 407 13035 13049
+type(
+  string list
+)
+"Homework 1/intro.ml" 407 13035 13038 "Homework 1/intro.ml" 407 13035 13049
+type(
+  string list * string list
+)
+"Homework 1/intro.ml" 407 13035 13053 "Homework 1/intro.ml" 407 13035 13056
+type(
+  string
+)
+ident(
+  int_ref hd1 "Homework 1/intro.ml" 407 13035 13038 "Homework 1/intro.ml" 407 13035 13041
+)
+"Homework 1/intro.ml" 407 13035 13060 "Homework 1/intro.ml" 407 13035 13066
+type(
+  string list -> string list -> string list
+)
+ident(
+  int_ref append "Homework 1/intro.ml" 404 12925 12933 "Homework 1/intro.ml" 404 12925 12939
+)
+"Homework 1/intro.ml" 407 13035 13067 "Homework 1/intro.ml" 407 13035 13070
+type(
+  string list
+)
+ident(
+  int_ref tl1 "Homework 1/intro.ml" 407 13035 13043 "Homework 1/intro.ml" 407 13035 13046
+)
+"Homework 1/intro.ml" 407 13035 13071 "Homework 1/intro.ml" 407 13035 13073
+type(
+  string list
+)
+ident(
+  int_ref l2 "Homework 1/intro.ml" 404 12925 12958 "Homework 1/intro.ml" 404 12925 12960
+)
+"Homework 1/intro.ml" 407 13035 13060 "Homework 1/intro.ml" 407 13035 13073
+call(
+  stack
+)
+type(
+  string list
+)
+"Homework 1/intro.ml" 407 13035 13053 "Homework 1/intro.ml" 407 13035 13073
+type(
+  string list
+)
+"Homework 1/intro.ml" 408 13075 13078 "Homework 1/intro.ml" 408 13075 13080
+type(
+  string list
+)
+"Homework 1/intro.ml" 408 13075 13082 "Homework 1/intro.ml" 408 13075 13085
+type(
+  string
+)
+ident(
+  def hd2 "Homework 1/intro.ml" 408 13075 13094 "Homework 1/intro.ml" 408 13075 13112
+)
+"Homework 1/intro.ml" 408 13075 13087 "Homework 1/intro.ml" 408 13075 13090
+type(
+  string list
+)
+ident(
+  def tl2 "Homework 1/intro.ml" 408 13075 13094 "Homework 1/intro.ml" 408 13075 13112
+)
+"Homework 1/intro.ml" 408 13075 13082 "Homework 1/intro.ml" 408 13075 13090
+type(
+  string list
+)
+"Homework 1/intro.ml" 408 13075 13078 "Homework 1/intro.ml" 408 13075 13090
+type(
+  string list * string list
+)
+"Homework 1/intro.ml" 408 13075 13094 "Homework 1/intro.ml" 408 13075 13097
+type(
+  string
+)
+ident(
+  int_ref hd2 "Homework 1/intro.ml" 408 13075 13082 "Homework 1/intro.ml" 408 13075 13085
+)
+"Homework 1/intro.ml" 408 13075 13099 "Homework 1/intro.ml" 408 13075 13105
+type(
+  string list -> string list -> string list
+)
+ident(
+  int_ref append "Homework 1/intro.ml" 404 12925 12933 "Homework 1/intro.ml" 404 12925 12939
+)
+"Homework 1/intro.ml" 408 13075 13106 "Homework 1/intro.ml" 408 13075 13108
+type(
+  string list
+)
+ident(
+  int_ref l1 "Homework 1/intro.ml" 404 12925 12941 "Homework 1/intro.ml" 404 12925 12943
+)
+"Homework 1/intro.ml" 408 13075 13109 "Homework 1/intro.ml" 408 13075 13112
+type(
+  string list
+)
+ident(
+  int_ref tl2 "Homework 1/intro.ml" 408 13075 13087 "Homework 1/intro.ml" 408 13075 13090
+)
+"Homework 1/intro.ml" 408 13075 13099 "Homework 1/intro.ml" 408 13075 13112
+call(
+  stack
+)
+type(
+  string list
+)
+"Homework 1/intro.ml" 408 13075 13094 "Homework 1/intro.ml" 408 13075 13112
+type(
+  string list
+)
+"Homework 1/intro.ml" 405 12991 12993 "Homework 1/intro.ml" 411 13118 13122
+type(
+  string list
+)
+type(
+  string list
+)
+"Homework 1/intro.ml" 413 13126 13130 "Homework 1/intro.ml" 413 13126 13134
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 415 13171 13174 --
+)
+"Homework 1/intro.ml" 413 13126 13135 "Homework 1/intro.ml" 413 13126 13137
+type(
+  unit
+)
+"Homework 1/intro.ml" 414 13148 13151 "Homework 1/intro.ml" 414 13148 13157
+type(
+  string list -> string list -> string list
+)
+ident(
+  int_ref append "Homework 1/intro.ml" 404 12925 12933 "Homework 1/intro.ml" 404 12925 12939
+)
+"Homework 1/intro.ml" 414 13148 13158 "Homework 1/intro.ml" 414 13148 13160
+type(
+  string list
+)
+"Homework 1/intro.ml" 414 13148 13161 "Homework 1/intro.ml" 414 13148 13163
+type(
+  string list
+)
+"Homework 1/intro.ml" 414 13148 13150 "Homework 1/intro.ml" 414 13148 13164
+call(
+  stack
+)
+type(
+  string list
+)
+"Homework 1/intro.ml" 414 13148 13165 "Homework 1/intro.ml" 414 13148 13166
+type(
+  string list -> string list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 414 13148 13167 "Homework 1/intro.ml" 414 13148 13169
+type(
+  string list
+)
+"Homework 1/intro.ml" 414 13148 13150 "Homework 1/intro.ml" 414 13148 13169
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 415 13171 13174 "Homework 1/intro.ml" 415 13171 13182
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 415 13171 13183 "Homework 1/intro.ml" 415 13171 13197
+type(
+  string
+)
+"Homework 1/intro.ml" 415 13171 13198 "Homework 1/intro.ml" 415 13171 13202
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 413 13126 13130 "Homework 1/intro.ml" 413 13126 13134
+)
+"Homework 1/intro.ml" 415 13171 13174 "Homework 1/intro.ml" 415 13171 13202
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 417 13206 13210 "Homework 1/intro.ml" 417 13206 13214
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 419 13272 13275 --
+)
+"Homework 1/intro.ml" 417 13206 13215 "Homework 1/intro.ml" 417 13206 13217
+type(
+  unit
+)
+"Homework 1/intro.ml" 418 13228 13231 "Homework 1/intro.ml" 418 13228 13237
+type(
+  string list -> string list -> string list
+)
+ident(
+  int_ref append "Homework 1/intro.ml" 404 12925 12933 "Homework 1/intro.ml" 404 12925 12939
+)
+"Homework 1/intro.ml" 418 13228 13239 "Homework 1/intro.ml" 418 13228 13242
+type(
+  string
+)
+"Homework 1/intro.ml" 418 13228 13243 "Homework 1/intro.ml" 418 13228 13246
+type(
+  string
+)
+"Homework 1/intro.ml" 418 13228 13238 "Homework 1/intro.ml" 418 13228 13247
+type(
+  string list
+)
+"Homework 1/intro.ml" 418 13228 13249 "Homework 1/intro.ml" 418 13228 13252
+type(
+  string
+)
+"Homework 1/intro.ml" 418 13228 13248 "Homework 1/intro.ml" 418 13228 13253
+type(
+  string list
+)
+"Homework 1/intro.ml" 418 13228 13230 "Homework 1/intro.ml" 418 13228 13254
+call(
+  stack
+)
+type(
+  string list
+)
+"Homework 1/intro.ml" 418 13228 13255 "Homework 1/intro.ml" 418 13228 13256
+type(
+  string list -> string list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 418 13228 13258 "Homework 1/intro.ml" 418 13228 13261
+type(
+  string
+)
+"Homework 1/intro.ml" 418 13228 13262 "Homework 1/intro.ml" 418 13228 13265
+type(
+  string
+)
+"Homework 1/intro.ml" 418 13228 13266 "Homework 1/intro.ml" 418 13228 13269
+type(
+  string
+)
+"Homework 1/intro.ml" 418 13228 13257 "Homework 1/intro.ml" 418 13228 13270
+type(
+  string list
+)
+"Homework 1/intro.ml" 418 13228 13230 "Homework 1/intro.ml" 418 13228 13270
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 419 13272 13275 "Homework 1/intro.ml" 419 13272 13283
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 419 13272 13284 "Homework 1/intro.ml" 419 13272 13302
+type(
+  string
+)
+"Homework 1/intro.ml" 419 13272 13303 "Homework 1/intro.ml" 419 13272 13307
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 417 13206 13210 "Homework 1/intro.ml" 417 13206 13214
+)
+"Homework 1/intro.ml" 419 13272 13275 "Homework 1/intro.ml" 419 13272 13307
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 421 13311 13315 "Homework 1/intro.ml" 421 13311 13319
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 423 13372 13375 --
+)
+"Homework 1/intro.ml" 421 13311 13320 "Homework 1/intro.ml" 421 13311 13322
+type(
+  unit
+)
+"Homework 1/intro.ml" 422 13333 13336 "Homework 1/intro.ml" 422 13333 13342
+type(
+  string list -> string list -> string list
+)
+ident(
+  int_ref append "Homework 1/intro.ml" 404 12925 12933 "Homework 1/intro.ml" 404 12925 12939
+)
+"Homework 1/intro.ml" 422 13333 13343 "Homework 1/intro.ml" 422 13333 13345
+type(
+  string list
+)
+"Homework 1/intro.ml" 422 13333 13347 "Homework 1/intro.ml" 422 13333 13350
+type(
+  string
+)
+"Homework 1/intro.ml" 422 13333 13351 "Homework 1/intro.ml" 422 13333 13355
+type(
+  string
+)
+"Homework 1/intro.ml" 422 13333 13346 "Homework 1/intro.ml" 422 13333 13356
+type(
+  string list
+)
+"Homework 1/intro.ml" 422 13333 13335 "Homework 1/intro.ml" 422 13333 13357
+call(
+  stack
+)
+type(
+  string list
+)
+"Homework 1/intro.ml" 422 13333 13358 "Homework 1/intro.ml" 422 13333 13359
+type(
+  string list -> string list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 422 13333 13361 "Homework 1/intro.ml" 422 13333 13364
+type(
+  string
+)
+"Homework 1/intro.ml" 422 13333 13365 "Homework 1/intro.ml" 422 13333 13369
+type(
+  string
+)
+"Homework 1/intro.ml" 422 13333 13360 "Homework 1/intro.ml" 422 13333 13370
+type(
+  string list
+)
+"Homework 1/intro.ml" 422 13333 13335 "Homework 1/intro.ml" 422 13333 13370
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 423 13372 13375 "Homework 1/intro.ml" 423 13372 13383
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 423 13372 13384 "Homework 1/intro.ml" 423 13372 13402
+type(
+  string
+)
+"Homework 1/intro.ml" 423 13372 13403 "Homework 1/intro.ml" 423 13372 13407
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 421 13311 13315 "Homework 1/intro.ml" 421 13311 13319
+)
+"Homework 1/intro.ml" 423 13372 13375 "Homework 1/intro.ml" 423 13372 13407
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 425 13411 13415 "Homework 1/intro.ml" 425 13411 13419
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 427 13472 13475 --
+)
+"Homework 1/intro.ml" 425 13411 13420 "Homework 1/intro.ml" 425 13411 13422
+type(
+  unit
+)
+"Homework 1/intro.ml" 426 13433 13436 "Homework 1/intro.ml" 426 13433 13442
+type(
+  string list -> string list -> string list
+)
+ident(
+  int_ref append "Homework 1/intro.ml" 404 12925 12933 "Homework 1/intro.ml" 404 12925 12939
+)
+"Homework 1/intro.ml" 426 13433 13444 "Homework 1/intro.ml" 426 13433 13447
+type(
+  string
+)
+"Homework 1/intro.ml" 426 13433 13448 "Homework 1/intro.ml" 426 13433 13452
+type(
+  string
+)
+"Homework 1/intro.ml" 426 13433 13443 "Homework 1/intro.ml" 426 13433 13453
+type(
+  string list
+)
+"Homework 1/intro.ml" 426 13433 13454 "Homework 1/intro.ml" 426 13433 13456
+type(
+  string list
+)
+"Homework 1/intro.ml" 426 13433 13435 "Homework 1/intro.ml" 426 13433 13457
+call(
+  stack
+)
+type(
+  string list
+)
+"Homework 1/intro.ml" 426 13433 13458 "Homework 1/intro.ml" 426 13433 13459
+type(
+  string list -> string list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 426 13433 13461 "Homework 1/intro.ml" 426 13433 13464
+type(
+  string
+)
+"Homework 1/intro.ml" 426 13433 13465 "Homework 1/intro.ml" 426 13433 13469
+type(
+  string
+)
+"Homework 1/intro.ml" 426 13433 13460 "Homework 1/intro.ml" 426 13433 13470
+type(
+  string list
+)
+"Homework 1/intro.ml" 426 13433 13435 "Homework 1/intro.ml" 426 13433 13470
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 427 13472 13475 "Homework 1/intro.ml" 427 13472 13483
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 427 13472 13484 "Homework 1/intro.ml" 427 13472 13502
+type(
+  string
+)
+"Homework 1/intro.ml" 427 13472 13503 "Homework 1/intro.ml" 427 13472 13507
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 425 13411 13415 "Homework 1/intro.ml" 425 13411 13419
+)
+"Homework 1/intro.ml" 427 13472 13475 "Homework 1/intro.ml" 427 13472 13507
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 437 13766 13774 "Homework 1/intro.ml" 437 13766 13786
+type(
+  string list -> string -> bool
+)
+ident(
+  def contains_str "Homework 1/intro.ml" 437 13766 13766 --
+)
+"Homework 1/intro.ml" 437 13766 13788 "Homework 1/intro.ml" 437 13766 13792
+type(
+  string list
+)
+ident(
+  def list "Homework 1/intro.ml" 437 13766 13808 "Homework 1/intro.ml" 441 13938 13942
+)
+"Homework 1/intro.ml" 437 13766 13809 "Homework 1/intro.ml" 437 13766 13813
+type(
+  string
+)
+ident(
+  def elem "Homework 1/intro.ml" 437 13766 13824 "Homework 1/intro.ml" 441 13938 13942
+)
+"Homework 1/intro.ml" 438 13834 13848 "Homework 1/intro.ml" 438 13834 13852
+type(
+  string list
+)
+ident(
+  int_ref list "Homework 1/intro.ml" 437 13766 13788 "Homework 1/intro.ml" 437 13766 13792
+)
+"Homework 1/intro.ml" 439 13859 13862 "Homework 1/intro.ml" 439 13859 13864
+type(
+  string list
+)
+"Homework 1/intro.ml" 439 13859 13868 "Homework 1/intro.ml" 439 13859 13873
+type(
+  bool
+)
+"Homework 1/intro.ml" 440 13875 13878 "Homework 1/intro.ml" 440 13875 13880
+type(
+  string
+)
+ident(
+  def hd "Homework 1/intro.ml" 440 13875 13888 "Homework 1/intro.ml" 440 13875 13936
+)
+"Homework 1/intro.ml" 440 13875 13882 "Homework 1/intro.ml" 440 13875 13884
+type(
+  string list
+)
+ident(
+  def tl "Homework 1/intro.ml" 440 13875 13888 "Homework 1/intro.ml" 440 13875 13936
+)
+"Homework 1/intro.ml" 440 13875 13878 "Homework 1/intro.ml" 440 13875 13884
+type(
+  string list
+)
+"Homework 1/intro.ml" 440 13875 13891 "Homework 1/intro.ml" 440 13875 13893
+type(
+  string
+)
+ident(
+  int_ref hd "Homework 1/intro.ml" 440 13875 13878 "Homework 1/intro.ml" 440 13875 13880
+)
+"Homework 1/intro.ml" 440 13875 13894 "Homework 1/intro.ml" 440 13875 13895
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 440 13875 13896 "Homework 1/intro.ml" 440 13875 13900
+type(
+  string
+)
+ident(
+  int_ref elem "Homework 1/intro.ml" 437 13766 13809 "Homework 1/intro.ml" 437 13766 13813
+)
+"Homework 1/intro.ml" 440 13875 13891 "Homework 1/intro.ml" 440 13875 13900
+type(
+  bool
+)
+"Homework 1/intro.ml" 440 13875 13906 "Homework 1/intro.ml" 440 13875 13910
+type(
+  bool
+)
+"Homework 1/intro.ml" 440 13875 13916 "Homework 1/intro.ml" 440 13875 13928
+type(
+  string list -> string -> bool
+)
+ident(
+  int_ref contains_str "Homework 1/intro.ml" 437 13766 13774 "Homework 1/intro.ml" 437 13766 13786
+)
+"Homework 1/intro.ml" 440 13875 13929 "Homework 1/intro.ml" 440 13875 13931
+type(
+  string list
+)
+ident(
+  int_ref tl "Homework 1/intro.ml" 440 13875 13882 "Homework 1/intro.ml" 440 13875 13884
+)
+"Homework 1/intro.ml" 440 13875 13932 "Homework 1/intro.ml" 440 13875 13936
+type(
+  string
+)
+ident(
+  int_ref elem "Homework 1/intro.ml" 437 13766 13809 "Homework 1/intro.ml" 437 13766 13813
+)
+"Homework 1/intro.ml" 440 13875 13916 "Homework 1/intro.ml" 440 13875 13936
+call(
+  tail
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 440 13875 13888 "Homework 1/intro.ml" 440 13875 13936
+type(
+  bool
+)
+"Homework 1/intro.ml" 438 13834 13836 "Homework 1/intro.ml" 441 13938 13942
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 443 13946 13950 "Homework 1/intro.ml" 443 13946 13954
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 445 14027 14030 --
+)
+"Homework 1/intro.ml" 443 13946 13955 "Homework 1/intro.ml" 443 13946 13957
+type(
+  unit
+)
+"Homework 1/intro.ml" 444 13968 13971 "Homework 1/intro.ml" 444 13968 13983
+type(
+  string list -> string -> bool
+)
+ident(
+  int_ref contains_str "Homework 1/intro.ml" 437 13766 13774 "Homework 1/intro.ml" 437 13766 13786
+)
+"Homework 1/intro.ml" 444 13968 13985 "Homework 1/intro.ml" 444 13968 13992
+type(
+  string
+)
+"Homework 1/intro.ml" 444 13968 13993 "Homework 1/intro.ml" 444 13968 14001
+type(
+  string
+)
+"Homework 1/intro.ml" 444 13968 14002 "Homework 1/intro.ml" 444 13968 14007
+type(
+  string
+)
+"Homework 1/intro.ml" 444 13968 13984 "Homework 1/intro.ml" 444 13968 14008
+type(
+  string list
+)
+"Homework 1/intro.ml" 444 13968 14009 "Homework 1/intro.ml" 444 13968 14017
+type(
+  string
+)
+"Homework 1/intro.ml" 444 13968 13970 "Homework 1/intro.ml" 444 13968 14018
+call(
+  stack
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 444 13968 14019 "Homework 1/intro.ml" 444 13968 14020
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 444 13968 14021 "Homework 1/intro.ml" 444 13968 14025
+type(
+  bool
+)
+"Homework 1/intro.ml" 444 13968 13970 "Homework 1/intro.ml" 444 13968 14025
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 445 14027 14030 "Homework 1/intro.ml" 445 14027 14038
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 445 14027 14039 "Homework 1/intro.ml" 445 14027 14081
+type(
+  string
+)
+"Homework 1/intro.ml" 445 14027 14082 "Homework 1/intro.ml" 445 14027 14086
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 443 13946 13950 "Homework 1/intro.ml" 443 13946 13954
+)
+"Homework 1/intro.ml" 445 14027 14030 "Homework 1/intro.ml" 445 14027 14086
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 447 14090 14094 "Homework 1/intro.ml" 447 14090 14098
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 449 14172 14175 --
+)
+"Homework 1/intro.ml" 447 14090 14099 "Homework 1/intro.ml" 447 14090 14101
+type(
+  unit
+)
+"Homework 1/intro.ml" 448 14112 14115 "Homework 1/intro.ml" 448 14112 14127
+type(
+  string list -> string -> bool
+)
+ident(
+  int_ref contains_str "Homework 1/intro.ml" 437 13766 13774 "Homework 1/intro.ml" 437 13766 13786
+)
+"Homework 1/intro.ml" 448 14112 14129 "Homework 1/intro.ml" 448 14112 14136
+type(
+  string
+)
+"Homework 1/intro.ml" 448 14112 14137 "Homework 1/intro.ml" 448 14112 14145
+type(
+  string
+)
+"Homework 1/intro.ml" 448 14112 14146 "Homework 1/intro.ml" 448 14112 14151
+type(
+  string
+)
+"Homework 1/intro.ml" 448 14112 14128 "Homework 1/intro.ml" 448 14112 14152
+type(
+  string list
+)
+"Homework 1/intro.ml" 448 14112 14153 "Homework 1/intro.ml" 448 14112 14160
+type(
+  string
+)
+"Homework 1/intro.ml" 448 14112 14114 "Homework 1/intro.ml" 448 14112 14161
+call(
+  stack
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 448 14112 14162 "Homework 1/intro.ml" 448 14112 14163
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 448 14112 14164 "Homework 1/intro.ml" 448 14112 14169
+type(
+  bool
+)
+"Homework 1/intro.ml" 448 14112 14114 "Homework 1/intro.ml" 448 14112 14169
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 449 14172 14175 "Homework 1/intro.ml" 449 14172 14183
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 449 14172 14184 "Homework 1/intro.ml" 449 14172 14225
+type(
+  string
+)
+"Homework 1/intro.ml" 449 14172 14226 "Homework 1/intro.ml" 449 14172 14230
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 447 14090 14094 "Homework 1/intro.ml" 447 14090 14098
+)
+"Homework 1/intro.ml" 449 14172 14175 "Homework 1/intro.ml" 449 14172 14230
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 451 14234 14238 "Homework 1/intro.ml" 451 14234 14242
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 453 14293 14296 --
+)
+"Homework 1/intro.ml" 451 14234 14243 "Homework 1/intro.ml" 451 14234 14245
+type(
+  unit
+)
+"Homework 1/intro.ml" 452 14256 14259 "Homework 1/intro.ml" 452 14256 14271
+type(
+  string list -> string -> bool
+)
+ident(
+  int_ref contains_str "Homework 1/intro.ml" 437 13766 13774 "Homework 1/intro.ml" 437 13766 13786
+)
+"Homework 1/intro.ml" 452 14256 14272 "Homework 1/intro.ml" 452 14256 14274
+type(
+  string list
+)
+"Homework 1/intro.ml" 452 14256 14275 "Homework 1/intro.ml" 452 14256 14282
+type(
+  string
+)
+"Homework 1/intro.ml" 452 14256 14258 "Homework 1/intro.ml" 452 14256 14283
+call(
+  stack
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 452 14256 14284 "Homework 1/intro.ml" 452 14256 14285
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 452 14256 14286 "Homework 1/intro.ml" 452 14256 14291
+type(
+  bool
+)
+"Homework 1/intro.ml" 452 14256 14258 "Homework 1/intro.ml" 452 14256 14291
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 453 14293 14296 "Homework 1/intro.ml" 453 14293 14304
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 453 14293 14305 "Homework 1/intro.ml" 453 14293 14328
+type(
+  string
+)
+"Homework 1/intro.ml" 453 14293 14329 "Homework 1/intro.ml" 453 14293 14333
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 451 14234 14238 "Homework 1/intro.ml" 451 14234 14242
+)
+"Homework 1/intro.ml" 453 14293 14296 "Homework 1/intro.ml" 453 14293 14333
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 455 14337 14341 "Homework 1/intro.ml" 455 14337 14345
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 457 14402 14405 --
+)
+"Homework 1/intro.ml" 455 14337 14346 "Homework 1/intro.ml" 455 14337 14348
+type(
+  unit
+)
+"Homework 1/intro.ml" 456 14359 14362 "Homework 1/intro.ml" 456 14359 14374
+type(
+  string list -> string -> bool
+)
+ident(
+  int_ref contains_str "Homework 1/intro.ml" 437 13766 13774 "Homework 1/intro.ml" 437 13766 13786
+)
+"Homework 1/intro.ml" 456 14359 14376 "Homework 1/intro.ml" 456 14359 14383
+type(
+  string
+)
+"Homework 1/intro.ml" 456 14359 14375 "Homework 1/intro.ml" 456 14359 14384
+type(
+  string list
+)
+"Homework 1/intro.ml" 456 14359 14385 "Homework 1/intro.ml" 456 14359 14392
+type(
+  string
+)
+"Homework 1/intro.ml" 456 14359 14361 "Homework 1/intro.ml" 456 14359 14393
+call(
+  stack
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 456 14359 14394 "Homework 1/intro.ml" 456 14359 14395
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 456 14359 14396 "Homework 1/intro.ml" 456 14359 14400
+type(
+  bool
+)
+"Homework 1/intro.ml" 456 14359 14361 "Homework 1/intro.ml" 456 14359 14400
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 457 14402 14405 "Homework 1/intro.ml" 457 14402 14413
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 457 14402 14414 "Homework 1/intro.ml" 457 14402 14442
+type(
+  string
+)
+"Homework 1/intro.ml" 457 14402 14443 "Homework 1/intro.ml" 457 14402 14447
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 455 14337 14341 "Homework 1/intro.ml" 455 14337 14345
+)
+"Homework 1/intro.ml" 457 14402 14405 "Homework 1/intro.ml" 457 14402 14447
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 463 14580 14588 "Homework 1/intro.ml" 463 14580 14596
+type(
+  string list -> string list -> string list
+)
+ident(
+  def dolls_of "Homework 1/intro.ml" 463 14580 14580 --
+)
+"Homework 1/intro.ml" 463 14580 14598 "Homework 1/intro.ml" 463 14580 14602
+type(
+  string list
+)
+ident(
+  def toys "Homework 1/intro.ml" 463 14580 14616 "Homework 1/intro.ml" 469 14833 14837
+)
+"Homework 1/intro.ml" 463 14580 14617 "Homework 1/intro.ml" 463 14580 14622
+type(
+  string list
+)
+ident(
+  def dolls "Homework 1/intro.ml" 463 14580 14636 "Homework 1/intro.ml" 469 14833 14837
+)
+"Homework 1/intro.ml" 464 14653 14666 "Homework 1/intro.ml" 464 14653 14670
+type(
+  string list
+)
+ident(
+  int_ref toys "Homework 1/intro.ml" 463 14580 14598 "Homework 1/intro.ml" 463 14580 14602
+)
+"Homework 1/intro.ml" 464 14653 14672 "Homework 1/intro.ml" 464 14653 14677
+type(
+  string list
+)
+ident(
+  int_ref dolls "Homework 1/intro.ml" 463 14580 14617 "Homework 1/intro.ml" 463 14580 14622
+)
+"Homework 1/intro.ml" 464 14653 14666 "Homework 1/intro.ml" 464 14653 14677
+type(
+  string list * string list
+)
+"Homework 1/intro.ml" 465 14684 14687 "Homework 1/intro.ml" 465 14684 14689
+type(
+  string list
+)
+"Homework 1/intro.ml" 465 14684 14691 "Homework 1/intro.ml" 465 14684 14692
+type(
+  string list
+)
+"Homework 1/intro.ml" 465 14684 14687 "Homework 1/intro.ml" 465 14684 14692
+type(
+  string list * string list
+)
+"Homework 1/intro.ml" 465 14684 14696 "Homework 1/intro.ml" 465 14684 14698
+type(
+  string list
+)
+"Homework 1/intro.ml" 466 14700 14703 "Homework 1/intro.ml" 466 14700 14704
+type(
+  string list
+)
+"Homework 1/intro.ml" 466 14700 14707 "Homework 1/intro.ml" 466 14700 14709
+type(
+  string list
+)
+"Homework 1/intro.ml" 466 14700 14703 "Homework 1/intro.ml" 466 14700 14709
+type(
+  string list * string list
+)
+"Homework 1/intro.ml" 466 14700 14713 "Homework 1/intro.ml" 466 14700 14715
+type(
+  string list
+)
+"Homework 1/intro.ml" 467 14717 14720 "Homework 1/intro.ml" 467 14717 14722
+type(
+  string
+)
+ident(
+  def hd "Homework 1/intro.ml" 467 14717 14737 "Homework 1/intro.ml" 468 14796 14831
+)
+"Homework 1/intro.ml" 467 14717 14724 "Homework 1/intro.ml" 467 14717 14726
+type(
+  string list
+)
+ident(
+  def tl "Homework 1/intro.ml" 467 14717 14737 "Homework 1/intro.ml" 468 14796 14831
+)
+"Homework 1/intro.ml" 467 14717 14720 "Homework 1/intro.ml" 467 14717 14726
+type(
+  string list
+)
+"Homework 1/intro.ml" 467 14717 14728 "Homework 1/intro.ml" 467 14717 14733
+type(
+  string list
+)
+ident(
+  def dolls "Homework 1/intro.ml" 467 14717 14737 "Homework 1/intro.ml" 468 14796 14831
+)
+"Homework 1/intro.ml" 467 14717 14720 "Homework 1/intro.ml" 467 14717 14733
+type(
+  string list * string list
+)
+"Homework 1/intro.ml" 467 14717 14741 "Homework 1/intro.ml" 467 14717 14753
+type(
+  string list -> string -> bool
+)
+ident(
+  int_ref contains_str "Homework 1/intro.ml" 437 13766 13774 "Homework 1/intro.ml" 437 13766 13786
+)
+"Homework 1/intro.ml" 467 14717 14754 "Homework 1/intro.ml" 467 14717 14759
+type(
+  string list
+)
+ident(
+  int_ref dolls "Homework 1/intro.ml" 467 14717 14728 "Homework 1/intro.ml" 467 14717 14733
+)
+"Homework 1/intro.ml" 467 14717 14760 "Homework 1/intro.ml" 467 14717 14762
+type(
+  string
+)
+ident(
+  int_ref hd "Homework 1/intro.ml" 467 14717 14720 "Homework 1/intro.ml" 467 14717 14722
+)
+"Homework 1/intro.ml" 467 14717 14740 "Homework 1/intro.ml" 467 14717 14763
+call(
+  stack
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 467 14717 14769 "Homework 1/intro.ml" 467 14717 14771
+type(
+  string
+)
+ident(
+  int_ref hd "Homework 1/intro.ml" 467 14717 14720 "Homework 1/intro.ml" 467 14717 14722
+)
+"Homework 1/intro.ml" 467 14717 14774 "Homework 1/intro.ml" 467 14717 14782
+type(
+  string list -> string list -> string list
+)
+ident(
+  int_ref dolls_of "Homework 1/intro.ml" 463 14580 14588 "Homework 1/intro.ml" 463 14580 14596
+)
+"Homework 1/intro.ml" 467 14717 14783 "Homework 1/intro.ml" 467 14717 14785
+type(
+  string list
+)
+ident(
+  int_ref tl "Homework 1/intro.ml" 467 14717 14724 "Homework 1/intro.ml" 467 14717 14726
+)
+"Homework 1/intro.ml" 467 14717 14786 "Homework 1/intro.ml" 467 14717 14791
+type(
+  string list
+)
+ident(
+  int_ref dolls "Homework 1/intro.ml" 467 14717 14728 "Homework 1/intro.ml" 467 14717 14733
+)
+"Homework 1/intro.ml" 467 14717 14773 "Homework 1/intro.ml" 467 14717 14792
+call(
+  stack
+)
+type(
+  string list
+)
+"Homework 1/intro.ml" 467 14717 14769 "Homework 1/intro.ml" 467 14717 14792
+type(
+  string list
+)
+"Homework 1/intro.ml" 468 14796 14813 "Homework 1/intro.ml" 468 14796 14821
+type(
+  string list -> string list -> string list
+)
+ident(
+  int_ref dolls_of "Homework 1/intro.ml" 463 14580 14588 "Homework 1/intro.ml" 463 14580 14596
+)
+"Homework 1/intro.ml" 468 14796 14822 "Homework 1/intro.ml" 468 14796 14824
+type(
+  string list
+)
+ident(
+  int_ref tl "Homework 1/intro.ml" 467 14717 14724 "Homework 1/intro.ml" 467 14717 14726
+)
+"Homework 1/intro.ml" 468 14796 14825 "Homework 1/intro.ml" 468 14796 14830
+type(
+  string list
+)
+ident(
+  int_ref dolls "Homework 1/intro.ml" 467 14717 14728 "Homework 1/intro.ml" 467 14717 14733
+)
+"Homework 1/intro.ml" 468 14796 14812 "Homework 1/intro.ml" 468 14796 14831
+call(
+  tail
+)
+type(
+  string list
+)
+"Homework 1/intro.ml" 467 14717 14737 "Homework 1/intro.ml" 468 14796 14831
+type(
+  string list
+)
+"Homework 1/intro.ml" 464 14653 14654 "Homework 1/intro.ml" 469 14833 14837
+type(
+  string list
+)
+type(
+  string list
+)
+"Homework 1/intro.ml" 471 14841 14845 "Homework 1/intro.ml" 471 14841 14849
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 473 14936 14939 --
+)
+"Homework 1/intro.ml" 471 14841 14850 "Homework 1/intro.ml" 471 14841 14852
+type(
+  unit
+)
+"Homework 1/intro.ml" 472 14863 14866 "Homework 1/intro.ml" 472 14863 14874
+type(
+  string list -> string list -> string list
+)
+ident(
+  int_ref dolls_of "Homework 1/intro.ml" 463 14580 14588 "Homework 1/intro.ml" 463 14580 14596
+)
+"Homework 1/intro.ml" 472 14863 14876 "Homework 1/intro.ml" 472 14863 14883
+type(
+  string
+)
+"Homework 1/intro.ml" 472 14863 14884 "Homework 1/intro.ml" 472 14863 14892
+type(
+  string
+)
+"Homework 1/intro.ml" 472 14863 14893 "Homework 1/intro.ml" 472 14863 14898
+type(
+  string
+)
+"Homework 1/intro.ml" 472 14863 14875 "Homework 1/intro.ml" 472 14863 14899
+type(
+  string list
+)
+"Homework 1/intro.ml" 472 14863 14901 "Homework 1/intro.ml" 472 14863 14909
+type(
+  string
+)
+"Homework 1/intro.ml" 472 14863 14911 "Homework 1/intro.ml" 472 14863 14918
+type(
+  string
+)
+"Homework 1/intro.ml" 472 14863 14900 "Homework 1/intro.ml" 472 14863 14919
+type(
+  string list
+)
+"Homework 1/intro.ml" 472 14863 14865 "Homework 1/intro.ml" 472 14863 14920
+call(
+  stack
+)
+type(
+  string list
+)
+"Homework 1/intro.ml" 472 14863 14921 "Homework 1/intro.ml" 472 14863 14922
+type(
+  string list -> string list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 472 14863 14925 "Homework 1/intro.ml" 472 14863 14933
+type(
+  string
+)
+"Homework 1/intro.ml" 472 14863 14924 "Homework 1/intro.ml" 472 14863 14934
+type(
+  string list
+)
+"Homework 1/intro.ml" 472 14863 14865 "Homework 1/intro.ml" 472 14863 14934
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 473 14936 14939 "Homework 1/intro.ml" 473 14936 14947
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 473 14936 14948 "Homework 1/intro.ml" 473 14936 14995
+type(
+  string
+)
+"Homework 1/intro.ml" 473 14936 14996 "Homework 1/intro.ml" 473 14936 15000
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 471 14841 14845 "Homework 1/intro.ml" 471 14841 14849
+)
+"Homework 1/intro.ml" 473 14936 14939 "Homework 1/intro.ml" 473 14936 15000
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 475 15004 15008 "Homework 1/intro.ml" 475 15004 15012
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 477 15067 15070 --
+)
+"Homework 1/intro.ml" 475 15004 15013 "Homework 1/intro.ml" 475 15004 15015
+type(
+  unit
+)
+"Homework 1/intro.ml" 476 15026 15029 "Homework 1/intro.ml" 476 15026 15037
+type(
+  string list -> string list -> string list
+)
+ident(
+  int_ref dolls_of "Homework 1/intro.ml" 463 14580 14588 "Homework 1/intro.ml" 463 14580 14596
+)
+"Homework 1/intro.ml" 476 15026 15038 "Homework 1/intro.ml" 476 15026 15040
+type(
+  string list
+)
+"Homework 1/intro.ml" 476 15026 15042 "Homework 1/intro.ml" 476 15026 15050
+type(
+  string
+)
+"Homework 1/intro.ml" 476 15026 15051 "Homework 1/intro.ml" 476 15026 15058
+type(
+  string
+)
+"Homework 1/intro.ml" 476 15026 15041 "Homework 1/intro.ml" 476 15026 15059
+type(
+  string list
+)
+"Homework 1/intro.ml" 476 15026 15028 "Homework 1/intro.ml" 476 15026 15060
+call(
+  stack
+)
+type(
+  string list
+)
+"Homework 1/intro.ml" 476 15026 15061 "Homework 1/intro.ml" 476 15026 15062
+type(
+  string list -> string list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 476 15026 15063 "Homework 1/intro.ml" 476 15026 15065
+type(
+  string list
+)
+"Homework 1/intro.ml" 476 15026 15028 "Homework 1/intro.ml" 476 15026 15065
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 477 15067 15070 "Homework 1/intro.ml" 477 15067 15078
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 477 15067 15079 "Homework 1/intro.ml" 477 15067 15108
+type(
+  string
+)
+"Homework 1/intro.ml" 477 15067 15109 "Homework 1/intro.ml" 477 15067 15113
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 475 15004 15008 "Homework 1/intro.ml" 475 15004 15012
+)
+"Homework 1/intro.ml" 477 15067 15070 "Homework 1/intro.ml" 477 15067 15113
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 479 15117 15121 "Homework 1/intro.ml" 479 15117 15125
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 481 15186 15189 --
+)
+"Homework 1/intro.ml" 479 15117 15126 "Homework 1/intro.ml" 479 15117 15128
+type(
+  unit
+)
+"Homework 1/intro.ml" 480 15139 15142 "Homework 1/intro.ml" 480 15139 15150
+type(
+  string list -> string list -> string list
+)
+ident(
+  int_ref dolls_of "Homework 1/intro.ml" 463 14580 14588 "Homework 1/intro.ml" 463 14580 14596
+)
+"Homework 1/intro.ml" 480 15139 15152 "Homework 1/intro.ml" 480 15139 15157
+type(
+  string
+)
+"Homework 1/intro.ml" 480 15139 15158 "Homework 1/intro.ml" 480 15139 15167
+type(
+  string
+)
+"Homework 1/intro.ml" 480 15139 15168 "Homework 1/intro.ml" 480 15139 15174
+type(
+  string
+)
+"Homework 1/intro.ml" 480 15139 15151 "Homework 1/intro.ml" 480 15139 15175
+type(
+  string list
+)
+"Homework 1/intro.ml" 480 15139 15176 "Homework 1/intro.ml" 480 15139 15178
+type(
+  string list
+)
+"Homework 1/intro.ml" 480 15139 15141 "Homework 1/intro.ml" 480 15139 15179
+call(
+  stack
+)
+type(
+  string list
+)
+"Homework 1/intro.ml" 480 15139 15180 "Homework 1/intro.ml" 480 15139 15181
+type(
+  string list -> string list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 480 15139 15182 "Homework 1/intro.ml" 480 15139 15184
+type(
+  string list
+)
+"Homework 1/intro.ml" 480 15139 15141 "Homework 1/intro.ml" 480 15139 15184
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 481 15186 15189 "Homework 1/intro.ml" 481 15186 15197
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 481 15186 15198 "Homework 1/intro.ml" 481 15186 15230
+type(
+  string
+)
+"Homework 1/intro.ml" 481 15186 15231 "Homework 1/intro.ml" 481 15186 15235
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 479 15117 15121 "Homework 1/intro.ml" 479 15117 15125
+)
+"Homework 1/intro.ml" 481 15186 15189 "Homework 1/intro.ml" 481 15186 15235
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 483 15239 15243 "Homework 1/intro.ml" 483 15239 15247
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 485 15286 15289 --
+)
+"Homework 1/intro.ml" 483 15239 15248 "Homework 1/intro.ml" 483 15239 15250
+type(
+  unit
+)
+"Homework 1/intro.ml" 484 15261 15264 "Homework 1/intro.ml" 484 15261 15272
+type(
+  string list -> string list -> string list
+)
+ident(
+  int_ref dolls_of "Homework 1/intro.ml" 463 14580 14588 "Homework 1/intro.ml" 463 14580 14596
+)
+"Homework 1/intro.ml" 484 15261 15273 "Homework 1/intro.ml" 484 15261 15275
+type(
+  string list
+)
+"Homework 1/intro.ml" 484 15261 15276 "Homework 1/intro.ml" 484 15261 15278
+type(
+  string list
+)
+"Homework 1/intro.ml" 484 15261 15263 "Homework 1/intro.ml" 484 15261 15279
+call(
+  stack
+)
+type(
+  string list
+)
+"Homework 1/intro.ml" 484 15261 15280 "Homework 1/intro.ml" 484 15261 15281
+type(
+  string list -> string list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 484 15261 15282 "Homework 1/intro.ml" 484 15261 15284
+type(
+  string list
+)
+"Homework 1/intro.ml" 484 15261 15263 "Homework 1/intro.ml" 484 15261 15284
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 485 15286 15289 "Homework 1/intro.ml" 485 15286 15297
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 485 15286 15298 "Homework 1/intro.ml" 485 15286 15314
+type(
+  string
+)
+"Homework 1/intro.ml" 485 15286 15315 "Homework 1/intro.ml" 485 15286 15319
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 483 15239 15243 "Homework 1/intro.ml" 483 15239 15247
+)
+"Homework 1/intro.ml" 485 15286 15289 "Homework 1/intro.ml" 485 15286 15319
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 499 15905 15913 "Homework 1/intro.ml" 499 15905 15918
+type(
+  int list -> int list -> int list
+)
+ident(
+  def merge "Homework 1/intro.ml" 499 15905 15905 --
+)
+"Homework 1/intro.ml" 499 15905 15920 "Homework 1/intro.ml" 499 15905 15922
+type(
+  int list
+)
+ident(
+  def l1 "Homework 1/intro.ml" 499 15905 15933 "Homework 1/intro.ml" 505 16116 16120
+)
+"Homework 1/intro.ml" 499 15905 15934 "Homework 1/intro.ml" 499 15905 15936
+type(
+  int list
+)
+ident(
+  def l2 "Homework 1/intro.ml" 499 15905 15947 "Homework 1/intro.ml" 505 16116 16120
+)
+"Homework 1/intro.ml" 500 15961 15975 "Homework 1/intro.ml" 500 15961 15977
+type(
+  int list
+)
+ident(
+  int_ref l1 "Homework 1/intro.ml" 499 15905 15920 "Homework 1/intro.ml" 499 15905 15922
+)
+"Homework 1/intro.ml" 500 15961 15978 "Homework 1/intro.ml" 500 15961 15980
+type(
+  int list
+)
+ident(
+  int_ref l2 "Homework 1/intro.ml" 499 15905 15934 "Homework 1/intro.ml" 499 15905 15936
+)
+"Homework 1/intro.ml" 500 15961 15975 "Homework 1/intro.ml" 500 15961 15980
+type(
+  int list * int list
+)
+"Homework 1/intro.ml" 501 15987 15990 "Homework 1/intro.ml" 501 15987 15992
+type(
+  int list
+)
+"Homework 1/intro.ml" 501 15987 15993 "Homework 1/intro.ml" 501 15987 15995
+type(
+  int list
+)
+"Homework 1/intro.ml" 501 15987 15990 "Homework 1/intro.ml" 501 15987 15995
+type(
+  int list * int list
+)
+"Homework 1/intro.ml" 501 15987 15999 "Homework 1/intro.ml" 501 15987 16001
+type(
+  int list
+)
+"Homework 1/intro.ml" 502 16003 16006 "Homework 1/intro.ml" 502 16003 16008
+type(
+  int
+)
+ident(
+  def hd "Homework 1/intro.ml" 502 16003 16020 "Homework 1/intro.ml" 502 16003 16037
+)
+"Homework 1/intro.ml" 502 16003 16010 "Homework 1/intro.ml" 502 16003 16012
+type(
+  int list
+)
+ident(
+  def tl "Homework 1/intro.ml" 502 16003 16020 "Homework 1/intro.ml" 502 16003 16037
+)
+"Homework 1/intro.ml" 502 16003 16006 "Homework 1/intro.ml" 502 16003 16012
+type(
+  int list
+)
+"Homework 1/intro.ml" 502 16003 16014 "Homework 1/intro.ml" 502 16003 16016
+type(
+  int list
+)
+"Homework 1/intro.ml" 502 16003 16006 "Homework 1/intro.ml" 502 16003 16016
+type(
+  int list * int list
+)
+"Homework 1/intro.ml" 502 16003 16020 "Homework 1/intro.ml" 502 16003 16022
+type(
+  int
+)
+ident(
+  int_ref hd "Homework 1/intro.ml" 502 16003 16006 "Homework 1/intro.ml" 502 16003 16008
+)
+"Homework 1/intro.ml" 502 16003 16025 "Homework 1/intro.ml" 502 16003 16030
+type(
+  int list -> int list -> int list
+)
+ident(
+  int_ref merge "Homework 1/intro.ml" 499 15905 15913 "Homework 1/intro.ml" 499 15905 15918
+)
+"Homework 1/intro.ml" 502 16003 16031 "Homework 1/intro.ml" 502 16003 16033
+type(
+  int list
+)
+ident(
+  int_ref tl "Homework 1/intro.ml" 502 16003 16010 "Homework 1/intro.ml" 502 16003 16012
+)
+"Homework 1/intro.ml" 502 16003 16034 "Homework 1/intro.ml" 502 16003 16036
+type(
+  int list
+)
+"Homework 1/intro.ml" 502 16003 16024 "Homework 1/intro.ml" 502 16003 16037
+call(
+  stack
+)
+type(
+  int list
+)
+"Homework 1/intro.ml" 502 16003 16020 "Homework 1/intro.ml" 502 16003 16037
+type(
+  int list
+)
+"Homework 1/intro.ml" 503 16039 16042 "Homework 1/intro.ml" 503 16039 16044
+type(
+  int list
+)
+"Homework 1/intro.ml" 503 16039 16046 "Homework 1/intro.ml" 503 16039 16048
+type(
+  int
+)
+ident(
+  def hd "Homework 1/intro.ml" 503 16039 16056 "Homework 1/intro.ml" 503 16039 16073
+)
+"Homework 1/intro.ml" 503 16039 16050 "Homework 1/intro.ml" 503 16039 16052
+type(
+  int list
+)
+ident(
+  def tl "Homework 1/intro.ml" 503 16039 16056 "Homework 1/intro.ml" 503 16039 16073
+)
+"Homework 1/intro.ml" 503 16039 16046 "Homework 1/intro.ml" 503 16039 16052
+type(
+  int list
+)
+"Homework 1/intro.ml" 503 16039 16042 "Homework 1/intro.ml" 503 16039 16052
+type(
+  int list * int list
+)
+"Homework 1/intro.ml" 503 16039 16056 "Homework 1/intro.ml" 503 16039 16058
+type(
+  int
+)
+ident(
+  int_ref hd "Homework 1/intro.ml" 503 16039 16046 "Homework 1/intro.ml" 503 16039 16048
+)
+"Homework 1/intro.ml" 503 16039 16061 "Homework 1/intro.ml" 503 16039 16066
+type(
+  int list -> int list -> int list
+)
+ident(
+  int_ref merge "Homework 1/intro.ml" 499 15905 15913 "Homework 1/intro.ml" 499 15905 15918
+)
+"Homework 1/intro.ml" 503 16039 16067 "Homework 1/intro.ml" 503 16039 16069
+type(
+  int list
+)
+"Homework 1/intro.ml" 503 16039 16070 "Homework 1/intro.ml" 503 16039 16072
+type(
+  int list
+)
+ident(
+  int_ref tl "Homework 1/intro.ml" 503 16039 16050 "Homework 1/intro.ml" 503 16039 16052
+)
+"Homework 1/intro.ml" 503 16039 16060 "Homework 1/intro.ml" 503 16039 16073
+call(
+  stack
+)
+type(
+  int list
+)
+"Homework 1/intro.ml" 503 16039 16056 "Homework 1/intro.ml" 503 16039 16073
+type(
+  int list
+)
+"Homework 1/intro.ml" 504 16076 16079 "Homework 1/intro.ml" 504 16076 16082
+type(
+  int
+)
+ident(
+  def hd1 "Homework 1/intro.ml" 504 16076 16095 "Homework 1/intro.ml" 504 16076 16114
+)
+"Homework 1/intro.ml" 504 16076 16084 "Homework 1/intro.ml" 504 16076 16087
+type(
+  int list
+)
+ident(
+  def tl1 "Homework 1/intro.ml" 504 16076 16095 "Homework 1/intro.ml" 504 16076 16114
+)
+"Homework 1/intro.ml" 504 16076 16079 "Homework 1/intro.ml" 504 16076 16087
+type(
+  int list
+)
+"Homework 1/intro.ml" 504 16076 16089 "Homework 1/intro.ml" 504 16076 16091
+type(
+  int list
+)
+ident(
+  def l2 "Homework 1/intro.ml" 504 16076 16095 "Homework 1/intro.ml" 504 16076 16114
+)
+"Homework 1/intro.ml" 504 16076 16079 "Homework 1/intro.ml" 504 16076 16091
+type(
+  int list * int list
+)
+"Homework 1/intro.ml" 504 16076 16095 "Homework 1/intro.ml" 504 16076 16098
+type(
+  int
+)
+ident(
+  int_ref hd1 "Homework 1/intro.ml" 504 16076 16079 "Homework 1/intro.ml" 504 16076 16082
+)
+"Homework 1/intro.ml" 504 16076 16101 "Homework 1/intro.ml" 504 16076 16106
+type(
+  int list -> int list -> int list
+)
+ident(
+  int_ref merge "Homework 1/intro.ml" 499 15905 15913 "Homework 1/intro.ml" 499 15905 15918
+)
+"Homework 1/intro.ml" 504 16076 16107 "Homework 1/intro.ml" 504 16076 16109
+type(
+  int list
+)
+ident(
+  int_ref l2 "Homework 1/intro.ml" 504 16076 16089 "Homework 1/intro.ml" 504 16076 16091
+)
+"Homework 1/intro.ml" 504 16076 16110 "Homework 1/intro.ml" 504 16076 16113
+type(
+  int list
+)
+ident(
+  int_ref tl1 "Homework 1/intro.ml" 504 16076 16084 "Homework 1/intro.ml" 504 16076 16087
+)
+"Homework 1/intro.ml" 504 16076 16100 "Homework 1/intro.ml" 504 16076 16114
+call(
+  stack
+)
+type(
+  int list
+)
+"Homework 1/intro.ml" 504 16076 16095 "Homework 1/intro.ml" 504 16076 16114
+type(
+  int list
+)
+"Homework 1/intro.ml" 500 15961 15963 "Homework 1/intro.ml" 505 16116 16120
+type(
+  int list
+)
+type(
+  int list
+)
+"Homework 1/intro.ml" 508 16126 16130 "Homework 1/intro.ml" 508 16126 16134
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 510 16199 16202 --
+)
+"Homework 1/intro.ml" 508 16126 16135 "Homework 1/intro.ml" 508 16126 16137
+type(
+  unit
+)
+"Homework 1/intro.ml" 509 16148 16151 "Homework 1/intro.ml" 509 16148 16156
+type(
+  int list -> int list -> int list
+)
+ident(
+  int_ref merge "Homework 1/intro.ml" 499 15905 15913 "Homework 1/intro.ml" 499 15905 15918
+)
+"Homework 1/intro.ml" 509 16148 16158 "Homework 1/intro.ml" 509 16148 16159
+type(
+  int
+)
+"Homework 1/intro.ml" 509 16148 16160 "Homework 1/intro.ml" 509 16148 16161
+type(
+  int
+)
+"Homework 1/intro.ml" 509 16148 16162 "Homework 1/intro.ml" 509 16148 16163
+type(
+  int
+)
+"Homework 1/intro.ml" 509 16148 16164 "Homework 1/intro.ml" 509 16148 16165
+type(
+  int
+)
+"Homework 1/intro.ml" 509 16148 16157 "Homework 1/intro.ml" 509 16148 16166
+type(
+  int list
+)
+"Homework 1/intro.ml" 509 16148 16168 "Homework 1/intro.ml" 509 16148 16169
+type(
+  int
+)
+"Homework 1/intro.ml" 509 16148 16170 "Homework 1/intro.ml" 509 16148 16171
+type(
+  int
+)
+"Homework 1/intro.ml" 509 16148 16172 "Homework 1/intro.ml" 509 16148 16173
+type(
+  int
+)
+"Homework 1/intro.ml" 509 16148 16174 "Homework 1/intro.ml" 509 16148 16175
+type(
+  int
+)
+"Homework 1/intro.ml" 509 16148 16167 "Homework 1/intro.ml" 509 16148 16176
+type(
+  int list
+)
+"Homework 1/intro.ml" 509 16148 16150 "Homework 1/intro.ml" 509 16148 16177
+call(
+  stack
+)
+type(
+  int list
+)
+"Homework 1/intro.ml" 509 16148 16178 "Homework 1/intro.ml" 509 16148 16179
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 509 16148 16181 "Homework 1/intro.ml" 509 16148 16182
+type(
+  int
+)
+"Homework 1/intro.ml" 509 16148 16183 "Homework 1/intro.ml" 509 16148 16184
+type(
+  int
+)
+"Homework 1/intro.ml" 509 16148 16185 "Homework 1/intro.ml" 509 16148 16186
+type(
+  int
+)
+"Homework 1/intro.ml" 509 16148 16187 "Homework 1/intro.ml" 509 16148 16188
+type(
+  int
+)
+"Homework 1/intro.ml" 509 16148 16189 "Homework 1/intro.ml" 509 16148 16190
+type(
+  int
+)
+"Homework 1/intro.ml" 509 16148 16191 "Homework 1/intro.ml" 509 16148 16192
+type(
+  int
+)
+"Homework 1/intro.ml" 509 16148 16193 "Homework 1/intro.ml" 509 16148 16194
+type(
+  int
+)
+"Homework 1/intro.ml" 509 16148 16195 "Homework 1/intro.ml" 509 16148 16196
+type(
+  int
+)
+"Homework 1/intro.ml" 509 16148 16180 "Homework 1/intro.ml" 509 16148 16197
+type(
+  int list
+)
+"Homework 1/intro.ml" 509 16148 16150 "Homework 1/intro.ml" 509 16148 16197
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 510 16199 16202 "Homework 1/intro.ml" 510 16199 16210
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 510 16199 16211 "Homework 1/intro.ml" 510 16199 16238
+type(
+  string
+)
+"Homework 1/intro.ml" 510 16199 16239 "Homework 1/intro.ml" 510 16199 16243
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 508 16126 16130 "Homework 1/intro.ml" 508 16126 16134
+)
+"Homework 1/intro.ml" 510 16199 16202 "Homework 1/intro.ml" 510 16199 16243
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 512 16247 16251 "Homework 1/intro.ml" 512 16247 16255
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 514 16301 16304 --
+)
+"Homework 1/intro.ml" 512 16247 16256 "Homework 1/intro.ml" 512 16247 16258
+type(
+  unit
+)
+"Homework 1/intro.ml" 513 16269 16272 "Homework 1/intro.ml" 513 16269 16277
+type(
+  int list -> int list -> int list
+)
+ident(
+  int_ref merge "Homework 1/intro.ml" 499 15905 15913 "Homework 1/intro.ml" 499 15905 15918
+)
+"Homework 1/intro.ml" 513 16269 16278 "Homework 1/intro.ml" 513 16269 16280
+type(
+  int list
+)
+"Homework 1/intro.ml" 513 16269 16282 "Homework 1/intro.ml" 513 16269 16283
+type(
+  int
+)
+"Homework 1/intro.ml" 513 16269 16284 "Homework 1/intro.ml" 513 16269 16285
+type(
+  int
+)
+"Homework 1/intro.ml" 513 16269 16286 "Homework 1/intro.ml" 513 16269 16287
+type(
+  int
+)
+"Homework 1/intro.ml" 513 16269 16281 "Homework 1/intro.ml" 513 16269 16288
+type(
+  int list
+)
+"Homework 1/intro.ml" 513 16269 16271 "Homework 1/intro.ml" 513 16269 16289
+call(
+  stack
+)
+type(
+  int list
+)
+"Homework 1/intro.ml" 513 16269 16290 "Homework 1/intro.ml" 513 16269 16291
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 513 16269 16293 "Homework 1/intro.ml" 513 16269 16294
+type(
+  int
+)
+"Homework 1/intro.ml" 513 16269 16295 "Homework 1/intro.ml" 513 16269 16296
+type(
+  int
+)
+"Homework 1/intro.ml" 513 16269 16297 "Homework 1/intro.ml" 513 16269 16298
+type(
+  int
+)
+"Homework 1/intro.ml" 513 16269 16292 "Homework 1/intro.ml" 513 16269 16299
+type(
+  int list
+)
+"Homework 1/intro.ml" 513 16269 16271 "Homework 1/intro.ml" 513 16269 16299
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 514 16301 16304 "Homework 1/intro.ml" 514 16301 16312
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 514 16301 16313 "Homework 1/intro.ml" 514 16301 16331
+type(
+  string
+)
+"Homework 1/intro.ml" 514 16301 16332 "Homework 1/intro.ml" 514 16301 16336
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 512 16247 16251 "Homework 1/intro.ml" 512 16247 16255
+)
+"Homework 1/intro.ml" 514 16301 16304 "Homework 1/intro.ml" 514 16301 16336
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 516 16340 16344 "Homework 1/intro.ml" 516 16340 16348
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 518 16395 16398 --
+)
+"Homework 1/intro.ml" 516 16340 16349 "Homework 1/intro.ml" 516 16340 16351
+type(
+  unit
+)
+"Homework 1/intro.ml" 517 16363 16366 "Homework 1/intro.ml" 517 16363 16371
+type(
+  int list -> int list -> int list
+)
+ident(
+  int_ref merge "Homework 1/intro.ml" 499 15905 15913 "Homework 1/intro.ml" 499 15905 15918
+)
+"Homework 1/intro.ml" 517 16363 16373 "Homework 1/intro.ml" 517 16363 16374
+type(
+  int
+)
+"Homework 1/intro.ml" 517 16363 16375 "Homework 1/intro.ml" 517 16363 16376
+type(
+  int
+)
+"Homework 1/intro.ml" 517 16363 16377 "Homework 1/intro.ml" 517 16363 16378
+type(
+  int
+)
+"Homework 1/intro.ml" 517 16363 16372 "Homework 1/intro.ml" 517 16363 16379
+type(
+  int list
+)
+"Homework 1/intro.ml" 517 16363 16380 "Homework 1/intro.ml" 517 16363 16382
+type(
+  int list
+)
+"Homework 1/intro.ml" 517 16363 16365 "Homework 1/intro.ml" 517 16363 16383
+call(
+  stack
+)
+type(
+  int list
+)
+"Homework 1/intro.ml" 517 16363 16384 "Homework 1/intro.ml" 517 16363 16385
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 517 16363 16387 "Homework 1/intro.ml" 517 16363 16388
+type(
+  int
+)
+"Homework 1/intro.ml" 517 16363 16389 "Homework 1/intro.ml" 517 16363 16390
+type(
+  int
+)
+"Homework 1/intro.ml" 517 16363 16391 "Homework 1/intro.ml" 517 16363 16392
+type(
+  int
+)
+"Homework 1/intro.ml" 517 16363 16386 "Homework 1/intro.ml" 517 16363 16393
+type(
+  int list
+)
+"Homework 1/intro.ml" 517 16363 16365 "Homework 1/intro.ml" 517 16363 16393
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 518 16395 16398 "Homework 1/intro.ml" 518 16395 16406
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 518 16395 16407 "Homework 1/intro.ml" 518 16395 16425
+type(
+  string
+)
+"Homework 1/intro.ml" 518 16395 16426 "Homework 1/intro.ml" 518 16395 16430
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 516 16340 16344 "Homework 1/intro.ml" 516 16340 16348
+)
+"Homework 1/intro.ml" 518 16395 16398 "Homework 1/intro.ml" 518 16395 16430
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 520 16434 16438 "Homework 1/intro.ml" 520 16434 16442
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 522 16478 16481 --
+)
+"Homework 1/intro.ml" 520 16434 16443 "Homework 1/intro.ml" 520 16434 16445
+type(
+  unit
+)
+"Homework 1/intro.ml" 521 16456 16459 "Homework 1/intro.ml" 521 16456 16464
+type(
+  int list -> int list -> int list
+)
+ident(
+  int_ref merge "Homework 1/intro.ml" 499 15905 15913 "Homework 1/intro.ml" 499 15905 15918
+)
+"Homework 1/intro.ml" 521 16456 16465 "Homework 1/intro.ml" 521 16456 16467
+type(
+  int list
+)
+"Homework 1/intro.ml" 521 16456 16468 "Homework 1/intro.ml" 521 16456 16470
+type(
+  int list
+)
+"Homework 1/intro.ml" 521 16456 16458 "Homework 1/intro.ml" 521 16456 16471
+call(
+  stack
+)
+type(
+  int list
+)
+"Homework 1/intro.ml" 521 16456 16472 "Homework 1/intro.ml" 521 16456 16473
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 521 16456 16474 "Homework 1/intro.ml" 521 16456 16476
+type(
+  int list
+)
+"Homework 1/intro.ml" 521 16456 16458 "Homework 1/intro.ml" 521 16456 16476
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 522 16478 16481 "Homework 1/intro.ml" 522 16478 16489
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 522 16478 16490 "Homework 1/intro.ml" 522 16478 16503
+type(
+  string
+)
+"Homework 1/intro.ml" 522 16478 16504 "Homework 1/intro.ml" 522 16478 16508
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 520 16434 16438 "Homework 1/intro.ml" 520 16434 16442
+)
+"Homework 1/intro.ml" 522 16478 16481 "Homework 1/intro.ml" 522 16478 16508
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 532 16903 16911 "Homework 1/intro.ml" 532 16903 16920
+type(
+  int list -> bool
+)
+ident(
+  def is_sorted "Homework 1/intro.ml" 532 16903 16903 --
+)
+"Homework 1/intro.ml" 532 16903 16922 "Homework 1/intro.ml" 532 16903 16923
+type(
+  int list
+)
+ident(
+  def l "Homework 1/intro.ml" 532 16903 16934 "Homework 1/intro.ml" 537 17066 17070
+)
+"Homework 1/intro.ml" 533 16944 16958 "Homework 1/intro.ml" 533 16944 16959
+type(
+  int list
+)
+ident(
+  int_ref l "Homework 1/intro.ml" 532 16903 16922 "Homework 1/intro.ml" 532 16903 16923
+)
+"Homework 1/intro.ml" 534 16966 16969 "Homework 1/intro.ml" 534 16966 16971
+type(
+  int list
+)
+"Homework 1/intro.ml" 534 16966 16975 "Homework 1/intro.ml" 534 16966 16979
+type(
+  bool
+)
+"Homework 1/intro.ml" 535 16981 16984 "Homework 1/intro.ml" 535 16981 16985
+type(
+  int
+)
+"Homework 1/intro.ml" 535 16981 16987 "Homework 1/intro.ml" 535 16981 16989
+type(
+  int list
+)
+"Homework 1/intro.ml" 535 16981 16984 "Homework 1/intro.ml" 535 16981 16989
+type(
+  int list
+)
+"Homework 1/intro.ml" 535 16981 16993 "Homework 1/intro.ml" 535 16981 16997
+type(
+  bool
+)
+"Homework 1/intro.ml" 536 16999 17002 "Homework 1/intro.ml" 536 16999 17004
+type(
+  int
+)
+ident(
+  def hd "Homework 1/intro.ml" 536 16999 17016 "Homework 1/intro.ml" 536 16999 17064
+)
+"Homework 1/intro.ml" 536 16999 17006 "Homework 1/intro.ml" 536 16999 17008
+type(
+  int
+)
+ident(
+  def md "Homework 1/intro.ml" 536 16999 17016 "Homework 1/intro.ml" 536 16999 17064
+)
+"Homework 1/intro.ml" 536 16999 17010 "Homework 1/intro.ml" 536 16999 17012
+type(
+  int list
+)
+ident(
+  def tl "Homework 1/intro.ml" 536 16999 17016 "Homework 1/intro.ml" 536 16999 17064
+)
+"Homework 1/intro.ml" 536 16999 17006 "Homework 1/intro.ml" 536 16999 17012
+type(
+  int list
+)
+"Homework 1/intro.ml" 536 16999 17002 "Homework 1/intro.ml" 536 16999 17012
+type(
+  int list
+)
+"Homework 1/intro.ml" 536 16999 17019 "Homework 1/intro.ml" 536 16999 17021
+type(
+  int
+)
+ident(
+  int_ref hd "Homework 1/intro.ml" 536 16999 17002 "Homework 1/intro.ml" 536 16999 17004
+)
+"Homework 1/intro.ml" 536 16999 17022 "Homework 1/intro.ml" 536 16999 17024
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( <= )
+)
+"Homework 1/intro.ml" 536 16999 17025 "Homework 1/intro.ml" 536 16999 17027
+type(
+  int
+)
+ident(
+  int_ref md "Homework 1/intro.ml" 536 16999 17006 "Homework 1/intro.ml" 536 16999 17008
+)
+"Homework 1/intro.ml" 536 16999 17019 "Homework 1/intro.ml" 536 16999 17027
+type(
+  bool
+)
+"Homework 1/intro.ml" 536 16999 17034 "Homework 1/intro.ml" 536 16999 17043
+type(
+  int list -> bool
+)
+ident(
+  int_ref is_sorted "Homework 1/intro.ml" 532 16903 16911 "Homework 1/intro.ml" 532 16903 16920
+)
+"Homework 1/intro.ml" 536 16999 17045 "Homework 1/intro.ml" 536 16999 17047
+type(
+  int
+)
+ident(
+  int_ref md "Homework 1/intro.ml" 536 16999 17006 "Homework 1/intro.ml" 536 16999 17008
+)
+"Homework 1/intro.ml" 536 16999 17049 "Homework 1/intro.ml" 536 16999 17051
+type(
+  int list
+)
+ident(
+  int_ref tl "Homework 1/intro.ml" 536 16999 17010 "Homework 1/intro.ml" 536 16999 17012
+)
+"Homework 1/intro.ml" 536 16999 17044 "Homework 1/intro.ml" 536 16999 17052
+type(
+  int list
+)
+"Homework 1/intro.ml" 536 16999 17033 "Homework 1/intro.ml" 536 16999 17053
+call(
+  tail
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 536 16999 17059 "Homework 1/intro.ml" 536 16999 17064
+type(
+  bool
+)
+"Homework 1/intro.ml" 536 16999 17016 "Homework 1/intro.ml" 536 16999 17064
+type(
+  bool
+)
+"Homework 1/intro.ml" 533 16944 16946 "Homework 1/intro.ml" 537 17066 17070
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 539 17075 17079 "Homework 1/intro.ml" 539 17075 17083
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 541 17127 17130 --
+)
+"Homework 1/intro.ml" 539 17075 17084 "Homework 1/intro.ml" 539 17075 17086
+type(
+  unit
+)
+"Homework 1/intro.ml" 540 17097 17100 "Homework 1/intro.ml" 540 17097 17109
+type(
+  int list -> bool
+)
+ident(
+  int_ref is_sorted "Homework 1/intro.ml" 532 16903 16911 "Homework 1/intro.ml" 532 16903 16920
+)
+"Homework 1/intro.ml" 540 17097 17111 "Homework 1/intro.ml" 540 17097 17112
+type(
+  int
+)
+"Homework 1/intro.ml" 540 17097 17113 "Homework 1/intro.ml" 540 17097 17114
+type(
+  int
+)
+"Homework 1/intro.ml" 540 17097 17115 "Homework 1/intro.ml" 540 17097 17116
+type(
+  int
+)
+"Homework 1/intro.ml" 540 17097 17110 "Homework 1/intro.ml" 540 17097 17117
+type(
+  int list
+)
+"Homework 1/intro.ml" 540 17097 17099 "Homework 1/intro.ml" 540 17097 17118
+call(
+  stack
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 540 17097 17119 "Homework 1/intro.ml" 540 17097 17120
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 540 17097 17121 "Homework 1/intro.ml" 540 17097 17125
+type(
+  bool
+)
+"Homework 1/intro.ml" 540 17097 17099 "Homework 1/intro.ml" 540 17097 17125
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 541 17127 17130 "Homework 1/intro.ml" 541 17127 17138
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 541 17127 17139 "Homework 1/intro.ml" 541 17127 17158
+type(
+  string
+)
+"Homework 1/intro.ml" 541 17127 17159 "Homework 1/intro.ml" 541 17127 17163
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 539 17075 17079 "Homework 1/intro.ml" 539 17075 17083
+)
+"Homework 1/intro.ml" 541 17127 17130 "Homework 1/intro.ml" 541 17127 17163
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 543 17167 17171 "Homework 1/intro.ml" 543 17167 17175
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 545 17220 17223 --
+)
+"Homework 1/intro.ml" 543 17167 17176 "Homework 1/intro.ml" 543 17167 17178
+type(
+  unit
+)
+"Homework 1/intro.ml" 544 17189 17192 "Homework 1/intro.ml" 544 17189 17201
+type(
+  int list -> bool
+)
+ident(
+  int_ref is_sorted "Homework 1/intro.ml" 532 16903 16911 "Homework 1/intro.ml" 532 16903 16920
+)
+"Homework 1/intro.ml" 544 17189 17203 "Homework 1/intro.ml" 544 17189 17204
+type(
+  int
+)
+"Homework 1/intro.ml" 544 17189 17205 "Homework 1/intro.ml" 544 17189 17206
+type(
+  int
+)
+"Homework 1/intro.ml" 544 17189 17207 "Homework 1/intro.ml" 544 17189 17208
+type(
+  int
+)
+"Homework 1/intro.ml" 544 17189 17202 "Homework 1/intro.ml" 544 17189 17209
+type(
+  int list
+)
+"Homework 1/intro.ml" 544 17189 17191 "Homework 1/intro.ml" 544 17189 17210
+call(
+  stack
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 544 17189 17211 "Homework 1/intro.ml" 544 17189 17212
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 544 17189 17213 "Homework 1/intro.ml" 544 17189 17218
+type(
+  bool
+)
+"Homework 1/intro.ml" 544 17189 17191 "Homework 1/intro.ml" 544 17189 17218
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 545 17220 17223 "Homework 1/intro.ml" 545 17220 17231
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 545 17220 17232 "Homework 1/intro.ml" 545 17220 17251
+type(
+  string
+)
+"Homework 1/intro.ml" 545 17220 17252 "Homework 1/intro.ml" 545 17220 17256
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 543 17167 17171 "Homework 1/intro.ml" 543 17167 17175
+)
+"Homework 1/intro.ml" 545 17220 17223 "Homework 1/intro.ml" 545 17220 17256
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 547 17260 17264 "Homework 1/intro.ml" 547 17260 17268
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 549 17308 17311 --
+)
+"Homework 1/intro.ml" 547 17260 17269 "Homework 1/intro.ml" 547 17260 17271
+type(
+  unit
+)
+"Homework 1/intro.ml" 548 17283 17286 "Homework 1/intro.ml" 548 17283 17295
+type(
+  int list -> bool
+)
+ident(
+  int_ref is_sorted "Homework 1/intro.ml" 532 16903 16911 "Homework 1/intro.ml" 532 16903 16920
+)
+"Homework 1/intro.ml" 548 17283 17296 "Homework 1/intro.ml" 548 17283 17298
+type(
+  int list
+)
+"Homework 1/intro.ml" 548 17283 17285 "Homework 1/intro.ml" 548 17283 17299
+call(
+  stack
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 548 17283 17300 "Homework 1/intro.ml" 548 17283 17301
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 548 17283 17302 "Homework 1/intro.ml" 548 17283 17306
+type(
+  bool
+)
+"Homework 1/intro.ml" 548 17283 17285 "Homework 1/intro.ml" 548 17283 17306
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 549 17308 17311 "Homework 1/intro.ml" 549 17308 17319
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 549 17308 17320 "Homework 1/intro.ml" 549 17308 17334
+type(
+  string
+)
+"Homework 1/intro.ml" 549 17308 17335 "Homework 1/intro.ml" 549 17308 17339
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 547 17260 17264 "Homework 1/intro.ml" 547 17260 17268
+)
+"Homework 1/intro.ml" 549 17308 17311 "Homework 1/intro.ml" 549 17308 17339
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 551 17343 17347 "Homework 1/intro.ml" 551 17343 17351
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 553 17391 17394 --
+)
+"Homework 1/intro.ml" 551 17343 17352 "Homework 1/intro.ml" 551 17343 17354
+type(
+  unit
+)
+"Homework 1/intro.ml" 552 17365 17368 "Homework 1/intro.ml" 552 17365 17377
+type(
+  int list -> bool
+)
+ident(
+  int_ref is_sorted "Homework 1/intro.ml" 532 16903 16911 "Homework 1/intro.ml" 532 16903 16920
+)
+"Homework 1/intro.ml" 552 17365 17379 "Homework 1/intro.ml" 552 17365 17380
+type(
+  int
+)
+"Homework 1/intro.ml" 552 17365 17378 "Homework 1/intro.ml" 552 17365 17381
+type(
+  int list
+)
+"Homework 1/intro.ml" 552 17365 17367 "Homework 1/intro.ml" 552 17365 17382
+call(
+  stack
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 552 17365 17383 "Homework 1/intro.ml" 552 17365 17384
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 552 17365 17385 "Homework 1/intro.ml" 552 17365 17389
+type(
+  bool
+)
+"Homework 1/intro.ml" 552 17365 17367 "Homework 1/intro.ml" 552 17365 17389
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 553 17391 17394 "Homework 1/intro.ml" 553 17391 17402
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 553 17391 17403 "Homework 1/intro.ml" 553 17391 17417
+type(
+  string
+)
+"Homework 1/intro.ml" 553 17391 17418 "Homework 1/intro.ml" 553 17391 17422
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 551 17343 17347 "Homework 1/intro.ml" 551 17343 17351
+)
+"Homework 1/intro.ml" 553 17391 17394 "Homework 1/intro.ml" 553 17391 17422
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 563 17806 17814 "Homework 1/intro.ml" 563 17806 17826
+type(
+  int list -> int list -> int list
+)
+ident(
+  def merge_sorted "Homework 1/intro.ml" 563 17806 17806 --
+)
+"Homework 1/intro.ml" 563 17806 17828 "Homework 1/intro.ml" 563 17806 17830
+type(
+  int list
+)
+ident(
+  def l1 "Homework 1/intro.ml" 563 17806 17841 "Homework 1/intro.ml" 570 18128 18132
+)
+"Homework 1/intro.ml" 563 17806 17842 "Homework 1/intro.ml" 563 17806 17844
+type(
+  int list
+)
+ident(
+  def l2 "Homework 1/intro.ml" 563 17806 17855 "Homework 1/intro.ml" 570 18128 18132
+)
+"Homework 1/intro.ml" 564 17869 17882 "Homework 1/intro.ml" 564 17869 17884
+type(
+  int list
+)
+ident(
+  int_ref l1 "Homework 1/intro.ml" 563 17806 17828 "Homework 1/intro.ml" 563 17806 17830
+)
+"Homework 1/intro.ml" 564 17869 17886 "Homework 1/intro.ml" 564 17869 17888
+type(
+  int list
+)
+ident(
+  int_ref l2 "Homework 1/intro.ml" 563 17806 17842 "Homework 1/intro.ml" 563 17806 17844
+)
+"Homework 1/intro.ml" 564 17869 17882 "Homework 1/intro.ml" 564 17869 17888
+type(
+  int list * int list
+)
+"Homework 1/intro.ml" 565 17895 17898 "Homework 1/intro.ml" 565 17895 17900
+type(
+  int list
+)
+"Homework 1/intro.ml" 565 17895 17901 "Homework 1/intro.ml" 565 17895 17903
+type(
+  int list
+)
+"Homework 1/intro.ml" 565 17895 17898 "Homework 1/intro.ml" 565 17895 17903
+type(
+  int list * int list
+)
+"Homework 1/intro.ml" 565 17895 17907 "Homework 1/intro.ml" 565 17895 17909
+type(
+  int list
+)
+"Homework 1/intro.ml" 566 17911 17914 "Homework 1/intro.ml" 566 17911 17917
+type(
+  int
+)
+ident(
+  def hd1 "Homework 1/intro.ml" 566 17911 17936 "Homework 1/intro.ml" 567 17992 18044
+)
+"Homework 1/intro.ml" 566 17911 17919 "Homework 1/intro.ml" 566 17911 17922
+type(
+  int list
+)
+ident(
+  def tl1 "Homework 1/intro.ml" 566 17911 17936 "Homework 1/intro.ml" 567 17992 18044
+)
+"Homework 1/intro.ml" 566 17911 17914 "Homework 1/intro.ml" 566 17911 17922
+type(
+  int list
+)
+"Homework 1/intro.ml" 566 17911 17924 "Homework 1/intro.ml" 566 17911 17927
+type(
+  int
+)
+ident(
+  def hd2 "Homework 1/intro.ml" 566 17911 17936 "Homework 1/intro.ml" 567 17992 18044
+)
+"Homework 1/intro.ml" 566 17911 17929 "Homework 1/intro.ml" 566 17911 17932
+type(
+  int list
+)
+ident(
+  def tl2 "Homework 1/intro.ml" 566 17911 17936 "Homework 1/intro.ml" 567 17992 18044
+)
+"Homework 1/intro.ml" 566 17911 17924 "Homework 1/intro.ml" 566 17911 17932
+type(
+  int list
+)
+"Homework 1/intro.ml" 566 17911 17914 "Homework 1/intro.ml" 566 17911 17932
+type(
+  int list * int list
+)
+"Homework 1/intro.ml" 566 17911 17939 "Homework 1/intro.ml" 566 17911 17942
+type(
+  int
+)
+ident(
+  int_ref hd1 "Homework 1/intro.ml" 566 17911 17914 "Homework 1/intro.ml" 566 17911 17917
+)
+"Homework 1/intro.ml" 566 17911 17943 "Homework 1/intro.ml" 566 17911 17945
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( <= )
+)
+"Homework 1/intro.ml" 566 17911 17946 "Homework 1/intro.ml" 566 17911 17949
+type(
+  int
+)
+ident(
+  int_ref hd2 "Homework 1/intro.ml" 566 17911 17924 "Homework 1/intro.ml" 566 17911 17927
+)
+"Homework 1/intro.ml" 566 17911 17939 "Homework 1/intro.ml" 566 17911 17949
+type(
+  bool
+)
+"Homework 1/intro.ml" 566 17911 17955 "Homework 1/intro.ml" 566 17911 17958
+type(
+  int
+)
+ident(
+  int_ref hd1 "Homework 1/intro.ml" 566 17911 17914 "Homework 1/intro.ml" 566 17911 17917
+)
+"Homework 1/intro.ml" 566 17911 17961 "Homework 1/intro.ml" 566 17911 17973
+type(
+  int list -> int list -> int list
+)
+ident(
+  int_ref merge_sorted "Homework 1/intro.ml" 563 17806 17814 "Homework 1/intro.ml" 563 17806 17826
+)
+"Homework 1/intro.ml" 566 17911 17974 "Homework 1/intro.ml" 566 17911 17977
+type(
+  int list
+)
+ident(
+  int_ref tl1 "Homework 1/intro.ml" 566 17911 17919 "Homework 1/intro.ml" 566 17911 17922
+)
+"Homework 1/intro.ml" 566 17911 17979 "Homework 1/intro.ml" 566 17911 17982
+type(
+  int
+)
+ident(
+  int_ref hd2 "Homework 1/intro.ml" 566 17911 17924 "Homework 1/intro.ml" 566 17911 17927
+)
+"Homework 1/intro.ml" 566 17911 17984 "Homework 1/intro.ml" 566 17911 17987
+type(
+  int list
+)
+ident(
+  int_ref tl2 "Homework 1/intro.ml" 566 17911 17929 "Homework 1/intro.ml" 566 17911 17932
+)
+"Homework 1/intro.ml" 566 17911 17978 "Homework 1/intro.ml" 566 17911 17988
+type(
+  int list
+)
+"Homework 1/intro.ml" 566 17911 17960 "Homework 1/intro.ml" 566 17911 17989
+call(
+  stack
+)
+type(
+  int list
+)
+"Homework 1/intro.ml" 566 17911 17955 "Homework 1/intro.ml" 566 17911 17989
+type(
+  int list
+)
+"Homework 1/intro.ml" 567 17992 18010 "Homework 1/intro.ml" 567 17992 18013
+type(
+  int
+)
+ident(
+  int_ref hd2 "Homework 1/intro.ml" 566 17911 17924 "Homework 1/intro.ml" 566 17911 17927
+)
+"Homework 1/intro.ml" 567 17992 18016 "Homework 1/intro.ml" 567 17992 18028
+type(
+  int list -> int list -> int list
+)
+ident(
+  int_ref merge_sorted "Homework 1/intro.ml" 563 17806 17814 "Homework 1/intro.ml" 563 17806 17826
+)
+"Homework 1/intro.ml" 567 17992 18030 "Homework 1/intro.ml" 567 17992 18033
+type(
+  int
+)
+ident(
+  int_ref hd1 "Homework 1/intro.ml" 566 17911 17914 "Homework 1/intro.ml" 566 17911 17917
+)
+"Homework 1/intro.ml" 567 17992 18035 "Homework 1/intro.ml" 567 17992 18038
+type(
+  int list
+)
+ident(
+  int_ref tl1 "Homework 1/intro.ml" 566 17911 17919 "Homework 1/intro.ml" 566 17911 17922
+)
+"Homework 1/intro.ml" 567 17992 18029 "Homework 1/intro.ml" 567 17992 18039
+type(
+  int list
+)
+"Homework 1/intro.ml" 567 17992 18040 "Homework 1/intro.ml" 567 17992 18043
+type(
+  int list
+)
+ident(
+  int_ref tl2 "Homework 1/intro.ml" 566 17911 17929 "Homework 1/intro.ml" 566 17911 17932
+)
+"Homework 1/intro.ml" 567 17992 18015 "Homework 1/intro.ml" 567 17992 18044
+call(
+  stack
+)
+type(
+  int list
+)
+"Homework 1/intro.ml" 567 17992 18010 "Homework 1/intro.ml" 567 17992 18044
+type(
+  int list
+)
+"Homework 1/intro.ml" 566 17911 17936 "Homework 1/intro.ml" 567 17992 18044
+type(
+  int list
+)
+"Homework 1/intro.ml" 568 18046 18049 "Homework 1/intro.ml" 568 18046 18051
+type(
+  int list
+)
+"Homework 1/intro.ml" 568 18046 18053 "Homework 1/intro.ml" 568 18046 18055
+type(
+  int
+)
+ident(
+  def hd "Homework 1/intro.ml" 568 18046 18063 "Homework 1/intro.ml" 568 18046 18085
+)
+"Homework 1/intro.ml" 568 18046 18057 "Homework 1/intro.ml" 568 18046 18059
+type(
+  int list
+)
+ident(
+  def tl "Homework 1/intro.ml" 568 18046 18063 "Homework 1/intro.ml" 568 18046 18085
+)
+"Homework 1/intro.ml" 568 18046 18053 "Homework 1/intro.ml" 568 18046 18059
+type(
+  int list
+)
+"Homework 1/intro.ml" 568 18046 18049 "Homework 1/intro.ml" 568 18046 18059
+type(
+  int list * int list
+)
+"Homework 1/intro.ml" 568 18046 18063 "Homework 1/intro.ml" 568 18046 18065
+type(
+  int
+)
+ident(
+  int_ref hd "Homework 1/intro.ml" 568 18046 18053 "Homework 1/intro.ml" 568 18046 18055
+)
+"Homework 1/intro.ml" 568 18046 18067 "Homework 1/intro.ml" 568 18046 18079
+type(
+  int list -> int list -> int list
+)
+ident(
+  int_ref merge_sorted "Homework 1/intro.ml" 563 17806 17814 "Homework 1/intro.ml" 563 17806 17826
+)
+"Homework 1/intro.ml" 568 18046 18080 "Homework 1/intro.ml" 568 18046 18082
+type(
+  int list
+)
+"Homework 1/intro.ml" 568 18046 18083 "Homework 1/intro.ml" 568 18046 18085
+type(
+  int list
+)
+ident(
+  int_ref tl "Homework 1/intro.ml" 568 18046 18057 "Homework 1/intro.ml" 568 18046 18059
+)
+"Homework 1/intro.ml" 568 18046 18067 "Homework 1/intro.ml" 568 18046 18085
+call(
+  stack
+)
+type(
+  int list
+)
+"Homework 1/intro.ml" 568 18046 18063 "Homework 1/intro.ml" 568 18046 18085
+type(
+  int list
+)
+"Homework 1/intro.ml" 569 18087 18090 "Homework 1/intro.ml" 569 18087 18092
+type(
+  int
+)
+ident(
+  def hd "Homework 1/intro.ml" 569 18087 18104 "Homework 1/intro.ml" 569 18087 18126
+)
+"Homework 1/intro.ml" 569 18087 18094 "Homework 1/intro.ml" 569 18087 18096
+type(
+  int list
+)
+ident(
+  def tl "Homework 1/intro.ml" 569 18087 18104 "Homework 1/intro.ml" 569 18087 18126
+)
+"Homework 1/intro.ml" 569 18087 18090 "Homework 1/intro.ml" 569 18087 18096
+type(
+  int list
+)
+"Homework 1/intro.ml" 569 18087 18098 "Homework 1/intro.ml" 569 18087 18100
+type(
+  int list
+)
+"Homework 1/intro.ml" 569 18087 18090 "Homework 1/intro.ml" 569 18087 18100
+type(
+  int list * int list
+)
+"Homework 1/intro.ml" 569 18087 18104 "Homework 1/intro.ml" 569 18087 18106
+type(
+  int
+)
+ident(
+  int_ref hd "Homework 1/intro.ml" 569 18087 18090 "Homework 1/intro.ml" 569 18087 18092
+)
+"Homework 1/intro.ml" 569 18087 18108 "Homework 1/intro.ml" 569 18087 18120
+type(
+  int list -> int list -> int list
+)
+ident(
+  int_ref merge_sorted "Homework 1/intro.ml" 563 17806 17814 "Homework 1/intro.ml" 563 17806 17826
+)
+"Homework 1/intro.ml" 569 18087 18121 "Homework 1/intro.ml" 569 18087 18123
+type(
+  int list
+)
+ident(
+  int_ref tl "Homework 1/intro.ml" 569 18087 18094 "Homework 1/intro.ml" 569 18087 18096
+)
+"Homework 1/intro.ml" 569 18087 18124 "Homework 1/intro.ml" 569 18087 18126
+type(
+  int list
+)
+"Homework 1/intro.ml" 569 18087 18108 "Homework 1/intro.ml" 569 18087 18126
+call(
+  stack
+)
+type(
+  int list
+)
+"Homework 1/intro.ml" 569 18087 18104 "Homework 1/intro.ml" 569 18087 18126
+type(
+  int list
+)
+"Homework 1/intro.ml" 564 17869 17870 "Homework 1/intro.ml" 570 18128 18132
+type(
+  int list
+)
+type(
+  int list
+)
+"Homework 1/intro.ml" 572 18136 18140 "Homework 1/intro.ml" 572 18136 18144
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 574 18206 18209 --
+)
+"Homework 1/intro.ml" 572 18136 18145 "Homework 1/intro.ml" 572 18136 18147
+type(
+  unit
+)
+"Homework 1/intro.ml" 573 18158 18161 "Homework 1/intro.ml" 573 18158 18173
+type(
+  int list -> int list -> int list
+)
+ident(
+  int_ref merge_sorted "Homework 1/intro.ml" 563 17806 17814 "Homework 1/intro.ml" 563 17806 17826
+)
+"Homework 1/intro.ml" 573 18158 18175 "Homework 1/intro.ml" 573 18158 18176
+type(
+  int
+)
+"Homework 1/intro.ml" 573 18158 18177 "Homework 1/intro.ml" 573 18158 18178
+type(
+  int
+)
+"Homework 1/intro.ml" 573 18158 18174 "Homework 1/intro.ml" 573 18158 18179
+type(
+  int list
+)
+"Homework 1/intro.ml" 573 18158 18181 "Homework 1/intro.ml" 573 18158 18182
+type(
+  int
+)
+"Homework 1/intro.ml" 573 18158 18183 "Homework 1/intro.ml" 573 18158 18184
+type(
+  int
+)
+"Homework 1/intro.ml" 573 18158 18185 "Homework 1/intro.ml" 573 18158 18187
+type(
+  int
+)
+"Homework 1/intro.ml" 573 18158 18180 "Homework 1/intro.ml" 573 18158 18188
+type(
+  int list
+)
+"Homework 1/intro.ml" 573 18158 18160 "Homework 1/intro.ml" 573 18158 18189
+call(
+  stack
+)
+type(
+  int list
+)
+"Homework 1/intro.ml" 573 18158 18190 "Homework 1/intro.ml" 573 18158 18191
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 573 18158 18193 "Homework 1/intro.ml" 573 18158 18194
+type(
+  int
+)
+"Homework 1/intro.ml" 573 18158 18195 "Homework 1/intro.ml" 573 18158 18196
+type(
+  int
+)
+"Homework 1/intro.ml" 573 18158 18197 "Homework 1/intro.ml" 573 18158 18198
+type(
+  int
+)
+"Homework 1/intro.ml" 573 18158 18199 "Homework 1/intro.ml" 573 18158 18200
+type(
+  int
+)
+"Homework 1/intro.ml" 573 18158 18201 "Homework 1/intro.ml" 573 18158 18203
+type(
+  int
+)
+"Homework 1/intro.ml" 573 18158 18192 "Homework 1/intro.ml" 573 18158 18204
+type(
+  int list
+)
+"Homework 1/intro.ml" 573 18158 18160 "Homework 1/intro.ml" 573 18158 18204
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 574 18206 18209 "Homework 1/intro.ml" 574 18206 18217
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 574 18206 18218 "Homework 1/intro.ml" 574 18206 18247
+type(
+  string
+)
+"Homework 1/intro.ml" 574 18206 18248 "Homework 1/intro.ml" 574 18206 18252
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 572 18136 18140 "Homework 1/intro.ml" 572 18136 18144
+)
+"Homework 1/intro.ml" 574 18206 18209 "Homework 1/intro.ml" 574 18206 18252
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 576 18256 18260 "Homework 1/intro.ml" 576 18256 18264
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 578 18328 18331 --
+)
+"Homework 1/intro.ml" 576 18256 18265 "Homework 1/intro.ml" 576 18256 18267
+type(
+  unit
+)
+"Homework 1/intro.ml" 577 18278 18281 "Homework 1/intro.ml" 577 18278 18293
+type(
+  int list -> int list -> int list
+)
+ident(
+  int_ref merge_sorted "Homework 1/intro.ml" 563 17806 17814 "Homework 1/intro.ml" 563 17806 17826
+)
+"Homework 1/intro.ml" 577 18278 18295 "Homework 1/intro.ml" 577 18278 18296
+type(
+  int
+)
+"Homework 1/intro.ml" 577 18278 18297 "Homework 1/intro.ml" 577 18278 18298
+type(
+  int
+)
+"Homework 1/intro.ml" 577 18278 18299 "Homework 1/intro.ml" 577 18278 18300
+type(
+  int
+)
+"Homework 1/intro.ml" 577 18278 18294 "Homework 1/intro.ml" 577 18278 18301
+type(
+  int list
+)
+"Homework 1/intro.ml" 577 18278 18303 "Homework 1/intro.ml" 577 18278 18304
+type(
+  int
+)
+"Homework 1/intro.ml" 577 18278 18305 "Homework 1/intro.ml" 577 18278 18306
+type(
+  int
+)
+"Homework 1/intro.ml" 577 18278 18307 "Homework 1/intro.ml" 577 18278 18308
+type(
+  int
+)
+"Homework 1/intro.ml" 577 18278 18302 "Homework 1/intro.ml" 577 18278 18309
+type(
+  int list
+)
+"Homework 1/intro.ml" 577 18278 18280 "Homework 1/intro.ml" 577 18278 18310
+call(
+  stack
+)
+type(
+  int list
+)
+"Homework 1/intro.ml" 577 18278 18311 "Homework 1/intro.ml" 577 18278 18312
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 577 18278 18314 "Homework 1/intro.ml" 577 18278 18315
+type(
+  int
+)
+"Homework 1/intro.ml" 577 18278 18316 "Homework 1/intro.ml" 577 18278 18317
+type(
+  int
+)
+"Homework 1/intro.ml" 577 18278 18318 "Homework 1/intro.ml" 577 18278 18319
+type(
+  int
+)
+"Homework 1/intro.ml" 577 18278 18320 "Homework 1/intro.ml" 577 18278 18321
+type(
+  int
+)
+"Homework 1/intro.ml" 577 18278 18322 "Homework 1/intro.ml" 577 18278 18323
+type(
+  int
+)
+"Homework 1/intro.ml" 577 18278 18324 "Homework 1/intro.ml" 577 18278 18325
+type(
+  int
+)
+"Homework 1/intro.ml" 577 18278 18313 "Homework 1/intro.ml" 577 18278 18326
+type(
+  int list
+)
+"Homework 1/intro.ml" 577 18278 18280 "Homework 1/intro.ml" 577 18278 18326
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 578 18328 18331 "Homework 1/intro.ml" 578 18328 18339
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 578 18328 18340 "Homework 1/intro.ml" 578 18328 18370
+type(
+  string
+)
+"Homework 1/intro.ml" 578 18328 18371 "Homework 1/intro.ml" 578 18328 18375
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 576 18256 18260 "Homework 1/intro.ml" 576 18256 18264
+)
+"Homework 1/intro.ml" 578 18328 18331 "Homework 1/intro.ml" 578 18328 18375
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 580 18379 18383 "Homework 1/intro.ml" 580 18379 18387
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 582 18441 18444 --
+)
+"Homework 1/intro.ml" 580 18379 18388 "Homework 1/intro.ml" 580 18379 18390
+type(
+  unit
+)
+"Homework 1/intro.ml" 581 18402 18405 "Homework 1/intro.ml" 581 18402 18417
+type(
+  int list -> int list -> int list
+)
+ident(
+  int_ref merge_sorted "Homework 1/intro.ml" 563 17806 17814 "Homework 1/intro.ml" 563 17806 17826
+)
+"Homework 1/intro.ml" 581 18402 18419 "Homework 1/intro.ml" 581 18402 18420
+type(
+  int
+)
+"Homework 1/intro.ml" 581 18402 18421 "Homework 1/intro.ml" 581 18402 18422
+type(
+  int
+)
+"Homework 1/intro.ml" 581 18402 18423 "Homework 1/intro.ml" 581 18402 18424
+type(
+  int
+)
+"Homework 1/intro.ml" 581 18402 18418 "Homework 1/intro.ml" 581 18402 18425
+type(
+  int list
+)
+"Homework 1/intro.ml" 581 18402 18426 "Homework 1/intro.ml" 581 18402 18428
+type(
+  int list
+)
+"Homework 1/intro.ml" 581 18402 18404 "Homework 1/intro.ml" 581 18402 18429
+call(
+  stack
+)
+type(
+  int list
+)
+"Homework 1/intro.ml" 581 18402 18430 "Homework 1/intro.ml" 581 18402 18431
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 581 18402 18433 "Homework 1/intro.ml" 581 18402 18434
+type(
+  int
+)
+"Homework 1/intro.ml" 581 18402 18435 "Homework 1/intro.ml" 581 18402 18436
+type(
+  int
+)
+"Homework 1/intro.ml" 581 18402 18437 "Homework 1/intro.ml" 581 18402 18438
+type(
+  int
+)
+"Homework 1/intro.ml" 581 18402 18432 "Homework 1/intro.ml" 581 18402 18439
+type(
+  int list
+)
+"Homework 1/intro.ml" 581 18402 18404 "Homework 1/intro.ml" 581 18402 18439
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 582 18441 18444 "Homework 1/intro.ml" 582 18441 18452
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 582 18441 18453 "Homework 1/intro.ml" 582 18441 18475
+type(
+  string
+)
+"Homework 1/intro.ml" 582 18441 18476 "Homework 1/intro.ml" 582 18441 18480
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 580 18379 18383 "Homework 1/intro.ml" 580 18379 18387
+)
+"Homework 1/intro.ml" 582 18441 18444 "Homework 1/intro.ml" 582 18441 18480
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 584 18484 18488 "Homework 1/intro.ml" 584 18484 18492
+type(
+  unit -> bool
+)
+ident(
+  def test "Homework 1/intro.ml" 586 18535 18538 --
+)
+"Homework 1/intro.ml" 584 18484 18493 "Homework 1/intro.ml" 584 18484 18495
+type(
+  unit
+)
+"Homework 1/intro.ml" 585 18506 18509 "Homework 1/intro.ml" 585 18506 18521
+type(
+  int list -> int list -> int list
+)
+ident(
+  int_ref merge_sorted "Homework 1/intro.ml" 563 17806 17814 "Homework 1/intro.ml" 563 17806 17826
+)
+"Homework 1/intro.ml" 585 18506 18522 "Homework 1/intro.ml" 585 18506 18524
+type(
+  int list
+)
+"Homework 1/intro.ml" 585 18506 18525 "Homework 1/intro.ml" 585 18506 18527
+type(
+  int list
+)
+"Homework 1/intro.ml" 585 18506 18508 "Homework 1/intro.ml" 585 18506 18528
+call(
+  stack
+)
+type(
+  int list
+)
+"Homework 1/intro.ml" 585 18506 18529 "Homework 1/intro.ml" 585 18506 18530
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Homework 1/intro.ml" 585 18506 18531 "Homework 1/intro.ml" 585 18506 18533
+type(
+  int list
+)
+"Homework 1/intro.ml" 585 18506 18508 "Homework 1/intro.ml" 585 18506 18533
+type(
+  bool
+)
+type(
+  bool
+)
+"Homework 1/intro.ml" 586 18535 18538 "Homework 1/intro.ml" 586 18535 18546
+type(
+  string -> (unit -> bool) -> unit
+)
+ident(
+  ext_ref Assert.run_test
+)
+"Homework 1/intro.ml" 586 18535 18547 "Homework 1/intro.ml" 586 18535 18567
+type(
+  string
+)
+"Homework 1/intro.ml" 586 18535 18568 "Homework 1/intro.ml" 586 18535 18572
+type(
+  unit -> bool
+)
+ident(
+  int_ref test "Homework 1/intro.ml" 584 18484 18488 "Homework 1/intro.ml" 584 18484 18492
+)
+"Homework 1/intro.ml" 586 18535 18538 "Homework 1/intro.ml" 586 18535 18572
+call(
+  stack
+)
+type(
+  unit
+)
+"Homework 1/intro.ml" 628 20027 20035 "Homework 1/intro.ml" 628 20027 20047
+type(
+  int list -> int list list
+)
+ident(
+  def permutations "Homework 1/intro.ml" 628 20027 20027 --
+)
+"Homework 1/intro.ml" 628 20027 20049 "Homework 1/intro.ml" 628 20027 20050
+type(
+  int list
+)
+ident(
+  def l "Homework 1/intro.ml" 628 20027 20062 "Homework 1/intro.ml" 629 20081 20121
+)
+"Homework 1/intro.ml" 629 20081 20083 "Homework 1/intro.ml" 629 20081 20091
+type(
+  string -> int list list
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"Homework 1/intro.ml" 629 20081 20092 "Homework 1/intro.ml" 629 20081 20121
+type(
+  string
+)
+"Homework 1/intro.ml" 629 20081 20083 "Homework 1/intro.ml" 629 20081 20121
+call(
+  tail
+)
+type(
+  int list list
+)
+type(
+  int list list
+)
+"Homework 1/intro.ml" 637 20433 20436 "Homework 1/intro.ml" 637 20433 20449
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"Homework 1/intro.ml" 637 20433 20450 "Homework 1/intro.ml" 637 20433 20479
+type(
+  string
+)
+"Homework 1/intro.ml" 637 20433 20436 "Homework 1/intro.ml" 637 20433 20479
+call(
+  stack
+)
+type(
+  unit
+)
